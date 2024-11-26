@@ -17,7 +17,7 @@ In the README, you should try to answer the following questions:
 - Can you explain the decisions you made and why it is the best approach
 - What are your recommendations for future work
 
-## Exercice Onto-X Project
+## Exercice-1 : Onto-X Project
 Let’s call the attached ontology “Onto-X”. Onto-X carries entities representing a hierarchy of
 pathologies. Each entity is described by
 - **Class Id**: representing a unique ID of the entity within the ontology
@@ -25,8 +25,8 @@ pathologies. Each entity is described by
 - **Parents**: representing one or more direct ancestors of the entity. The list of parents is
 separated by a pipe “|”
 
-## Task
-The task is the following:
+### Tasks
+The tasks is the following:
 - Building a logical representation of Onto-X that preserves ancestor relationships (direct and indirect) and consequently enables reconstructing the hierarchy of entities. In other terms, for a given entity, we want to get all its relationships with the rest of the ontology entities. In addition we want to extract the depth of each relationship. For example: given the ID of “CERVIX DISORDER”, the API should return a dictionary of relationships:
 
 ```
@@ -49,9 +49,18 @@ The task is the following:
 
 - Bonus #2: Provide a Docker image of the RestAPI
 
+## Exercise-2: DataViz
+You'll find a sample KOL .pdf report in this repo.
+This document begins with a preface containing a summary of the document, followed by a list of places and people classified by country.
+You'll also find an .xlsx file containing the original data used to create the .pdf file.
+
+### Tasks
+- Create a stand-alone A4 document to add to the preface, containing a list of graphics summarizing the contents of the document.
+- Use csv to create dataviz with real data.
+- You can use any tool to create this A4 page, but you must deliver the code you use.
 
 ## Deadline and Evaluation
 
 If you did not understand one of the instructions, you can contact me here: jeff@arcascience.ai
 
-As a reminder, the test must be returned within 2 days maximum after receiving this email.
+As a reminder, the test must be returned within 3 days maximum after receiving this email.
