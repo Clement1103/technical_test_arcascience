@@ -86,5 +86,34 @@ class MyTestCase(unittest.TestCase):
 
         simple_ontology = get_ontology('a', df)
         self.assertDictEqual(target_ontology, simple_ontology)
+
+    def test_ontology_several_parents(self):
+        df1 = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D'],
+                           'Preferred Label': ['a', 'b', 'c', 'd'],
+                           'Parents': ['B', 'C|D', 'E', 'F']})
+
+        target_ontology1 = {'a': 0,
+                           'b': 1,
+                           'c': 2,
+                           'd': 2,
+                           }
+
+        complex_ontology1 = get_ontology('a', df1)
+        self.assertDictEqual(target_ontology1, complex_ontology1)
+
+        df2 = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D', 'E'],
+                            'Preferred Label': ['a', 'b', 'c', 'd', 'e'],
+                            'Parents': ['B|C', 'None', 'D|E', 'None', 'None']})
+
+        target_ontology2 = {'a': 0,
+                            'b': 1,
+                            'c': 1,
+                            'd': 2,
+                            'e': 2
+                            }
+
+        complex_ontology2 = get_ontology('a', df2)
+        self.assertDictEqual(target_ontology2, complex_ontology2)
+
 if __name__ == '__main__':
     unittest.main()

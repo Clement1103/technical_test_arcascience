@@ -47,15 +47,23 @@ def preprocess_dataframe(dataframe):
     dataframe = identify_cycles(dataframe)
     return dataframe
 
-def get_ontology(entity_label, dataframe):
-    df_tmp = dataframe[dataframe['Preferred Label']==entity_label]
-    i=0
-    ontology = {}
-    while df_tmp.empty == False:
-        parent_id = df_tmp['Parents'].iloc[0]
-        label = df_tmp['Preferred Label'].iloc[0]
-        ontology[label]=i
-        df_tmp = dataframe[dataframe['Class ID']==parent_id]
-        i+=1
+
+def get_ontology(entity_label, dataframe, level=0, ontology=None):
+    if ontology is None:
+        ontology = {}
+
+    df_tmp = dataframe[dataframe['Preferred Label'] == entity_label]
+    if df_tmp.empty:
+        return ontology
+
+    ontology[entity_label] = level
+
+    parent_ids = df_tmp['Parents'].iloc[0]
+
+    for parent_id in parent_ids.split('|'):
+        parent_row = dataframe[dataframe['Class ID'] == parent_id]
+        if not parent_row.empty:
+            parent_label = parent_row['Preferred Label'].iloc[0]
+            get_ontology(parent_label, dataframe, level + 1, ontology)
 
     return ontology
