@@ -135,6 +135,9 @@ def get_ontology(entity_label, dataframe, level=0, ontology=None):
     if ontology is None:
         ontology = {}
 
+    if entity_label not in dataframe['Preferred Label'].values:
+        raise ValueError(f"The entity label '{entity_label}' does not exist in the 'Preferred Label' column.")
+
     df_tmp = dataframe[dataframe['Preferred Label'] == entity_label]
     if df_tmp.empty:
         return ontology
