@@ -46,3 +46,16 @@ def preprocess_dataframe(dataframe):
     dataframe['Preferred Label'] = rename_duplicates(dataframe['Preferred Label'])
     dataframe = identify_cycles(dataframe)
     return dataframe
+
+def get_ontology(entity_label, dataframe):
+    df_tmp = dataframe[dataframe['Preferred Label']==entity_label]
+    i=0
+    ontology = {}
+    while df_tmp.empty == False:
+        parent_id = df_tmp['Parents'].iloc[0]
+        label = df_tmp['Preferred Label'].iloc[0]
+        ontology[label]=i
+        df_tmp = dataframe[dataframe['Class ID']==parent_id]
+        i+=1
+
+    return ontology

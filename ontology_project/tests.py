@@ -73,6 +73,18 @@ class MyTestCase(unittest.TestCase):
         preprocessed_df = preprocess_dataframe(base_df)
         pd.testing.assert_frame_equal(target_df, preprocessed_df)
 
+    def test_ontology_simple_case(self):
+        df = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D'],
+                           'Preferred Label': ['a', 'b', 'c', 'd'],
+                           'Parents': ['B', 'C', 'D', 'E']})
 
+        target_ontology = {'a':0,
+                           'b':1,
+                           'c':2,
+                           'd':3,
+                           }
+
+        simple_ontology = get_ontology('a', df)
+        self.assertDictEqual(target_ontology, simple_ontology)
 if __name__ == '__main__':
     unittest.main()
