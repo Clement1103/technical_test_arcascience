@@ -1,0 +1,1708 @@
+Class ID,Preferred Label,Parents
+http://entity/CST/HYPOCHLOREM,HYPOCHLOREMIA,http://entity/CST/METGEN|http://entity/CST/MAN/ION/CL
+http://entity/CST/EXTRAPYR%20SYND,EXTRAPYRAMIDAL SYNDROME,http://entity/CST/NERMOVE
+http://entity/CST/VASCULITIS%20KIDNEY,KIDNEY VASCULITIS,http://entity/CST/PATHCOLLAGEN|http://entity/CST/UG/UT/K/M|http://entity/CST/RENALVASC|http://entity/CST/RENALNOS|http://entity/CST/CV/VASC/GEN
+http://entity/CST/SKIN/DERM,Dermatoses,
+http://entity/CST/FIBRO%20KIDNEY,KIDNEY FIBROSIS,http://entity/CST/UG/UT/K/M|http://entity/CST/PATHFIBROSIS|http://entity/CST/RENALNOS
+http://entity/CST/MAN/ION/BR,Bromide Disorders,http://entity/CST/MAN/ION
+http://entity/CST/PNEUMONIA,PNEUMONIA,http://entity/CST/PATHINFECT|http://entity/CST/PULMINFECT
+http://entity/CST/LEUKOCYTE%20VACUOL,LEUKOCYTE VACUOLIZATION,http://entity/CST/HEMWBCABN|http://entity/CST/HAL/WBC/GEN
+http://entity/CST/GRANULOMA,GRANULOMA,http://entity/CST/BODY/GEN|http://entity/CST/PATHGRANULOMA
+http://entity/STY/T057,Occupational Activity,http://entity/STY/T052
+http://entity/CST/HAL/MAR,Bone Marrow Abnormalities NEC,http://entity/CST/HAL
+http://entity/STY/T047,Disease or Syndrome,http://entity/STY/T046
+http://entity/CST/OCCLUS%20CAROTID,CAROTID OCCLUSION,http://entity/CST/CV/VASC/ART|http://entity/CST/NERSTROKE|http://entity/CST/PATHTROMBART
+http://entity/CST/CORONARY%20ART%20DIS,CORONARY ARTERY DISORDER,http://entity/CST/CV/CARD/COR
+http://entity/CST/SKIN/DERM/VB,Vesiculo-bullous,http://entity/CST/SKIN/DERM
+http://entity/CST/IMMUNOGLOBUL%20INC,IMMUNOGLOBULINS INCREASED,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/STY/T167,Substance,http://entity/STY/T072
+http://entity/CST/GGTP%20INC,GAMMA GLUTAMYL TRANSPEPTIDASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/ST%20ELEVATED,ST ELEVATED,http://entity/CST/CV/CARD/COND
+http://entity/CST/DIARRHEA%20BLOODY,BLOODY DIARRHEA,http://entity/CST/HEMHMRG|http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/PBI%20INC,PBI INCREASED,http://entity/CST/MAN/ION/I|http://entity/CST/ENDOTHYR
+http://entity/CST/NER/ANS,Autonomic Nervous System,http://entity/CST/NER
+http://entity/CST/DYSPNEA,DYSPNEA,http://entity/CST/RES/GEN|http://entity/CST/PULMGEN|http://entity/CST/CVHTMUSCLE
+http://entity/CST/PETECHIA,PETECHIA,http://entity/CST/HEMHMRG|http://entity/CST/HAL/COAG/GEN
+http://entity/CST/SKIN/SBGL,Sebaceous Gland Disorders,
+http://entity/CST/OCCLUS%20MESENTER%20VEN,MESENTERIC VENOUS OCCLUSION,http://entity/CST/CV/VASC/VEN|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/HYPERLIPEM,HYPERLIPEMIA,http://entity/CST/MAN/LIP|http://entity/CST/METLIPID
+http://entity/CST/UG/GEN,Urogenital System,http://entity/CST/UG
+http://entity/CST/GASTRITIS,GASTRITIS,http://entity/CST/GIBOWEL
+http://entity/CST/MAN/CHO,Carbohydrate Disorders NEC,http://entity/CST/MAN
+http://entity/CST/PANCYTOPENIA,PANCYTOPENIA,http://entity/CST/HEMMARDEPRESS|http://entity/CST/HAL/MAR/DEC
+http://entity/CST/FIBRIN%20INC,FIBRIN INCREASED,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/SCLERODERMA,SCLERODERMA,http://entity/CST/BODY/MULT|http://entity/CST/PATHCOLLAGEN
+http://entity/CST/EDEMA%20SCROTUM,SCROTAL EDEMA,http://entity/CST/GUGENMALE|http://entity/CST/GIHEPCHRONIC
+http://entity/CST/PATHTUMORBEN,NONMALIGNANT TUMORS,http://entity/CST/PATH
+http://entity/CST/ANEMIA%20HYPOCHROM,HYPOCHROMIC ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/LABOR%20ABNORM,ABNORMAL LABOR,http://entity/CST/MATFETDEL|http://entity/CST/UG/FG/PREG
+http://entity/STY/T066,Machine Activity,http://entity/STY/T052
+http://entity/CST/SCREAMING%20SYND,SCREAMING SYNDROME,http://entity/CST/NERGEN|http://entity/CST/NER/CNS
+http://entity/STY/T184,Sign or Symptom,http://entity/STY/T033
+http://entity/CST/BRAIN%20SYND%20ACUTE,ACUTE BRAIN SYNDROME,http://entity/CST/NERCOGN|http://entity/CST/NERBRAIN|http://entity/CST/NERPSYCH
+http://entity/STY/T103,Chemical,http://entity/STY/T167
+http://entity/CST/URIN%20CASTS,URINARY CASTS,http://entity/CST/UG/UT/URN|http://entity/CST/RENALNOS
+http://entity/CST/DELIRIUM,DELIRIUM,http://entity/CST/NERPSYCH|http://entity/CST/NERPSYCHNOS
+http://entity/CST/NECRO%20SKIN,SKIN NECROSIS,http://entity/CST/SKIN/DERM/UN|http://entity/CST/SKINGENSER
+http://entity/CST/CLOT%20RETRACT%20ACCEL,CLOT RETRACTION ACCELERATION,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/CR
+http://entity/CST/ACRODYNIA,ACRODYNIA,http://entity/CST/BODY/MULT|http://entity/CST/GENEXTREM
+http://entity/CST/PAP%20SMEAR%20SUSP,PAPANICOLAU SMEAR SUSPICIOUS,http://entity/CST/GYNCERV
+http://entity/CST/RETINAL%20DETACH,RETINAL DETACHMENT,http://entity/CST/OPHRET
+http://entity/STY/T026,Cell Component,http://entity/STY/T021
+http://entity/CST/BODY/MULT,Multiple Organ Syndromes NEC,http://entity/CST/BODY
+http://entity/CST/BRAIN%20STEM%20DIS,BRAIN STEM DISORDER,http://entity/CST/NERGEN
+http://entity/CST/CV/VASC/ART,Arterial and Arteriolar Disorders,http://entity/CST/CV/VASC
+http://entity/CST/PAPILLEDEMA,PAPILLEDEMA,http://entity/CST/NER/PNS/CN
+http://entity/CST/APNEA,APNEA,http://entity/CST/PATHFETDEATH|http://entity/CST/RES/GEN|http://entity/CST/GENSIGNS|http://entity/CST/PULMGEN
+http://entity/CST/GYNSEX,SEX DYSFUNCTION,http://entity/CST/GYN
+http://entity/CST/HYPALGESIA,HYPALGESIA,http://entity/CST/GENSYMPTOMS|http://entity/CST/NER/GEN
+http://entity/CST/GAIT%20ABNORM,ABNORMAL GAIT,http://entity/CST/NERMOVE|http://entity/CST/NER/GEN
+http://entity/CST/ANEMIA,ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/SS/SML,Smell Disorders (Olfactory Sense),http://entity/CST/SS
+http://entity/CST/MAN/ION/CU,Copper Disorders,http://entity/CST/MAN/ION
+http://entity/STY/T002,Plant,http://entity/STY/T204
+http://entity/CST/MENOPAUSE,MENOPAUSE,http://entity/CST/UG/FG/MNPS|http://entity/CST/ENDOOVARIAN|http://entity/CST/GYNUTER
+http://entity/STY/T077,Conceptual Entity,http://entity/STY/T071
+http://entity/CST/IOD%20ISOTOPE%20UPT%20INC,IODINE ISOTOPE UPTAKE INCREASED,http://entity/CST/MAN/ION/I|http://entity/CST/ENDOTHYR
+http://entity/STY/T067,Phenomenon or Process,http://entity/STY/T051
+http://entity/CST/DYSPHAGIA,DYSPHAGIA,http://entity/CST/DIG/OROP
+http://entity/CST/ANEMIA%20HEMOL%20DCP,HEMOLYTIC ANEMIA DIRECT COOMBS POSITIVE,http://entity/CST/HEMOLYSIS|http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/STY/T005,Virus,http://entity/STY/T001
+http://entity/CST/INFECT%20PARA,INFECTION PARASITIC,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/THROMBOCYTOPENIA,THROMBOCYTOPENIA,http://entity/CST/HAL/PLAT/DEC|http://entity/CST/PATHDIC|http://entity/CST/HEMCLOTDEC|http://entity/CST/HEMPLATDEC
+http://entity/CST/RENALFUNC,DECREASED RENAL FUNCTION,http://entity/CST/RENAL
+http://entity/CST/POLYNEURITIS,POLYNEURITIS,http://entity/CST/NER/PNS|http://entity/CST/NERMOTOR
+http://entity/CST/IMPACT%20FECAL,FECAL IMPACTION,http://entity/CST/GIRECTAL
+http://entity/CST/GENEAR,EAR DISORDERS,http://entity/CST/GEN
+http://entity/CST/MS,Musculo-skeletal System,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/REFRACT%20DIS,REFRACTION DISORDER,http://entity/CST/OPHVIS|http://entity/CST/SS/EYE/VIS
+http://entity/STY/T013,Fish,http://entity/STY/T010
+http://entity/CST/GUSTRUCT,STRUCTURAL URINARY TRACT,http://entity/CST/GU
+http://entity/CST/ELECTROLYTE%20ABNORM,ELECTROLYTE ABNORMALITY,http://entity/CST/METGEN|http://entity/CST/MAN/ION
+http://entity/CST/LIVER%20FATTY,LIVER FATTY DEPOSIT,http://entity/CST/MAN/LIP|http://entity/CST/GIHEPCHRONIC
+http://entity/CST/PARALYSIS%20EXTRAOCUL,EXTRAOCULAR PALSY,http://entity/CST/NERCRAN|http://entity/CST/NER/PNS/CN|http://entity/CST/SS/EYE/APP|http://entity/CST/MS/MUS
+http://entity/CST/JOINT%20DIS,JOINT DISORDER,http://entity/CST/GENBONE|http://entity/CST/MS/JNT
+http://entity/CST/RETICNOS,RETICULOENDTHELIAL DISORDERS: NONSPECIFIC,http://entity/CST/RETIC
+http://entity/CST/SEX%20MAT%20ACCEL,ACCELERATED SEXUAL MATURITY,http://entity/CST/UG/GEN|http://entity/CST/MATFETDEV|http://entity/CST/ENDO/GEN
+http://entity/CST/LACRIMATION%20DIS,LACRIMATION DISORDER,http://entity/CST/SS/EYE/GEN|http://entity/CST/OPHLOCAL
+http://entity/STY/T123,Biologically Active Substance,http://entity/STY/T120
+http://entity/CST/ILEUS,ILEUS,http://entity/CST/ANSPSYM/L|http://entity/CST/NER/ANS/PSYM/L|http://entity/CST/GIBOWEL
+http://entity/CST/PROCTITIS%20ULCER,ULCERATIVE PROCTITIS,http://entity/CST/GIRECTAL
+http://entity/CST/STEVENS%20JOHNSON%20SYND,STEVENS JOHNSON SYNDROME,http://entity/CST/SKINGENSER|http://entity/CST/SKIN/DERM/ERY|http://entity/CST/PATHHYSN
+http://entity/CST/ULCER%20STOMACH%20HEM,STOMACH ULCER HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/GIGASTDUO
+http://entity/CST/EXTRASYSTOLES,EXTRASYSTOLES,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/PLASMACYTO,PLASMACYTOSIS,http://entity/CST/RETICNOS|http://entity/CST/HAL/WBC/INC/M
+http://entity/CST/VITREOUS%20DIS,VITREOUS DISORDER,http://entity/CST/OPHVIS
+http://entity/CST/CLOT%20RETRACT%20RETARD,CLOT RETRACTION RETARDED,http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CR
+http://entity/STY/T203,Drug Delivery Device,http://entity/STY/T074
+http://entity/CST/TORTICOLLIS,TORTICOLLIS,http://entity/CST/NERMOVE
+http://entity/CST/CHOLINERG%20SYND,CHOLINERGIC SYNDROME,http://entity/CST/BODY/MULT|http://entity/CST/ANSPSYM/M|http://entity/CST/NER/ANS/PSYM/M
+http://entity/CST/NERGEN,CNS GENERAL,http://entity/CST/NER
+http://entity/CST/UG/UT/URN,urine abnormalities,http://entity/CST/UG/UT
+http://entity/CST/OSTEOMALACIA,OSTEOMALACIA,http://entity/CST/METCA/PHOS|http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/RASH%20MAC%20PAP,MACULOPAPULAR RASH,http://entity/CST/SKINRASH|http://entity/CST/SKIN/DERM/ERY|http://entity/CST/PATHHYSN
+http://entity/CST/IOS,Drug Exposure to Infant one month to six months,
+http://entity/CST/STENO%20ESOPH,ESOPHAGEAL STENOSIS,
+http://entity/CST/GANGRENE%20PERIPH,PERIPHERAL GANGRENE,http://entity/CST/CV/VASC/ART
+http://entity/CST/SKIN/SUBQ,Subcutaneous Disorders,
+http://entity/CST/BODY/GEN,"Disorders, General, Functional and NEC",http://entity/CST/BODY
+http://entity/CST/MAN/PRO,Protein Disorders NEC,http://entity/CST/MAN
+http://entity/CST/SKIN/HAIR,Hair Disorders,
+http://entity/CST/MONOCYTOSIS,MONOCYTOSIS,http://entity/CST/HEMWBCABN|http://entity/CST/HAL/WBC/INC/M
+http://entity/CST/NECRO%20BONE,BONE NECROSIS,http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/HIV%20SYND,AIDS,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/RBC%20ABNORM,ERYTHROCYTES ABNORMAL,http://entity/CST/HAL/RBC/GEN|http://entity/CST/HEMRBCABN
+http://entity/CST/ALKALOSIS,ALKALOSIS,http://entity/CST/METALKALOSIS|http://entity/CST/MAN/ION/H
+http://entity/CST/HEM%20INTRACRAN,INTRACRANIAL HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/NER/GEN|http://entity/CST/NERSTROKE|http://entity/CST/CV/VASC/GEN
+http://entity/STY/T088,Carbohydrate Sequence,http://entity/STY/T085
+http://entity/CST/NEOPL%20GI,GI NEOPLASIA,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO|http://entity/CST/PATHMALIGN
+http://entity/CST/HALLUCIN,HALLUCINATIONS,http://entity/CST/NERPSYCH
+http://entity/CST/BODY/THOR,Thorax,http://entity/CST/BODY
+http://entity/CST/SS/EYE/GEN,"Eye Disorders, General and NEC",http://entity/CST/SS/EYE
+http://entity/CST/EMB%20CEREBR,CEREBRAL EMBOLISM,http://entity/CST/CV/VASC/ART|http://entity/CST/NERSTROKE|http://entity/CST/PATHTROMBART
+http://entity/CST/DIG,Digestive System,http://www.w3.org/2002/07/owl#Thing
+http://entity/STY/T016,Human,http://entity/STY/T015
+http://entity/CST/CV/GEN,"Cardiovascular System Disorders, General and NEC",http://entity/CST/CV
+http://entity/CST/ADDISON%20CRISIS,ADDISONIAN CRISIS,http://entity/CST/ENDOADREN|http://entity/CST/ENDO/ADR/COR
+http://entity/CST/BONE%20FRACT%20SPONTAN,PATHOLOGICAL FRACTURE,http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/RASH%20PURPUR,PURPURIC RASH,http://entity/CST/HEMHMRG|http://entity/CST/SKINRASH|http://entity/CST/SKIN/DERM/ERY
+http://entity/CST/KETOSIS,KETOSIS,http://entity/CST/MAN/LIP|http://entity/CST/ENDODIABETES|http://entity/CST/MAN/ION/H
+http://entity/CST/EXOPHTHALMOS,EXOPHTHALMOS,http://entity/CST/SS/EYE/GEN|http://entity/CST/OPHLOCAL|http://entity/CST/ENDOTHYR
+http://entity/CST/CRYSTALLURIA%20URIC,URATE CRYSTALLURIA,http://entity/CST/UG/UT/URN|http://entity/CST/MAN/PUR|http://entity/CST/RENALCALC|http://entity/CST/METGOUT
+http://entity/STY/T126,Enzyme,http://entity/STY/T123
+http://entity/CST/PAIN%20BONE,BONE PAIN,http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/MEGAKARYO%20DEC,MEGAKARYOCYTES DECREASED,http://entity/CST/HAL/PLAT/DEC|http://entity/CST/HEMPLATDEC
+http://entity/CST/THROM%20CAROTID,CAROTID THROMBOSIS,http://entity/CST/CV/VASC/ART|http://entity/CST/NERSTROKE|http://entity/CST/PATHTROMBART
+http://entity/CST/EFFUS%20PLEURAL,PLEURAL EFFUSION,http://entity/CST/PULMGEN|http://entity/CST/CVHTMUSCLE|http://entity/CST/PULMPLEURAL|http://entity/CST/RES/PLRA
+http://entity/CST/GLOMERULITIS,GLOMERULITIS,http://entity/CST/UG/UT/K/M|http://entity/CST/RENALGLOM
+http://entity/CST/GUGENMALE,MALE GENITAL ABNORMALITIES,http://entity/CST/GU
+http://entity/CST/ANOMALY%20HEART,HEART MALFORMATION,http://entity/CST/MATFETBIRTH|http://entity/CST/CV/CARD/GEN
+http://entity/CST/NECRO%20KIDNEY%20CORTEX,KIDNEY CORTEX NECROSIS,http://entity/CST/UG/UT/K/M|http://entity/CST/RENALNOS
+http://entity/CST/THROM%20CEREBR%20ART,CEREBRAL ARTERIAL THROMBOSIS,http://entity/CST/CV/VASC/ART|http://entity/CST/NERSTROKE|http://entity/CST/PATHTROMBART
+http://entity/CST/ULCER%20DUODEN%20HEM,DUODENAL ULCER HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/GIGASTDUO|http://entity/CST/DIG/DUO
+http://entity/CST/BODY/LE,Lower Extremity,http://entity/CST/BODY
+http://entity/CST/UG/UT/K,Kidney Disorders,http://entity/CST/UG/UT
+http://entity/CST/NEOPL%20BONE,BONE NEOPLASM,http://entity/CST/GENBONE|http://entity/CST/PATHMALIGN|http://entity/CST/MS/BON/GEN
+http://entity/CST/NERCRAN,CRANIA NERVE ABNORMALITIES,http://entity/CST/NER
+http://entity/CST/MATFETNEWBORN,NEWBORN DISTRESS,http://entity/CST/MATFET
+http://entity/CST/PULMSTRUCTURAL,STRUCTURAL DYSFUNCTION,http://entity/CST/PULM
+http://entity/CST/AKINESIA,AKINESIA,http://entity/CST/NERMOVE
+http://entity/CST/ANSSYM/M,SYMPATHOMIMETIC,http://entity/CST/ANS
+http://entity/CST/PATHFETDEATH,PRE-FETAL/DEATH,http://entity/CST/PATH
+http://entity/CST/COLLAGEN%20DIS,COLLAGEN DISORDER,http://entity/CST/BODY/MULT|http://entity/CST/PATHCOLLAGEN
+http://entity/CST/INFECT%20BACT,INFECTION BACTERIAL,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/SPERM%20ARREST,SPERMATOGENESIS ARREST,http://entity/CST/ENDOTEST|http://entity/CST/UG/MG/TEST
+http://entity/CST/HEMRBCDIS,HEMOGLOBIN DISORDER,http://entity/CST/HEM
+http://entity/CST/MATFETBIRTH,BIRTH DEFECTS,http://entity/CST/MATFET
+http://entity/CST/MONILIA%20GI,GASTROINTESTINAL MONILIASIS,http://entity/CST/DIG/EC|http://entity/CST/PATHINFECT
+http://entity/CST/HEM%20EYE,EYE HEMORRHAGE,http://entity/CST/SS/EYE/GEN|http://entity/CST/HEMHMRG|http://entity/CST/OPHLOCAL
+http://entity/CST/GOUT,GOUT,http://entity/CST/MAN/PUR|http://entity/CST/METGOUT
+http://entity/CST/INCONTIN%20FECAL,FECAL INCONTINENCE,http://entity/CST/GIRECTAL
+http://entity/CST/AG%20RATIO%20ABNORM,AG RATIO ABNORMAL,http://entity/CST/MAN/PRO|http://entity/CST/GIHEPATOCELL
+http://entity/CST/NER/PNS,Peripheral Nervous System,http://entity/CST/NER
+http://entity/CST/NER/PNS/CN,Cranial Nerve Disorders,http://entity/CST/NER/PNS
+http://entity/CST/PUPIL%20DIS,PUPILLARY DISORDER,http://entity/CST/OPHUVEA
+http://entity/CST/FIBRINOGEN%20DEC,FIBRINOGEN DECREASED,http://entity/CST/PATHDIC|http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/PREGN%20UNINTEND,UNINTENDED PREGNANCY,http://entity/CST/GYNFERTIL|http://entity/CST/UG/FG/PREG
+http://entity/CST/MYELOFIBROSIS,MYELOFIBROSIS,http://entity/CST/HEMMARDEPRESS|http://entity/CST/HAL/MAR/DEC
+http://entity/CST/UG/UT/B/M,bladder morphologic,http://entity/CST/UG/UT/B
+http://entity/CST/GENCHEST,CHEST DISORDERS,http://entity/CST/GEN
+http://entity/CST/HAL/PLAT/DEC,platelets decreased,http://entity/CST/HAL/PLAT
+http://entity/CST/URIN%20FREQUENCY,URINARY FREQUENCY,http://entity/CST/UG/UT/B/F|http://entity/CST/RENALNOS|http://entity/CST/GYNVAG|http://entity/CST/GUBLADDER
+http://entity/STY/T046,Pathologic Function,http://entity/STY/T038
+http://entity/CST/MAN/ENZ,Enzyme Disorders NEC,http://entity/CST/MAN
+http://entity/CST/HYPERVOLEM,HYPERVOLEMIA,http://entity/CST/GENSIGNS|http://entity/CST/MAN/WB|http://entity/CST/PATHVOLDIS|http://entity/CST/HAL/GEN
+http://entity/CST/METACIDOSIS,ACIDOSIS,http://entity/CST/MET
+http://entity/CST/HEMWBCABN,WBC ABNORMALITY,http://entity/CST/HEM
+http://entity/CST/FIBRO%20MYOCARD,MYOCARDIAL FIBROSIS,http://entity/CST/CVHTMYO|http://entity/CST/PATHFIBROSIS|http://entity/CST/CV/CARD/MYO
+http://entity/CST/ULCER%20DUODEN%20PER,DUODENAL ULCER PERFORATION,http://entity/CST/GIGASTDUO|http://entity/CST/DIG/DUO
+http://entity/CST/METGEN,METABOLIC DISORDERS: GENERAL,http://entity/CST/MET
+http://entity/CST/AV%20BLOCK%20FD,AV BLOCK FIRST DEGREE,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/BRONCHIECTASIS,BRONCHIECTASIS,http://entity/CST/RES/BRON|http://entity/CST/PULMAIRWAY|http://entity/CST/PULMINFECT
+http://entity/CST/HEMHMRG,HEMORRHAGE,http://entity/CST/HEM
+http://entity/CST/TINNITUS,TINNITUS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/MONOPLEGIA,MONOPLEGIA,http://entity/CST/NERGEN|http://entity/CST/NER/GEN
+http://entity/CST/OPISTHOTONOS,OPISTHOTONOS,http://entity/CST/NERBRAIN
+http://entity/CST/SEPSIS,SEPSIS,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/UTER%20RUPT,RUPTURED UTERUS,http://entity/CST/MATFETDEL
+http://entity/CST/LIPODYSTROPHY,LIPODYSTROPHY,http://entity/CST/MAN/LIP|http://entity/CST/METLIPID
+http://entity/CST/GUILLAIN%20BARRE%20SYND,GUILLAIN BARRE SYNDROME,http://entity/CST/NER/PNS|http://entity/CST/NERMOTOR
+http://entity/CST/NERDEPRESS,DEPRESSION,http://entity/CST/NER
+http://entity/CST/COUGH%20DEC,COUGH DECREASED,http://entity/CST/RES/GEN|http://entity/CST/PULMAIRWAY|http://entity/CST/PULMGEN
+http://entity/CST/FBC,Drug Exposure to Father before conception,
+http://entity/CST/RES/GEN,"Respiratory System Disorders, General, Functional and NEC",http://entity/CST/RES
+http://entity/CST/EOSINOPHILIA,EOSINOPHILIA,http://entity/CST/HAL/WBC/INC/G|http://entity/CST/PATHHYSN
+http://entity/CST/STENO%20AORTIC,AORTIC STENOSIS,http://entity/CST/CV/CARD/END|http://entity/CST/CVHTMUSCLE
+http://entity/CST/LENS%20PIGMENT,PIGMENT DEPOSITS LENS,http://entity/CST/PATHDRUG|http://entity/CST/OPHLENSE
+http://entity/CST/POLYCYTHEMIA,POLYCYTHEMIA,http://entity/CST/HAL/MAR/INC|http://entity/CST/HEMRBCINC|http://entity/CST/HAL/RBC/INC
+http://entity/CST/CV/CARD/END,Endocardial Disorders,http://entity/CST/CV/CARD
+http://entity/CST/FANCONI%20SYND,FANCONI-LIKE SYNDROME,http://entity/CST/RENALTUBULE|http://entity/CST/UG/UT/K/F
+http://entity/CST/ABDO%20SYND%20ACUTE,ABDOMINAL SYNDROME ACUTE,http://entity/CST/GIGEN|http://entity/CST/BODY/ABDO
+http://entity/CST/LARYNGITIS,LARYNGITIS,http://entity/CST/PULMGEN
+http://entity/CST/CHOROIDITIS,CHOROIDITIS,http://entity/CST/OPHUVEA
+http://entity/CST/METK,POTASSIUM ABNORMALITY,http://entity/CST/MET
+http://entity/CST/MELANOSIS,MELANOSIS,http://entity/CST/SKIN/PIG|http://entity/CST/SKINPIGMENT
+http://entity/CST/NER,Nervous System,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/VASOSPASM,VASOSPASM,http://entity/CST/ANSSYM/M|http://entity/CST/NER/ANS/SYM/M|http://entity/CST/CV/VASC/GEN
+http://entity/CST/SS/EAR,Ear Disorders,http://entity/CST/SS
+http://entity/CST/PREGN%20DIS,PREGNANCY DISORDER,http://entity/CST/MATFETGEST|http://entity/CST/UG/FG/PREG
+http://entity/CST/TETRAL%20FALLOT,TETRALOGY OF FALLOT,http://entity/CST/MATFETBIRTH|http://entity/CST/CV/CARD/GEN
+http://entity/CST/QUADRIPLEGIA,QUADRIPLEGIA,http://entity/CST/NERGEN|http://entity/CST/NER/CNS
+http://entity/STY/T116,"Amino Acid, Peptide, or Protein",http://entity/STY/T109
+http://entity/CST/THROMBOPLASTIN%20DEC,THROMBOPLASTIN DECREASED,http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/IMMUNE%20SYSTEM%20DIS,IMMUNE SYSTEM DISORDER,http://entity/CST/BODY/GEN|http://entity/CST/PATHHYSN
+http://entity/CST/ARTERITIS%20THROM,THROMBOTIC ARTERITIS,http://entity/CST/CV/VASC/ART|http://entity/CST/PATHCOLLAGEN
+http://entity/CST/THROMBOPLASTIN%20INC,THROMBOPLASTIN INCREASED,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/RES/BRON,Bronchus and Bronchiole,http://entity/CST/RES
+http://entity/CST/EMB%20ARM,EMBOLUS UPPER EXTREMITY,http://entity/CST/CV/VASC/ART|http://entity/CST/BODY/UE|http://entity/CST/PATHTROMBART
+http://entity/CST/THROM%20PULM%20ART,PULMONARY ARTERY THROMBOSIS,http://entity/CST/CV/VASC/ART|http://entity/CST/RES/GEN|http://entity/CST/PULMVASC
+http://entity/CST/HAL/WBC/DEC/G,granulocytes decreased,http://entity/CST/HAL/WBC/DEC
+http://entity/STY/T098,Population Group,http://entity/STY/T096
+http://entity/CST/ANEMIA%20FOLIC%20DEFIC,FOLATE DEFICIENCY ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC|http://entity/CST/GIBOWEL|http://entity/CST/MAN/VIT
+http://entity/CST/ULCER%20CONJUNCT,CONJUNCTIVAL ULCER,http://entity/CST/OPHLOCAL
+http://entity/CST/HYPOMENORRHEA,HYPOMENORRHEA,http://entity/CST/UG/FG/MENS|http://entity/CST/GYNUTER
+http://entity/CST/PROLACTIN%20INC,PROLACTIN INCREASED,http://entity/CST/ENDOPIT
+http://entity/CST/GENSIGNS,SIGNS,http://entity/CST/GEN
+http://entity/CST/UTER%20DIS,UTERINE DISORDER,http://entity/CST/GYNUTER
+http://entity/CST/KIDNEY%20FAIL,KIDNEY FAILURE,http://entity/CST/RENALFUNC|http://entity/CST/UG/UT/K/F
+http://entity/CST/PULMAIRWAY,AIRWAYS DISEASE,http://entity/CST/PULM
+http://entity/CST/ANEURYSM%20INTRACRAN,INTRACRANIAL ANEURYSM,http://entity/CST/CV/VASC/ART
+http://entity/STY/T017,Anatomical Structure,http://entity/STY/T072
+http://entity/CST/DIC,DISSEMINATED INTRAVASCULAR COAGULATION,http://entity/CST/PATHCOLLAGEN|http://entity/CST/HAL/COAG/GEN|http://entity/CST/HEMCLOTDEC
+http://entity/CST/RE%20HYPERPLASIA,RETICULOENDOTHELIAL HYPERPLASIA,http://entity/CST/RETICNOS|http://entity/CST/HAL/RE
+http://entity/CST/HYPOTENS,HYPOTENSION,http://entity/CST/CVSHOCK|http://entity/CST/CVHYPOT|http://entity/CST/CV/VASC/BP
+http://entity/CST/STOMACH%20DILAT,DILATION OF STOMACH,http://entity/CST/NER/ANS/PSYM/L|http://entity/CST/GIGASTDUO
+http://entity/CST/MAN,Metabolic and Nutritional Disorders,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/MYOCARDITIS,MYOCARDITIS,http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/MYO
+http://entity/CST/PURPURA,PURPURA,http://entity/CST/HEMHMRG|http://entity/CST/HAL/COAG/GEN|http://entity/CST/HEMCLOTDEC|http://entity/CST/PATHHEM
+http://entity/CST/FET,Fetal Disorders,
+http://entity/CST/INFECT%20URIN%20TRACT,URINARY TRACT INFECTION,http://entity/CST/PATHINFECT|http://entity/CST/UG/UT/GEN
+http://entity/CST/PARALYSIS%20FLACCID,FLACCID PARALYSIS,http://entity/CST/NERGEN|http://entity/CST/NER/GEN
+http://entity/STY/T127,Vitamin,http://entity/STY/T123
+http://entity/CST/UG,Urogenital System,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/TONGUE%20DIS,TONGUE DISORDER,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/HAL/RBC,Erythrocyte Abnormalities,http://entity/CST/HAL
+http://entity/CST/HYPERKINESIA,HYPERKINESIA,http://entity/CST/NERMOVE
+http://entity/CST/VISUAL%20FIELD%20DEFECT,VISUAL FIELD DEFECT,http://entity/CST/SS/EYE/VIS
+http://entity/CST/ULCER%20DUODEN%20PERHEM,DUODENAL ULCER WITH HEMORRHAGE AND PERFORATION,http://entity/CST/HEMHMRG|http://entity/CST/GIGASTDUO|http://entity/CST/DIG/DUO
+http://entity/CST/HAL/PLAT,Thrombocyte Abnormalities (Platelets or Megakaryocytes),http://entity/CST/HAL
+http://entity/CST/CLEFT%20LIP,CLEFT LIP,http://entity/CST/MATFETBIRTH|http://entity/CST/DIG/BUC
+http://entity/CST/HAL/LYM/GLN,lymphatic glands (nodes),http://entity/CST/HAL/LYM
+http://entity/CST/NEURALGIA,NEURALGIA,http://entity/CST/NER/PNS|http://entity/CST/NERMOTOR
+http://entity/CST/PORENCEPHALY,PORENCEPHALY,http://entity/CST/MATFETBIRTH
+http://entity/CST/HYDRONEPHROSIS,HYDRONEPHROSIS,http://entity/CST/GUSTRUCT|http://entity/CST/UG/UT/K/M|http://entity/CST/RENALNOS
+http://entity/CST/MATFETGEST,GESTATION ABNORMALITY,http://entity/CST/MATFET
+http://entity/CST/NER/CNS,Central Nervous System,http://entity/CST/NER
+http://entity/CST/HEMATEMESIS,HEMATEMESIS,http://entity/CST/HEMHMRG|http://entity/CST/DIG/GEN|http://entity/CST/PATHHEM|http://entity/CST/GIGASTDUO
+http://entity/CST/CV/CARD/ARR,Arrhythmias,http://entity/CST/CV/CARD
+http://entity/CST/HEM%20CEREBR,CEREBRAL HEMORRHAGE,http://entity/CST/CV/VASC/ART|http://entity/CST/HEMHMRG|http://entity/CST/NERSTROKE
+http://entity/CST/HEMCLOTINC,CLOTTING INCREASED,http://entity/CST/HEM
+http://entity/CST/ANSPSYM/M,PARASYMPATHOMIMETIC,http://entity/CST/ANS
+http://entity/CST/BODY%20ODOR,BODY ODOR,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/HYPERTROPHY,HYPERTROPHY,http://entity/CST/PATHTUMORBEN|http://entity/CST/BODY/GEN
+http://entity/CST/GASTROENTERITIS,GASTROENTERITIS,http://entity/CST/GIGEN|http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO|http://entity/CST/GIBOWEL
+http://entity/CST/PHLEB%20DEEP,DEEP PHLEBITIS,http://entity/CST/CV/VASC/VEN|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/DRUG%20LEVEL%20INC,DRUG LEVEL INCREASED,http://entity/CST/BODY/GEN|http://entity/CST/PATHDRUG
+http://entity/CST/SKIN/DERM/ATR,Atrophic,http://entity/CST/SKIN/DERM
+http://entity/CST/MAN/ION/SR,Strontium Disorder,http://entity/CST/MAN/ION
+http://entity/CST/COR%20PULM,COR PULMONALE,http://entity/CST/RES/GEN|http://entity/CST/CVHTMUSCLE|http://entity/CST/PULMVASC|http://entity/CST/CV/CARD/GEN
+http://entity/CST/SYNCOPE,SYNCOPE,http://entity/CST/GENSIGNS|http://entity/CST/CVHYPOT|http://entity/CST/CV/VASC/GEN
+http://entity/CST/IMMUNOGLOBUL%20DEC,IMMUNOGLOBULINS DECREASED,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/CST/ATROPHY%20SKIN,SKIN ATROPHY,http://entity/CST/SKIN/DERM/ATR|http://entity/CST/SKINDYSFUNCT
+http://entity/CST/PERINATAL%20DIS,PERINATAL DISORDER,http://entity/CST/BODY/GEN|http://entity/CST/MATFETGEN
+http://entity/CST/EPENDYMITIS,EPENDYMITIS,http://entity/CST/GUGENMALE
+http://entity/CST/FIBRO%20MEDIAST,MEDIASTINAL FIBROSIS,http://entity/CST/BODY/THOR|http://entity/CST/PATHFIBROSIS
+http://entity/CST/PAIN%20KIDNEY,KIDNEY PAIN,http://entity/CST/RENALCALC|http://entity/CST/UG/UT/K/F
+http://entity/CST/HYPERPLASIA%20ADREN,ADRENAL CORTEX HYPERPLASIA,http://entity/CST/ENDOADREN|http://entity/CST/ENDO/ADR/COR
+http://entity/CST/SS/EYE/APP,eye appendages,http://entity/CST/SS/EYE
+http://entity/CST/UTER%20FIBROID%20ENLARGE,UTERINE FIBROIDS ENLARGED,http://entity/CST/GYNUTER
+http://entity/CST/ARTHRITIS,ARTHRITIS,http://entity/CST/GENSIGNS|http://entity/CST/PATHCOLLAGEN|http://entity/CST/MS/JNT
+http://entity/CST/MS/FAS,Fascial Disorders,http://entity/CST/MS
+http://entity/CST/PATHDIC,D.I.C.,http://entity/CST/PATH
+http://entity/CST/GLAUCOMA,GLAUCOMA,http://entity/CST/OPHIOP|http://entity/CST/SS/EYE/IOP
+http://entity/CST/NAIL%20DIS,NAIL DISORDER,http://entity/CST/SKIN/NAIL|http://entity/CST/SKINDYSFUNCT
+http://entity/CST/DIG/EC,Entercolon,http://entity/CST/DIG
+http://entity/CST/FDU,Drug Exposure to Fetus directly in utero,
+http://entity/CST/CARCINOMA%20BLADDER,BLADDER CARCINOMA,http://entity/CST/UG/UT/B/M|http://entity/CST/PATHMALIGN|http://entity/CST/GUBLADDER
+http://entity/CST/URIN%20ABNORM,URINE ABNORMALITY,http://entity/CST/UG/UT/URN|http://entity/CST/RENALNOS
+http://entity/CST/HYPOGONAD%20FEM,HYPOGONADISM FEMALE,http://entity/CST/UG/FG/OVA|http://entity/CST/ENDOOVARIAN|http://entity/CST/ENDOPIT
+http://entity/CST/NER/CNS/CSF,Spinal Fluid,http://entity/CST/NER/CNS
+http://entity/STY/T195,Antibiotic,http://entity/STY/T121
+http://entity/STY/T037,Injury or Poisoning,http://entity/STY/T067
+http://entity/CST/ANEMIA%20MICROCYT,MICROCYTIC ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/STY/T200,Clinical Drug,http://entity/STY/T073
+http://entity/CST/ACIDOSIS%20HYPERCHLOREM,HYPERCHLOREMIC ACIDOSIS,http://entity/CST/METACIDOSIS|http://entity/CST/MAN/ION/CL|http://entity/CST/MAN/ION/H
+http://entity/CST/DYSPAREUNIA,DYSPAREUNIA,http://entity/CST/GYNSEX|http://entity/CST/GYNUTER
+http://entity/CST/TOLER%20INC,TOLERANCE INCREASED,http://entity/CST/BODY/GEN|http://entity/CST/NERABUSE|http://entity/CST/GENSYMPTOMS
+http://entity/CST/MAN/LIP,Lipid Disorders,http://entity/CST/MAN
+http://entity/CST/LE%20TEST%20ABNORM,ABNORMAL LE TEST,http://entity/CST/PATHCOLLAGEN|http://entity/CST/HAL/WBC/GEN
+http://entity/CST/UG/FG,Female Genital Disorders,http://entity/CST/UG
+http://entity/CST/LUNG%20DIS,LUNG DISORDER,http://entity/CST/PULMGEN
+http://entity/CST/ATR%20SEPT%20DEF,ATRIAL SEPTAL DEFECT,http://entity/CST/MATFETBIRTH|http://entity/CST/CVHTMUSCLE|http://entity/CST/CV/CARD
+http://entity/CST/SKIN/DERM/HYP,Hypertrophic,http://entity/CST/SKIN/DERM
+http://entity/CST/MAN/PUR,Purine Disorder,http://entity/CST/MAN
+http://entity/CST/CORNEAL%20OPACITY,CORNEAL OPACITY,http://entity/CST/OPHCORNEA
+http://entity/CST/HYPER%20GUM,GUM HYPERPLASIA,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/METCA/PHOS,CALCIUM/PHOSPHATE ABNORMALITY,http://entity/CST/MET
+http://entity/CST/POLYURIA,POLYURIA,http://entity/CST/ENDODIABETES|http://entity/CST/RENALNOS|http://entity/CST/METSIADH|http://entity/CST/UG/UT/K/F
+http://entity/CST/PHOTOSENSITIVITY,PHOTOSENSITIVITY REACTION,http://entity/CST/BODY/GEN|http://entity/CST/PATHHYSN
+http://entity/CST/VOICE%20ALTERAT,VOICE ALTERATION,http://entity/CST/NERGEN
+http://entity/CST/ADH%20INAPPROP,ADH INAPPROPRIATE,http://entity/CST/ENDO/PIT/POST|http://entity/CST/METSIADH|http://entity/CST/ENDOPIT
+http://entity/CST/UG/FG/OVA,ovary (excluding endocrine function),http://entity/CST/UG/FG
+http://entity/CST/ISCHEMIA%20MYOCARD,MYOCARDIAL ISCHEMIA,http://entity/CST/CV/VASC/ART
+http://entity/CST/HAL/COAG,Coagulation Disorders,http://entity/CST/HAL
+http://entity/STY/T007,Bacterium,http://entity/STY/T001
+http://entity/CST/OSTEOMYELITIS,OSTEOMYELITIS,http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/LEUKODERMA,LEUKODERMA,http://entity/CST/SKIN/PIG|http://entity/CST/SKINPIGMENT
+http://entity/CST/COLITIS%20PSEUDOMEM,PSEUDOMEMBRANOUS COLITIS,http://entity/CST/GIBOWEL
+http://entity/CST/INFARCT%20PULM,PULMONARY INFARCT,http://entity/CST/CV/VASC/ART|http://entity/CST/PULMVASC|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/AV%20BLOCK%20COMP,AV BLOCK COMPLETE,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/SS/EYE,Eye Disorders,http://entity/CST/SS
+http://entity/CST/CV/CARD/COR,Coronary Vessel Disorders,http://entity/CST/CV/CARD
+http://entity/CST/NEOPL%20ENDOMETR,ENDOMETRIAL NEOPLASIA,http://entity/CST/PATHMALIGN
+http://entity/STY/T168,Food,http://entity/STY/T167
+http://entity/CST/STOMACH%20ATONY,STOMACH ATONY,http://entity/CST/NER/ANS/PSYM/L|http://entity/CST/GIGASTDUO
+http://entity/CST/GENBONE,BONE/JOINT DISORDERS,http://entity/CST/GEN
+http://entity/CST/ALTERED%20HORMONE%20LEVEL,HORMONE LEVEL ALTERED,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/CST/GOITER,GOITER,http://entity/CST/ENDOTHYR
+http://entity/CST/MENS%20DIS,MENSTRUAL DISORDER,http://entity/CST/UG/FG/MENS|http://entity/CST/GYNUTER
+http://entity/CST/PROSTAT%20DIS,PROSTATIC DISORDER,http://entity/CST/GUPROST
+http://entity/CST/LYMPHOMA%20LIKE%20REACT,LYMPHOMA LIKE REACTION,http://entity/CST/RETICNOS|http://entity/CST/HAL/LYM/GLN
+http://entity/CST/EDEMA%20LABIA,LABIAL EDEMA,http://entity/CST/GYNVAG
+http://entity/CST/GYNFERTIL,FERTILITY DISORDERS,http://entity/CST/GYN
+http://entity/CST/MAN/ION/I,Iodine Disorders,http://entity/CST/MAN/ION
+http://entity/CST/TWITCH,TWITCHING,http://entity/CST/NER/GEN|http://entity/CST/MS/MUS|http://entity/CST/NERMOTOR
+http://entity/CST/TORSADES%20DE%20POINTES,TORSADES DE POINTES,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/TENESMUS,TENESMUS,http://entity/CST/GIRECTAL
+http://entity/CST/MATFETDEV,DEVELOPMENTAL ABNORMALITY,http://entity/CST/MATFET
+http://entity/CST/LIBIDO%20INC,LIBIDO INCREASED,http://entity/CST/GYNSEX|http://entity/CST/NER/GEN|http://entity/CST/GUSEXDYS
+http://entity/CST/ERUPT%20FIXED,FIXED ERUPTION,http://entity/CST/SKIN/DERM/FX|http://entity/CST/SKINOTHER
+http://entity/CST/ARRHYTHMIA%20NOD,NODAL ARRHYTHMIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/VENOOCCLUS%20LIVER%20SYND,VENOOCCLUSIVE LIVER DISEASE,http://entity/CST/GIHEPATOCELL
+http://entity/CST/TRISMUS,TRISMUS,http://entity/CST/NERMOVE
+http://entity/CST/HICCUP,HICCUP,http://entity/CST/GIGASTDUO
+http://entity/CST/DREAM%20ABNORM,ABNORMAL DREAMS,http://entity/CST/NERPSYCHNOS
+http://entity/CST/DIABETES%20INSIPID,DIABETES INSIPIDUS,http://entity/CST/ENDO/PIT/POST|http://entity/CST/METSIADH
+http://entity/CST/ENDO/PIT/POST,Posterior,
+http://entity/STY/T058,Health Care Activity,http://entity/STY/T057
+http://entity/CST/COOMBS%20DIR%20TEST%20POS,DIRECT COOMBS TEST POSITIVE,http://entity/CST/HEMOLYSIS|http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/GEN
+http://entity/CST/CARCINOMA%20CERVIX%20SITU,CERVIX CARCINOMA IN SITU,http://entity/CST/PATHMALIGN
+http://entity/CST/ANEMIA%20HYPOPLAST,HYPOPLASTIC ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC|http://entity/CST/HAL/MAR/DEC
+http://entity/CST/GONADOTR%20INC,GONADOTROPINS INCREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/CSF%20ABNORM,CEREBROSPINAL FLUID ABNORMAL,http://entity/CST/NERGEN|http://entity/CST/NER/CNS/CSF
+http://entity/CST/GI%20DIS,GASTROINTESTINAL DISORDER,http://entity/CST/GIGEN|http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO|http://entity/CST/GIBOWEL
+http://entity/CST/SYNOVITIS,SYNOVITIS,http://entity/CST/GENBONE|http://entity/CST/MS/JNT
+http://entity/CST/DYSURIA,DYSURIA,http://entity/CST/UG/UT/B/F|http://entity/CST/GYNVAG|http://entity/CST/GUBLADDER
+http://entity/STY/T104,Chemical Viewed Structurally,http://entity/STY/T103
+http://entity/CST/EMB%20CORONARY,CORONARY EMBOLISM,http://entity/CST/CV/CARD/COR
+http://entity/CST/ULCER%20CORNEAL%20PER,PERFORATED CORNEAL ULCER,http://entity/CST/OPHCORNEA
+http://entity/CST/HEPATITIS,HEPATITIS,http://entity/CST/GIHEPATOCELL
+http://entity/CST/TASTE%20LOSS,TASTE LOSS,http://entity/CST/NERCRAN|http://entity/CST/SS/TST
+http://entity/CST/KIDNEY%20POLYCYSTIC,POLYCYSTIC KIDNEY,http://entity/CST/MATFETBIRTH|http://entity/CST/UG/UT/K/M|http://entity/CST/RENALNOS
+http://entity/CST/SHOCK,SHOCK,http://entity/CST/BODY/GEN|http://entity/CST/CV/GEN|http://entity/CST/CVSHOCK
+http://entity/CST/SS/GEN,Special Senses,http://entity/CST/SS
+http://entity/CST/TTT,Drug Exposure to Mother in all trimesters,
+http://entity/CST/EDEMA%20FACE,FACE EDEMA,http://entity/CST/BODY/HEAD|http://entity/CST/PATHHYSN
+http://entity/CST/ATROPHY%20BREAST,BREAST ATROPHY,http://entity/CST/GENBREAST
+http://entity/CST/UNEXPECTED%20BENEFIT,UNEXPECTED BENEFIT,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/GIGEN,GASTROINTESTINAL DISORDERS: GENERAL,http://entity/CST/GI
+http://entity/CST/DERMATOMYOSITIS,DERMATOMYOSITIS,http://entity/CST/BODY/MULT|http://entity/CST/PATHCOLLAGEN|http://entity/CST/PATHMYOSITIC
+http://entity/CST/CONSTIP,CONSTIPATION,http://entity/CST/DIG/EC|http://entity/CST/ANSPSYM/L|http://entity/CST/GIBOWEL
+http://entity/CST/NER/ANS/SYM/L,sympatholytic,http://entity/CST/NER/ANS/SYM
+http://entity/CST/ANOMALY%20CONGEN%20MS,MUSCULOSKELETAL CONGENITAL ANOMALY,http://entity/CST/MATFETBIRTH|http://entity/CST/MS/GEN
+http://entity/CST/CRYSTALLURIA,CRYSTALLURIA,http://entity/CST/UG/UT/URN|http://entity/CST/RENALCALC
+http://entity/CST/AMYLOIDOSIS,AMYLOIDOSIS,http://entity/CST/MAN/PRO|http://entity/CST/PATHAMYLOID
+http://entity/CST/ANOMALY%20CONGEN%20RESP,RESPIRATORY CONGENITAL ANOMALY,http://entity/CST/MATFETBIRTH|http://entity/CST/RES/GEN
+http://entity/CST/INTEST%20PER,INTESTINAL PERFORATION,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/CHOREOATHETOSIS,CHOREOATHETOSIS,http://entity/CST/NERMOVE
+http://entity/STY/T185,Classification,http://entity/STY/T170
+http://entity/CST/HEM%20ADREN,ADRENAL HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/ENDO/ADR|http://entity/CST/ENDOADREN
+http://entity/CST/PHOTOPHOBIA,PHOTOPHOBIA,http://entity/CST/OPHVIS|http://entity/CST/SS/EYE/VIS
+http://entity/CST/CVSHOCK,SHOCK SYNDROME,http://entity/CST/CV
+http://entity/CST/PATHCOLLAGEN,COLLAGEN/VASCULAR DISEASE,http://entity/CST/PATH
+http://entity/CST/DYSPEPSIA,DYSPEPSIA,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO
+http://entity/CST/MS/BON/MED,medulla (exluding hematopoietic marrow reactions),http://entity/CST/MS/BON
+http://entity/CST/ABSCESS%20INJECT%20SITE,INJECTION SITE ABSCESS,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/PR%20PROLONGED,PR INTERVAL PROLONGED,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/RESPIRAT%20DIS,RESPIRATORY DISORDER,http://entity/CST/RES/GEN|http://entity/CST/PULMGEN
+http://entity/CST/RE%20BLOCK,RETICULOENDOTHELIAL BLOCKADE,http://entity/CST/RETICNOS|http://entity/CST/HAL/RE
+http://entity/CST/ENDO,ENDOCRINE DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/TESTIS%20DIS,TESTIS DISORDER,http://entity/CST/ENDOTEST|http://entity/CST/UG/MG/TEST
+http://entity/CST/FLUTTER%20ATR,ATRIAL FLUTTER,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/CARCINOMA,CARCINOMA,http://entity/CST/BODY/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/HYPERPHOSPHATEM,HYPERPHOSPHATEMIA,http://entity/CST/METCA/PHOS|http://entity/CST/MAN/ION/P
+http://entity/CST/PAIN%20URETHRA,URETHRAL PAIN,http://entity/CST/GUSTRUCT
+http://entity/CST/HEMOLYSIS,HEMOLYSIS,http://entity/CST/HAL/RBC/DEC|http://entity/CST/HEM
+http://entity/CST/HYPERCHOLESTEREM,HYPERCHOLESTEREMIA,http://entity/CST/MAN/LIP|http://entity/CST/METLIPID
+http://entity/CST/SKIN%20STRIAE,SKIN STRIAE,http://entity/CST/SKIN/DERM/ATR|http://entity/CST/SKINDYSFUNCT
+http://entity/CST/HEM%20VAGINAL,VAGINAL HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/GYNVAG|http://entity/CST/GYNUTER
+http://entity/CST/EMOTION%20LABIL,EMOTIONAL LABILITY,http://entity/CST/NERPSYCHNOS
+http://entity/CST/ANOMALY%20VASCUL,VASCULAR ANOMALY,http://entity/CST/MATFETBIRTH|http://entity/CST/CV/VASC/GEN
+http://entity/CST/NPN%20INC,NPN INCREASED,http://entity/CST/RENALFUNC|http://entity/CST/RENALGLOM|http://entity/CST/MAN/ION/N
+http://entity/CST/SPEECH%20DIS,SPEECH DISORDER,http://entity/CST/NERGEN
+http://entity/CST/MYASTHENIA,MYASTHENIA,http://entity/CST/MS/MUS|http://entity/CST/PATHMYOSITIC
+http://entity/CST/RETINAL%20DEPIGMENT,RETINAL DEPIGMENTATION,http://entity/CST/OPHRET
+http://entity/CST/MUCOUS%20MEM%20DIS,MUCOUS MEMBRANE DISORDER,http://entity/CST/BODY/GEN|http://entity/CST/PATHMUCOUS
+http://entity/CST/FLU%20SYND,FLU SYNDROME,http://entity/CST/BODY/GEN|http://entity/CST/GENSYMPTOMS
+http://entity/STY/T078,Idea or Concept,http://entity/STY/T077
+http://entity/CST/UG/MG/GEN,"Male Genital Disorders, General and NEC",http://entity/CST/UG/MG
+http://entity/CST/PERSON%20DIS,PERSONALITY DISORDER,http://entity/CST/NERPSYCHNOS
+http://entity/CST/PULMGEN,PULMONARY DISORDERS: GENERAL,http://entity/CST/PULM
+http://entity/CST/NEOPL%20CERVIX,CERVIX NEOPLASM,http://entity/CST/PATHMALIGN|http://entity/CST/GYNCERV
+http://entity/CST/WITHDRAW%20SYND,WITHDRAWAL SYNDROME,http://entity/CST/BODY/MULT|http://entity/CST/NERABUSE
+http://entity/CST/SKINENDO,ENDOCRINE,http://entity/CST/SKIN
+http://entity/CST/ARRHYTHMIA,ARRHYTHMIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/STY/T196,"Element, Ion, or Isotope",http://entity/STY/T104
+http://entity/CST/BRADYCARDIA%20SINUS,SINUS BRADYCARDIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/ANSPSYM/M|http://entity/CST/CVHTRHYTHM
+http://entity/CST/HEART%20FAIL%20RIGHT,CONGESTIVE HEART FAILURE,http://entity/CST/CVHTMUSCLE|http://entity/CST/PULMVASC|http://entity/CST/CV/CARD/GEN
+http://entity/STY/T190,Anatomical Abnormality,http://entity/STY/T017
+http://entity/CST/HAL/PLAT/GEN,Thrombocyte Abnormalities (Platelets and Megakaryocytes) General and NEC,http://entity/CST/HAL/PLAT
+http://entity/CST/ALBUMINURIA,ALBUMINURIA,http://entity/CST/UG/UT/URN|http://entity/CST/MAN/PRO|http://entity/CST/RENALGLOM|http://entity/CST/RENALNEPH
+http://entity/CST/FIBRINOGEN%20INC,FIBRINOGEN INCREASED,http://entity/CST/GENSIGNS|http://entity/CST/HAL/COAG/CF
+http://entity/CST/HYDROCEPHALUS,HYDROCEPHALUS,http://entity/CST/MATFETBIRTH|http://entity/CST/BODY/HEAD
+http://entity/CST/PROCTITIS%20HEM,HEMORRHAGIC PROCTITIS,http://entity/CST/HEMHMRG|http://entity/CST/GIRECTAL
+http://entity/CST/CARCINOMA%20GI,GASTROINTESTINAL CARCINOMA,http://entity/CST/DIG/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/HEMOSIDERO,HEMOSIDEROSIS,http://entity/CST/HEMRBCDIS|http://entity/CST/SKINPIGMENT|http://entity/CST/MAN/ION/FE
+http://entity/STY/T048,Mental or Behavioral Dysfunction,http://entity/STY/T047
+http://entity/CST/GLOBULIN%20INC%20BJ,BENCE JONES PROTEINS INCREASED,http://entity/CST/MAN/PRO|http://entity/CST/PATHMALIGN|http://entity/CST/RETICMALIG
+http://entity/STY/T038,Biologic Function,http://entity/STY/T070
+http://entity/STY/T080,Qualitative Concept,http://entity/STY/T078
+http://entity/STY/T201,Clinical Attribute,http://entity/STY/T032
+http://entity/CST/SPASM%20GENERAL,GENERALIZED SPASM,http://entity/CST/MS/MUS|http://entity/CST/NERMOTOR
+http://entity/CST/CONVULS%20GRAND%20MAL,GRAND MAL CONVULSION,http://entity/CST/NERGEN
+http://entity/CST/MENINGITIS,MENINGITIS,http://entity/CST/PATHINFECT|http://entity/CST/NERBRAIN
+http://entity/CST/HEMATURIA,HEMATURIA,http://entity/CST/UG/UT/URN|http://entity/CST/HEMHMRG|http://entity/CST/RENALCALC|http://entity/CST/PATHHEM|http://entity/CST/GUBLADDER
+http://entity/CST/CVHTMUSCLE,HEART: MUSCLE/VALVE,http://entity/CST/CV
+http://entity/CST/ALLERG%20REACT,ALLERGIC REACTION,http://entity/CST/BODY/GEN|http://entity/CST/PATHHYSN
+http://entity/CST/ENTEROCOL%20HEM,HEMORRHAGIC ENTEROCOLITIS,http://entity/CST/HEMHMRG|http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/OPHRET,RETINAL ABNORMALITIES,http://entity/CST/OPH
+http://entity/CST/PANCREATITIS,PANCREATITIS,http://entity/CST/GIPANCREAS
+http://entity/CST/POLYARTERITIS%20NODOSA,POLYARTERITIS NODOSA,http://entity/CST/CV/VASC/ART|http://entity/CST/PATHCOLLAGEN
+http://entity/STY/T089,Regulation or Law,http://entity/STY/T170
+http://entity/CST/UG/FG/PLAC,placental disorders,http://entity/CST/UG/FG
+http://entity/CST/HYPERCALCINURIA,HYPERCALCINURIA,http://entity/CST/UG/UT/URN|http://entity/CST/METCA/PHOS|http://entity/CST/MAN/ION/CA
+http://entity/CST/CARCINOMA%20SKIN,SKIN CARCINOMA,http://entity/CST/SKIN/DERM/HYP|http://entity/CST/PATHMALIGN|http://entity/CST/SKINTUMOR
+http://entity/STY/T204,Eukaryote,http://entity/STY/T001
+http://entity/CST/PULM%20TUBERCUL%20AGGRAV,PULMONARY TUBERCULOSIS AGGRAVATED,http://entity/CST/PATHINFECT|http://entity/CST/PULMINFECT
+http://entity/CST/DRUG%20LEVEL%20DEC,DRUG LEVEL DECREASED,http://entity/CST/BODY/GEN|http://entity/CST/PATHDRUG
+http://entity/CST/SKIN%20DISCOLOR,SKIN DISCOLORATION,http://entity/CST/SKIN/PIG|http://entity/CST/SKINPIGMENT
+http://entity/CST/PTOSIS,PTOSIS,http://entity/CST/NERCRAN|http://entity/CST/NER/PNS/CN|http://entity/CST/ANSSYM/L|http://entity/CST/MS/MUS|http://entity/CST/SS/EYE/VIS
+http://entity/CST/VESTIBUL%20DIS,VESTIBULAR DISORDER,http://entity/CST/GENEAR
+http://entity/CST/VASC%20DIS%20PERIPH,PERIPHERAL VASCULAR DISORDER,http://entity/CST/CV/VASC/GEN
+http://entity/CST/LACTATION%20DEC,LACTATION DECREASED,http://entity/CST/MATFETPOSTPART
+http://entity/CST/HYPERCHLOREM,HYPERCHLOREMIA,http://entity/CST/METGEN|http://entity/CST/MAN/ION/CL
+http://entity/CST/ANEMIA%20IRON%20DEFIC,IRON DEFICIENCY ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC|http://entity/CST/MAN/ION/FE
+http://entity/CST/OPHUVEA,UVEAL DISORDERS,http://entity/CST/OPH
+http://entity/CST/PAIN%20BIL,BILIARY PAIN,http://entity/CST/GIBILIARY
+http://entity/CST/GIHEPCHRONIC,HEPATIC: CHRONIC,http://entity/CST/GI
+http://entity/CST/LEUKEMIA,LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/HAL/MAR/INC,marrow cells increased,http://entity/CST/HAL/MAR
+http://entity/CST/OOT,Drug Exposure to Mother in third trimester,
+http://entity/CST/CV/VASC/CAP,Capillary Disorders,http://entity/CST/CV/VASC
+http://entity/CST/GU,GENITOURINARY DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/ARACHNOIDITIS,ARACHNOIDITIS,http://entity/CST/NERBRAIN
+http://entity/CST/MAN/ION/ZN,Zinc Disorders,http://entity/CST/MAN/ION
+http://entity/CST/MTD,Drug Exposure to Mother at time of delivery,
+http://entity/CST/CARCINOMA%20LIVER,CARCINOMA OF LIVER,http://entity/CST/PATHMALIGN
+http://entity/CST/ANSNOS,AUTONOMIC NERVOUS DISORDERS: NONSPECIFIC,http://entity/CST/ANS
+http://entity/CST/LEUKEMIA%20ACUTE%20MONO,ACUTE MONOBLASTIC LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/STY/T068,Human-caused Phenomenon or Process,http://entity/STY/T067
+http://entity/CST/ALKALOSIS%20HYPOCHLOREM,HYPOCHLOREMIC ALKALOSIS,http://entity/CST/METALKALOSIS|http://entity/CST/MAN/ION/CL|http://entity/CST/MAN/ION/H
+http://entity/CST/ANEMIA%20REFRACT,REFRACTORY ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/INFARCT%20MYOCARD,MYOCARDIAL INFARCT,http://entity/CST/CV/CARD/MYO
+http://entity/CST/SGPT%20INC,SGPT INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GIHEPATOCELL
+http://entity/CST/EXTRASYSTOLES%20BIGEM,BIGEMINY,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/HAL/WBC/GEN,"Leukocyte Abnormalities, General and NEC",http://entity/CST/HAL/WBC
+http://entity/CST/ARRHYTHMIA%20VENT,VENTRICULAR ARRHYTHMIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/EDEMA%20BRAIN,BRAIN EDEMA,http://entity/CST/NERGEN|http://entity/CST/GENHEAD
+http://entity/CST/NERABUSE,DRUG ABUSE,http://entity/CST/NER
+http://entity/CST/HAL/COAG/GEN,"Coagulation Disorders, General and NEC",http://entity/CST/HAL/COAG
+http://entity/CST/SKIN/PIG,Pigmentation Disorders,
+http://entity/CST/CORNEAL%20REFLEX%20DEC,CORNEAL REFLEX DECREASED,http://entity/CST/NERCRAN|http://entity/CST/OPHCORNEA
+http://entity/CST/HAL/RBC/GEN,"Erythrocyte Abnormalities, General and NEC",http://entity/CST/HAL/RBC
+http://entity/CST/CUSHINGS%20SYND,CUSHINGS SYNDROME,http://entity/CST/ENDO/GEN|http://entity/CST/ENDOADREN
+http://entity/CST/PURPURA%20VASC,VASCULAR PURPURA,http://entity/CST/HEMHMRG|http://entity/CST/CV/VASC/CAP|http://entity/CST/HEMCLOTDEC|http://entity/CST/PATHHEM
+http://entity/CST/HAL/WBC,Leukocytes Abnormalities,http://entity/CST/HAL
+http://entity/CST/GLOBULIN%20INC%20GAMMA,GAMMA GLOBULINS INCREASED,http://entity/CST/MAN/PRO|http://entity/CST/GENSIGNS
+http://entity/CST/BODY/PELV,Pelvic,http://entity/CST/BODY
+http://entity/CST/PIT%20ACTIV%20INC,PITUITARY ACTIVITY INCREASED,http://entity/CST/ENDOPIT
+http://entity/CST/PULMPLEURAL,PLEURAL,http://entity/CST/PULM
+http://entity/CST/MELANOMA%20SKIN,SKIN MELANOMA,http://entity/CST/SKIN/DERM/HYP|http://entity/CST/SKINPIGMENT|http://entity/CST/PATHMALIGN|http://entity/CST/SKINTUMOR
+http://entity/CST/HYPERACUSIS,HYPERACUSIS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/HEM%20CYSTITIS,HEMORRHAGIC CYSTITIS,http://entity/CST/UG/UT/B/M|http://entity/CST/HEMHMRG|http://entity/CST/PATHHEM|http://entity/CST/GUBLADDER
+http://entity/CST/CYST,CYST,http://entity/CST/PATHTUMORBEN|http://entity/CST/BODY/GEN
+http://entity/CST/HIV%20TEST%20POS,HIV TEST POSITIVE,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/ALKALOSIS%20RESP,RESPIRATORY ALKALOSIS,http://entity/CST/METALKALOSIS|http://entity/CST/PULMMETABOLIC|http://entity/CST/MAN/ION/H
+http://entity/CST/EMB%20LEG,EMBOLUS LOWER EXTREMITY,http://entity/CST/CV/VASC/ART|http://entity/CST/BODY/LE|http://entity/CST/PATHTROMBART
+http://entity/CST/HEM%20SUBARACHNOID,SUBARACHNOID HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/NERSTROKE|http://entity/CST/CV/VASC/GEN
+http://entity/CST/UG/FG/MNPS,menopausal disorders,http://entity/CST/UG/FG
+http://entity/STY/T114,"Nucleic Acid, Nucleoside, or Nucleotide",http://entity/STY/T109
+http://entity/CST/INFLAM%20INJECT%20SITE,INJECTION SITE INFLAMMATION,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/ALTERED%20NEUROTR%20LEVEL,NEUROTRANSMITTER LEVEL ALTERED,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/CST/APATHY,APATHY,http://entity/CST/NERDEPRESS
+http://entity/CST/AV%20BLOCK%20SD,AV BLOCK SECOND DEGREE,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/ANS,AUTONOMIC NERVOUS DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/PATHINFECT,INFECTION,http://entity/CST/PATH
+http://entity/CST/NER/ANS/SYM,Sympathetic Disorder,http://entity/CST/NER/ANS
+http://entity/CST/CARCINOMA%20CERVIX,CERVIX CARCINOMA,http://entity/CST/PATHMALIGN
+http://entity/CST/ASCITES,ASCITES,http://entity/CST/GIHEPCHRONIC|http://entity/CST/GENABDO|http://entity/CST/BODY/ABDO
+http://entity/CST/CLITORIS%20ENLARGE,ENLARGED CLITORIS,http://entity/CST/MATFETBIRTH|http://entity/CST/GYNVAG
+http://entity/CST/SKIN/DERM/UN,Ulcerative-necrotic,http://entity/CST/SKIN/DERM
+http://entity/CST/GRANULOMA%20SKIN,SKIN GRANULOMA,http://entity/CST/SKIN/DERM/HYP|http://entity/CST/PATHGRANULOMA|http://entity/CST/SKINTUMOR
+http://entity/CST/DIG/GD,Gastro-Duodenal,http://entity/CST/DIG
+http://entity/CST/SS,Special Senses,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/ADAMS%20STOKES%20SYND,ADAMS STOKES SYNDROME,http://entity/CST/CVHTMUSCLE|http://entity/CST/CV/CARD/COND
+http://entity/CST/ARTHRITIS%20PYOGEN,PYOGENIC ARTHRITIS,http://entity/CST/PATHINFECT|http://entity/CST/MS/JNT
+http://entity/CST/LEUKOPENIA,LEUKOPENIA,http://entity/CST/HAL/WBC/DEC|http://entity/CST/HEMWBCDEC
+http://entity/CST/VISION%20ABNORM,ABNORMAL VISION,http://entity/CST/OPHVIS|http://entity/CST/SS/EYE/VIS
+http://entity/CST/GIBILIARY,BILIARY TRACT ABNORMALITY,http://entity/CST/GI
+http://entity/CST/DERM%20CONTACT,CONTACT DEMATITIS,http://entity/CST/SKINECZEMA|http://entity/CST/SKIN/DERM/GEN
+http://entity/CST/CVHYPOT,HYPOTENSION,http://entity/CST/CV
+http://entity/CST/METRORRHAGIA,METRORRHAGIA,http://entity/CST/HEMHMRG|http://entity/CST/GYNUTER
+http://entity/CST/GONADOTR%20INC%20PIT,PITUITARY GONADOTROPINS INCREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/SPHEROCYTOSIS,SPHEROCYTOSIS,http://entity/CST/HAL/RBC/GEN|http://entity/CST/HEMRBCABN
+http://entity/CST/NEURITIS%20PERIPH,PERIPHERAL NEURITIS,http://entity/CST/NER/PNS/SN|http://entity/CST/NERMOTOR
+http://entity/CST/UTER%20FIBROID%20DEGEN,UTERINE FIBROIDS DEGENERATED,http://entity/CST/GYNUTER
+http://entity/STY/T079,Temporal Concept,http://entity/STY/T078
+http://entity/CST/ECZEMA,ECZEMA,http://entity/CST/SKINECZEMA|http://entity/CST/SKIN/DERM/GEN
+http://entity/CST/CATARACT%20NOS,CATARACT NOS,http://entity/CST/OPHLENSE
+http://entity/CST/GASTRITIS%20HEM,HEMORRHAGIC GASTRITIS,http://entity/CST/HEMHMRG|http://entity/CST/GIBOWEL
+http://entity/CST/HEM%20MUSCLE,MUSCLE HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/PATHHEM|http://entity/CST/MS/MUS
+http://entity/CST/EDEMA%20INJECT%20SITE,INJECTION SITE EDEMA,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/SWEAT,SWEATING,http://entity/CST/GENSIGNS|http://entity/CST/SKIN/SWGL
+http://entity/CST/CARCINOMA%20OVAR,OVARIAN CARCINOMA,http://entity/CST/UG/FG/OVA|http://entity/CST/PATHMALIGN
+http://entity/CST/DEPRESSION,DEPRESSION,http://entity/CST/NERDEPRESS|http://entity/CST/NERPSYCH
+http://entity/CST/EMB,EMBOLUS,http://entity/CST/CV/VASC/ART|http://entity/CST/HEMCLOTINC|http://entity/CST/PATHTROMBART
+http://entity/CST/ULCER%20STOMACH%20REACT,STOMACH ULCER REACTIVATED,http://entity/CST/GIGASTDUO
+http://entity/CST/TACHYCARDIA,TACHYCARDIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/EDEMA%20GENITAL,GENITAL EDEMA,http://entity/CST/UG/GEN|http://entity/CST/GUGENMALE
+http://entity/CST/SKINECZEMA,ECZEMETOUS ABNORMALITIES,http://entity/CST/SKIN
+http://entity/CST/MS/BON/COR,cortex,http://entity/CST/MS/BON
+http://entity/CST/URETHRITIS,URETHRITIS,http://entity/CST/GUGENMALE|http://entity/CST/GUBLADDER
+http://entity/CST/NERVOUSNESS,NERVOUSNESS,http://entity/CST/NERANX
+http://entity/CST/INFECT%20SUPER,INFECTION SUPERIMPOSED,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/DEPERSONAL,DEPERSONALIZATION,http://entity/CST/NERPSYCHNOS
+http://entity/CST/WBC%20ABNORM,WBC ABNORMAL,http://entity/CST/HEMWBCABN|http://entity/CST/HAL/WBC/GEN
+http://entity/CST/EMB%20CAROTID,CAROTID EMBOLUS,http://entity/CST/CV/VASC/ART|http://entity/CST/NERSTROKE|http://entity/CST/PATHTROMBART
+http://entity/CST/SOMNOLENCE,SOMNOLENCE,http://entity/CST/NERDEPRESS
+http://entity/CST/FIBRILLAT%20VENT,VENTRICULAR FIBRILLATION,http://entity/CST/PATHFETDEATH|http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/SGOT%20INC,SGOT INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GIHEPATOCELL
+http://entity/CST/HAL/COAG/BT,bleeding time abnormal,http://entity/CST/HAL/COAG
+http://entity/CST/VENOSPASM,VENOSPASM,http://entity/CST/NER/ANS/SYM/M|http://entity/CST/CV/VASC/VEN|http://entity/CST/CVVEIN
+http://entity/CST/TOOTH%20CARIES,TOOTH CARIES,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/STY/T090,Occupation or Discipline,http://entity/STY/T077
+http://entity/CST/ACIDOSIS%20DIABET,DIABETIC ACIDOSIS,http://entity/CST/METACIDOSIS|http://entity/CST/ENDODIABETES|http://entity/CST/MAN/ION/H|http://entity/CST/ENDO/PAN
+http://entity/CST/HDL%20DEC,HIGH DENSITY LIPOPROTEIN DECREASED,http://entity/CST/MAN/LIP|http://entity/CST/METLIPID
+http://entity/CST/GLOBULIN%20DEC,GLOBULIN DECREASED,http://entity/CST/MAN/PRO|http://entity/CST/GIHEPATOCELL
+http://entity/CST/VAGINITIS,VAGINITIS,http://entity/CST/GYNVAG
+http://entity/STY/T125,Hormone,http://entity/STY/T123
+http://entity/CST/HEMCLOTDEC,CLOTTING DECREASED,http://entity/CST/HEM
+http://entity/CST/INTEST%20SMALL%20PER,SMALL INTESTINE PERFORATION,http://entity/CST/GIBOWEL
+http://entity/CST/ASTHMA,ASTHMA,http://entity/CST/RES/BRON|http://entity/CST/PULMAIRWAY|http://entity/CST/PATHHYSN
+http://entity/CST/ANEMIA%20MEGALOBLAST,MEGALOBLASTIC ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/CVHTMYO,HEART: MYOCARDIUM/PERICARDIUM,http://entity/CST/CV
+http://entity/CST/SALICYLISM,SALICYLISM,http://entity/CST/BODY/MULT|http://entity/CST/PATHINTOX
+http://entity/CST/HEMPLATABN,PLATELET ABNORMALITY,http://entity/CST/HEM
+http://entity/CST/REFLEXES%20DEC,REFLEXES DECREASED,http://entity/CST/NER/PNS/SN|http://entity/CST/NERMOTOR
+http://entity/CST/PORPHYRIA,PORPHYRIA,http://entity/CST/MAN/PIG|http://entity/CST/METPORPHYRIA
+http://entity/CST/OCCLUS,OCCLUSION,http://entity/CST/CV/VASC/ART|http://entity/CST/GENSIGNS|http://entity/CST/CV/VASC/GEN
+http://entity/CST/CHOLELITH,CHOLELITHIASIS,http://entity/CST/GIBILIARY|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/JAUNDICE%20NEONAT,NEONATAL JAUNDICE,http://entity/CST/MATFETNEWBORN|http://entity/CST/HAL/GEN
+http://entity/CST/QT%20SHORTENED,QT INTERVAL SHORTENED,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/INJURY%20INTENT,INTENTIONAL INJURY,http://entity/CST/BODY/GEN|http://entity/CST/NERPSYCHNOS
+http://entity/CST/ENDO%20DIS,ENDOCRINE DISORDER,http://entity/CST/ENDO/GEN|http://entity/CST/ENDOPIT
+http://entity/CST/TTO,Drug Exposure to Mother in first and second trimesters,
+http://entity/CST/RESPIRAT%20DISTRES%20SYND,RESPIRATORY DISTRESS SYNDROME,http://entity/CST/PULMGEN
+http://entity/CST/STENO%20PULM,PULMONIC STENOSIS,http://entity/CST/CV/CARD/END|http://entity/CST/CVHTMUSCLE
+http://entity/CST/INTRACRAN%20HYPERTENS,INTRACRANIAL HYPERTENSION,http://entity/CST/NERGEN|http://entity/CST/NER/GEN
+http://entity/CST/EDEMA%20LUNG,LUNG EDEMA,http://entity/CST/PULMGEN|http://entity/CST/CVHTMUSCLE
+http://entity/CST/HAL/WBC/INC/G,granulocytes increased,http://entity/CST/HAL/WBC/INC
+http://entity/CST/HYPOTHYR,HYPOTHYROIDISM,http://entity/CST/ENDOTHYR
+http://entity/CST/METHEMOGLOBINURIA,METHEMOGLOBINURIA,http://entity/CST/UG/UT/URN|http://entity/CST/HEMRBCDIS
+http://entity/CST/ENDO/PIT/ANT,Anterior,
+http://entity/CST/HEMOPERITON,HEMOPERITONEUM,http://entity/CST/HEMHMRG|http://entity/CST/GENABDO|http://entity/CST/PATHHEM|http://entity/CST/BODY/ABDO
+http://entity/CST/CV/VASC/BP,Blood Pressure Disorders,http://entity/CST/CV/VASC
+http://entity/CST/RASH%20PUST,PUSTULAR RASH,http://entity/CST/SKINRASH|http://entity/CST/SKIN/DERM/ACN
+http://entity/CST/ULCER%20INTEST%20PER%20ILE,PERFORATED ULCER OF ILEUM,http://entity/CST/GIBOWEL
+http://entity/CST/EUPHORIA,EUPHORIA,http://entity/CST/NERPSYCHNOS
+http://entity/CST/OVERDOSE,OVERDOSE,http://entity/CST/BODY/GEN|http://entity/CST/NERABUSE
+http://entity/CST/ANTICOAG%20DEC,DECREASED ANTICOAGULANT EFFECT,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/AC
+http://entity/STY/T028,Gene or Genome,http://entity/STY/T021
+http://entity/CST/URICACIDUR,URICACIDURIA,http://entity/CST/UG/UT/URN|http://entity/CST/MAN/PUR|http://entity/CST/METGOUT
+http://entity/STY/T099,Family Group,http://entity/STY/T096
+http://entity/CST/DYSAUTONOMIA,DYSAUTONOMIA,http://entity/CST/NER/ANS|http://entity/CST/ANSNOS
+http://entity/CST/CARCINOMA%20LARYNX,CARCINOMA OF LARYNX,http://entity/CST/PATHMALIGN
+http://entity/STY/T018,Embryonic Structure,http://entity/STY/T017
+http://entity/CST/ULCER%20INTEST%20PER,INTESTINAL ULCERATION PERFORATED,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/NEOPL%20PROSTATE,PROSTATE NEOPLASIA,http://entity/CST/PATHMALIGN
+http://entity/CST/HAIR%20DISCOLOR,HAIR DISCOLORATION,http://entity/CST/SKIN/HAIR|http://entity/CST/SKINPIGMENT
+http://entity/CST/EPIPHYS%20CLOS%20DELAY,EPIPHYSIS CLOSURE DELAYED,http://entity/CST/MATFETDEV|http://entity/CST/MAN/GRO
+http://entity/CST/UTER%20ATONY,UTERINE ATONY,http://entity/CST/MATFETDEL
+http://entity/CST/SKIN%20DRY,DRY SKIN,http://entity/CST/SKINDYSFUNCT|http://entity/CST/SKIN/GEN
+http://entity/CST/HEM%20RECTAL,RECTAL HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/GIRECTAL
+http://entity/CST/ENTEROCOL%20ULCER,ULCERATIVE ENTEROCOLITIS,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/SS/EYE/AH,aqueous humor,http://entity/CST/SS/EYE
+http://entity/CST/NERMOVE,MOVEMENT DISORDERS,http://entity/CST/NER
+http://entity/CST/CEREBELL%20SYND,CEREBELLAR SYNDROME,http://entity/CST/NERCEREBELL
+http://entity/CST/PYURIA,PYURIA,http://entity/CST/UG/UT/URN|http://entity/CST/PATHINFECT|http://entity/CST/RENALNOS
+http://entity/CST/PULMINFECT,INFECTION,http://entity/CST/PULM
+http://entity/CST/GENEXTREM,EXTREMITIES DISORDERS,http://entity/CST/GEN
+http://entity/CST/NECRO,NECROSIS,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/BILIRUBINEM,BILIRUBINEMIA,http://entity/CST/GIBILIARY|http://entity/CST/HEMRBCDEC|http://entity/CST/MAN/PIG|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/PULMVASC,VASCULAR ABNORMALITY,http://entity/CST/PULM
+http://entity/CST/LIBIDO%20DEC,LIBIDO DECREASED,http://entity/CST/GYNSEX|http://entity/CST/NER/GEN|http://entity/CST/GUSEXDYS
+http://entity/CST/GENSYMPTOMS,SYMPTOMS,http://entity/CST/GEN
+http://entity/CST/ORCHITIS,ORCHITIS,http://entity/CST/GUGENMALE|http://entity/CST/UG/MG/TEST
+http://entity/CST/NAI,Neonatal and Infancy Disorders,
+http://entity/CST/GONADOTR%20DEC%20PLAC,PLACENTAL GONADOTROPINS DECREASED,http://entity/CST/ENDO/PLAC|http://entity/CST/ENDOPIT
+http://entity/CST/LEUKEMIA%20ACUTE%20LYMPHO,ACUTE LYMPHOBLASTIC LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/LEUKEMIA%20CHRON%20MONO,CHRONIC MONOCYTIC LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/AMYLASE%20INC,AMYLASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GIPANCREAS
+http://entity/CST/GONADOTR%20INC%20LH,GONADOTROPIC LUTEINIZING HORMONE INCREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/ANEMIA%20B12%20DEFIC,B12 DEFICIENCY ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC|http://entity/CST/GIGASTDUO|http://entity/CST/MAN/VIT
+http://entity/CST/GLYCOSURIA%20FALSE%20POS,GLYCOSURIA FALSE POSITIVE,http://entity/CST/UG/UT/URN|http://entity/CST/ENDODIABETES|http://entity/CST/PATHLABTEST
+http://entity/CST/RASH,RASH,http://entity/CST/SKINRASH|http://entity/CST/SKIN/DERM/ERY|http://entity/CST/PATHHYSN
+http://entity/CST/CAPILL%20FRAGIL%20INC,INCREASED CAPILLARY FRAGILITY,http://entity/CST/HEMHMRG|http://entity/CST/CV/VASC/CAP
+http://entity/CST/ACNE,ACNE,http://entity/CST/SKINENDO|http://entity/CST/SKIN/DERM/ACN
+http://entity/CST/VEIN%20VARICOSE,VARICOSE VEIN,http://entity/CST/CV/VASC/VEN|http://entity/CST/CVVEIN
+http://entity/CST/UG/UT/B,Bladder Disorders,http://entity/CST/UG/UT
+http://entity/CST/METALKALOSIS,ALKALOSIS,http://entity/CST/MET
+http://entity/CST/LAB%20TEST%20ABNORM,LAB TEST ABNORMAL,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/CST/OTITIS%20EXT,OTITIS EXTERNA,http://entity/CST/PATHINFECT
+http://entity/CST/ADENOMA,ADENOMA,http://entity/CST/PATHTUMORBEN|http://entity/CST/BODY/GEN
+http://entity/CST/PSA%20DEC,PROSTATIC SPECIFIC ANTIGEN DECREASE,http://entity/CST/GUPROST
+http://entity/CST/HYPERTROPHY%20SKIN,SKIN HYPERTROPHY,http://entity/CST/SKIN/DERM/HYP|http://entity/CST/SKINECZEMA
+http://entity/CST/THROMBOPHLEB%20DEEP,DEEP THROMBOPHLEBITIS,http://entity/CST/CV/VASC/VEN|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/NEPHRITIS,NEPHRITIS,http://entity/CST/UG/UT/K/M|http://entity/CST/RENALGLOM
+http://entity/CST/MS/LIG,Ligamentous Disorders,http://entity/CST/MS
+http://entity/CST/DEAF%20PERM%20TOTAL,TOTAL PERMANENT DEAFNESS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/ANOREXIA,ANOREXIA,http://entity/CST/GENSYMPTOMS|http://entity/CST/DIG/GEN
+http://entity/CST/TREMOR,TREMOR,http://entity/CST/NERMOVE
+http://entity/CST/SALPINGITIS,SALPINGITIS,http://entity/CST/GYNUTER
+http://entity/CST/BIRTH%20WEIGHT%20SUBNORM,BIRTH WEIGHT SUBNORMAL,http://entity/CST/BODY/GEN|http://entity/CST/MATFETGEST
+http://entity/CST/STUPOR,STUPOR,http://entity/CST/NERGEN
+http://entity/CST/TUMOR%20LYSIS%20SYND,TUMOR LYSIS SYNDROME,http://entity/CST/BODY/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/EPIPHYS%20CLOS%20PREMAT,PREMATURE EPIPHYSEAL CLOSURE,http://entity/CST/MATFETDEV|http://entity/CST/MAN/GRO
+http://entity/CST/SERUM%20SICK,SERUM SICKNESS,http://entity/CST/BODY/MULT|http://entity/CST/PATHHYSN
+http://entity/CST/HAL/COAG/AC,anticoagulant disorders,http://entity/CST/HAL/COAG
+http://entity/CST/GIRECTAL,RECTAL/ANAL,http://entity/CST/GI
+http://entity/CST/DERM%20LICHEN,LICHENOID DERMATITIS,http://entity/CST/SKIN/DERM/HYP|http://entity/CST/SKINECZEMA
+http://entity/CST/ISCHEMIA%20CEREBR,CEREBRAL ISCHEMIA,http://entity/CST/CV/VASC/ART|http://entity/CST/NERSTROKE
+http://entity/CST/HERNIA,HERNIA,http://entity/CST/BODY/GEN|http://entity/CST/GIGEN
+http://entity/CST/ANEMIA%20PYRIDOX%20DEFIC,PYRIDOXINE DEFICIENCY ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/METHEMOGLOBIN,METHEMOGLOBINEMIA,http://entity/CST/HEMRBCDIS|http://entity/CST/HAL/RBC/HGB
+http://entity/CST/DYSARTHRIA,DYSARTHRIA,http://entity/CST/NERGEN|http://entity/CST/NERCRAN
+http://entity/CST/HYPOPROTEINEM,HYPOPROTEINEMIA,http://entity/CST/MAN/PRO|http://entity/CST/METHYPOPROT|http://entity/CST/RENALNEPH
+http://entity/CST/PARALYSIS,PARALYSIS,http://entity/CST/NERGEN|http://entity/CST/NER/GEN
+http://entity/CST/OCCLUS%20CORONARY,CORONARY OCCLUSION,http://entity/CST/CV/CARD/COR
+http://entity/CST/MONILIA%20RESP,RESPIRATORY MONILIASIS,http://entity/CST/RES/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/ANEMIA%20HEMOL%20G6PD,HEMOLYTIC ANEMIA GLUCOSE-6-PHOSPHATE DEHYDROGENASE DEFICIENC,http://entity/CST/HEMOLYSIS|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/NAUSEA,NAUSEA,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO
+http://entity/CST/UG/UT/K/M,kidney morphologic,http://entity/CST/UG/UT/K
+http://entity/CST/STENO%20INTEST%20SMALL,SMALL INTESTINE STENOSIS,http://entity/CST/GIBOWEL
+http://entity/CST/SYNDACTYLY,SYNDACTYLY,http://entity/CST/MATFETBIRTH|http://entity/CST/BODY/UE
+http://entity/CST/GLOSSITIS,GLOSSITIS,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/TASTE%20PERVERS,TASTE PERVERSION,http://entity/CST/NERCRAN|http://entity/CST/SS/TST
+http://entity/CST/THROMBIN%20DEC,THROMBIN DECREASED,http://entity/CST/PATHDIC|http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/NECRO%20ADREN,ADRENAL CORTEX NECROSIS,http://entity/CST/ENDOADREN|http://entity/CST/ENDO/ADR/COR
+http://entity/CST/DEATH,DEATH,http://entity/CST/BODY/GEN|http://entity/CST/PATHFETDEATH
+http://entity/CST/PANCREAS%20DIS,PANCREAS DISORDER,http://entity/CST/GIPANCREAS
+http://entity/CST/RES/SINS,Sinus,http://entity/CST/RES
+http://entity/STY/T050,Experimental Model of Disease,http://entity/STY/T046
+http://entity/CST/NERSENS,SENSORY DISORDERS,http://entity/CST/NER
+http://entity/STY/T008,Animal,http://entity/STY/T204
+http://entity/CST/CV/CARD/COND,Conduction Abnormalities,http://entity/CST/CV/CARD
+http://entity/CST/NEURITIS%20RETROBULBAR,RETROBULBAR NEURITIS,http://entity/CST/NER/PNS/CN
+http://entity/CST/COORDINAT%20ABNORM,INCOORDINATION,http://entity/CST/NERMOVE|http://entity/CST/NERCEREBELL
+http://entity/CST/MYOPATHY,MYOPATHY,http://entity/CST/MS/MUS|http://entity/CST/PATHMYOSITIC
+http://entity/CST/RENALVASC,RENOVASCULAR,http://entity/CST/RENAL
+http://entity/STY/T059,Laboratory Procedure,http://entity/STY/T058
+http://entity/CST/URTICARIA,URTICARIA,http://entity/CST/SKINRASH|http://entity/CST/SKIN/DERM/GEN|http://entity/CST/PATHHYSN
+http://entity/CST/MAN/ION,Element and Ion Disorders NEC,http://entity/CST/MAN
+http://entity/CST/GENABDO,ABDOMINAL DISORDERS,http://entity/CST/GEN
+http://entity/CST/HYPERCHLORHYDRIA,HYPERCHLORHYDRIA,http://entity/CST/ANSPSYM/M|http://entity/CST/NER/ANS/PSYM/M|http://entity/CST/GIGASTDUO
+http://entity/CST/EFFUS%20PERICARD,PERICARDIAL EFFUSION,http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/PER
+http://entity/CST/PLAT%20ABNORM,ABNORMAL PLATELETS,http://entity/CST/HAL/PLAT/GEN|http://entity/CST/HEMPLATABN
+http://entity/CST/EXTRASYSTOLES%20MF,MULTIFOCAL EXTRASYSTOLES,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/STY/T169,Functional Concept,http://entity/STY/T078
+http://entity/CST/PNEUMOTHORAX,PNEUMOTHORAX,http://entity/CST/PULMPLEURAL|http://entity/CST/RES/PLRA
+http://entity/CST/HEPATORENAL%20SYND,HEPATORENAL SYNDROME,http://entity/CST/UG/UT/K|http://entity/CST/GIHEPATOCELL
+http://entity/CST/HEART%20FAIL,HEART FAILURE,http://entity/CST/CVHTMUSCLE|http://entity/CST/CV/CARD/GEN
+http://entity/CST/SKINGENSER,SKIN DISORDERS: SEVERE GENERALIZED,http://entity/CST/SKIN
+http://entity/CST/ULCER%20STOMACH%20PER,PERFORATED STOMACH ULCER,http://entity/CST/GIGASTDUO
+http://entity/CST/DYSTONIA,DYSTONIA,http://entity/CST/NERMOVE
+http://entity/CST/MAN/ION/FL,Fluorine Disorders,http://entity/CST/MAN/ION
+http://entity/CST/ANSPSYM/L,PARASYMPATHOLYTIC,http://entity/CST/ANS
+http://entity/CST/LYMPHOCYTOSIS,LYMPHOCYTOSIS,http://entity/CST/RETICNOS|http://entity/CST/HAL/WBC/INC/L
+http://entity/CST/APPETITE%20INC,INCREASED APPETITE,http://entity/CST/GENSYMPTOMS|http://entity/CST/DIG/GEN|http://entity/CST/ENDOTHYR
+http://entity/CST/RETINAL%20DIS,RETINAL DISORDER,http://entity/CST/OPHRET
+http://entity/CST/HOSTILITY,HOSTILITY,http://entity/CST/BODY/HEAD|http://entity/CST/NERPSYCHNOS
+http://entity/CST/BUNDLE%20BRANCH%20BLOCK,BUNDLE BRANCH BLOCK,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/INJURY%20ACCID,ACCIDENTAL INJURY,http://entity/CST/BODY/GEN|http://entity/CST/NERMOVE
+http://entity/CST/ACCOMMODATION%20ABNORM,ABNORMALITY OF ACCOMMODATION,http://entity/CST/OPHACCOM|http://entity/CST/SS/EYE/VIS
+http://entity/CST/DYSKINESIA,DYSKINESIA,http://entity/CST/NERMOVE
+http://entity/CST/MENORRHAGIA,MENORRHAGIA,http://entity/CST/HEMHMRG|http://entity/CST/UG/FG/MENS|http://entity/CST/GYNUTER
+http://entity/STY/T070,Natural Phenomenon or Process,http://entity/STY/T067
+http://entity/CST/CLUBFOOT,CLUBFOOT,http://entity/CST/BODY/LE|http://entity/CST/MATFETBIRTH
+http://entity/CST/SKIN,SKIN DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/SKINRASH,RASH,http://entity/CST/SKIN
+http://entity/CST/PARESTHESIA,PARESTHESIA,http://entity/CST/NER/PNS|http://entity/CST/NERSENS
+http://entity/CST/EXTRASYSTOLES%20SUPVENT,SUPRAVENTRICULAR EXTRASYSTOLES,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/GIHEPATOCELL,HEPATIC: HEPATOCELLULAR,http://entity/CST/GI
+http://entity/CST/HAL/WBC/INC,leukocytes increased,http://entity/CST/HAL/WBC
+http://entity/CST/STOMATITIS%20APHTH,APHTHOUS STOMATITIS,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/BRONCHOSTENO,BRONCHOSTENOSIS,http://entity/CST/RES/BRON|http://entity/CST/PULMAIRWAY
+http://entity/CST/DIG/BUC,Buccal Cavity,http://entity/CST/DIG
+http://entity/CST/HEMPLATINC,PLATELETS INCREASED,http://entity/CST/HEM
+http://entity/CST/ANTICHOLINERG%20SYND,ANTICHOLINERGIC SYNDROME,http://entity/CST/BODY/MULT|http://entity/CST/ANSPSYM/L|http://entity/CST/NER/ANS/PSYM/L
+http://entity/CST/ULCER%20PEPTIC%20HEM,PEPTIC ULCER HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/DIG/GD|http://entity/CST/GIGASTDUO
+http://entity/CST/RETINITIS,RETINITIS,http://entity/CST/OPHRET
+http://entity/CST/NEOPL%20CNS,CNS NEOPLASIA,http://entity/CST/NER/CNS|http://entity/CST/PATHMALIGN
+http://entity/CST/NASAL%20SEPTUM%20DIS,NASAL SEPTUM DISORDER,http://entity/CST/GIORPHAN
+http://entity/CST/WRIST%20DROP,WRIST DROP,http://entity/CST/NER/PNS/SN|http://entity/CST/PATHINTOX|http://entity/CST/NERMOTOR
+http://entity/CST/SKIN/DERM/ERY,Erythema,http://entity/CST/SKIN/DERM
+http://entity/CST/DISCOLOR%20TONGUE,TONGUE DISCOLORATION,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/INCONTIN%20URIN,URINARY INCONTINENCE,http://entity/CST/UG/UT/B/F|http://entity/CST/GUBLADDER
+http://entity/CST/PSYCHOSIS,PSYCHOSIS,http://entity/CST/NERPSYCH
+http://entity/CST/YAWN,YAWN,http://entity/CST/RES/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/OPHIOP,INTRAOCULAR PRESSURE,http://entity/CST/OPH
+http://entity/CST/HEART%20FAIL%20LEFT,LEFT HEART FAILURE,http://entity/CST/CVHTMUSCLE|http://entity/CST/CV/CARD/GEN
+http://entity/CST/DEAF%20TRANS,TRANSITORY DEAFNESS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/NEOPL%20UTER,UTERINE NEOPLASM,http://entity/CST/PATHMALIGN|http://entity/CST/GYNUTER
+http://entity/CST/BALANITIS,BALANITIS,http://entity/CST/GUGENMALE|http://entity/CST/PATHINFECT
+http://entity/CST/MEGAKARYO%20INC,MEGAKARYOCYTES INCREASED,http://entity/CST/HEMPLATINC|http://entity/CST/HAL/PLAT/INC
+http://entity/CST/SINUSITIS,SINUSITIS,http://entity/CST/RES/SINS|http://entity/CST/PATHHYSN
+http://entity/CST/BODY/HEAD,Head,http://entity/CST/BODY
+http://entity/CST/ECG%20ABNORM,ELECTROCARDIOGRAM ABNORMAL,http://entity/CST/CVHTRHYTHM|http://entity/CST/CV/CARD/GEN
+http://entity/CST/LEUKOCYTOSIS,LEUKOCYTOSIS,http://entity/CST/HEMWBCABN|http://entity/CST/HAL/WBC/INC
+http://entity/CST/ENDOOVARIAN,OVARIAN DISORDERS,http://entity/CST/ENDO
+http://entity/CST/ANOMALY%20CONGEN,CONGENITAL ANOMALY,http://entity/CST/BODY/GEN|http://entity/CST/MATFETBIRTH
+http://entity/CST/ABORTION,ABORTION,http://entity/CST/MATFETABORTION|http://entity/CST/UG/FG/PREG
+http://entity/CST/NECRO%20KIDNEY%20PAPILL,PAPILLARY KIDNEY NECROSIS,http://entity/CST/UG/UT/K/M|http://entity/CST/ENDODIABETES|http://entity/CST/RENALNOS
+http://entity/CST/ARRHYTHMIA%20ATR,ATRIAL ARRHYTHMIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/DEAF%20TRANS%20TOTAL,TOTAL TRANSITORY DEAFNESS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/UG/FG/MENS,menstrual disorders,http://entity/CST/UG/FG
+http://entity/CST/OPHCORNEA,CORNEAL DISORDERS,http://entity/CST/OPH
+http://entity/CST/HAL/WBC/INC/M,monocytes increased,http://entity/CST/HAL/WBC/INC
+http://entity/CST/CACHEXIA,CACHEXIA,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS|http://entity/CST/MAN/WT
+http://entity/STY/T040,Organism Function,http://entity/STY/T039
+http://entity/CST/RES/PLRA,Pleura,http://entity/CST/RES
+http://entity/CST/PAIN%20CHEST,CHEST PAIN,http://entity/CST/BODY/THOR|http://entity/CST/GENCHEST
+http://entity/CST/SEX%20MAT%20FEM%20ACCEL,FEMALE SEX MATURATION ACCELERATED,http://entity/CST/MATFETDEV|http://entity/CST/UG/FG/GEN|http://entity/CST/ENDO/GEN|http://entity/CST/ENDOPIT
+http://entity/CST/OTT,Drug Exposure to Mother in second and third trimesters,
+http://entity/STY/T049,Cell or Molecular Dysfunction,http://entity/STY/T046
+http://entity/CST/DEAF,DEAFNESS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/TACHYCARDIA%20NODAL,NODAL TACHYCARDIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/STY/T081,Quantitative Concept,http://entity/STY/T078
+http://entity/CST/ATROPHY%20ADREN,ADRENAL CORTEX ATROPHY,http://entity/CST/ENDOADREN|http://entity/CST/ENDO/ADR/COR
+http://entity/CST/COLITIS%20ULCER,ULCERATIVE COLITIS,http://entity/CST/GIBOWEL
+http://entity/CST/HAL/COAG/CT,coagulation time abnormal,http://entity/CST/HAL/COAG
+http://entity/CST/PARALYSIS%20SPASTIC,SPASTIC PARALYSIS,http://entity/CST/NERGEN|http://entity/CST/NER/GEN
+http://entity/CST/IBM,Drug Exposure to Infant birth to one month,
+http://entity/CST/MENINGOMYELOCELE,MENINGOMYELOCELE,http://entity/CST/MATFETBIRTH
+http://entity/CST/GLOBULIN%20DEC%20GAMMA,GAMMA GLOBULIN DECREASED,http://entity/CST/MAN/PRO|http://entity/CST/GIHEPATOCELL
+http://entity/CST/EDEMA%20CONJUNCT,CONJUNCTIVAL EDEMA,http://entity/CST/OPHLOCAL
+http://entity/CST/ATROPHY%20THYR,THYROID ATROPHY,http://entity/CST/ENDOTHYR
+http://entity/CST/RENALGLOM,GLOMERULAR,http://entity/CST/RENAL
+http://entity/CST/STENO%20INTEST%20COLON,STENOSIS OF COLON,http://entity/CST/GIBOWEL
+http://entity/CST/JAUNDICE%20CHOLESTAT,CHOLESTATIC JAUNDICE,http://entity/CST/GIBILIARY|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/MATFETDEL,DELIVERY ABNORMAL,http://entity/CST/MATFET
+http://entity/CST/KIDNEY%20TUBUL%20DIS,KIDNEY TUBULAR DISORDER,http://entity/CST/UG/UT/K/M|http://entity/CST/RENALTUBULE
+http://entity/CST/PALPITAT,PALPITATION,http://entity/CST/CVHTRHYTHM|http://entity/CST/CV/CARD/GEN
+http://entity/CST/BRAIN%20SYND%20CHRON,CHRONIC BRAIN SYNDROME,http://entity/CST/NERPSYCH
+http://entity/CST/COMA%20HEPATIC,HEPATIC COMA,http://entity/CST/GIHEPATOCELL|http://entity/CST/MAN/ION/N
+http://entity/CST/HEM%20UTER,UTERINE HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/GYNUTER
+http://entity/STY/T060,Diagnostic Procedure,http://entity/STY/T058
+http://entity/CST/ULCER%20INTEST,INTESTINAL ULCER,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/PARESTH%20CIRCUMORAL,CIRCUMORAL PARESTHESIA,http://entity/CST/NER/PNS/CN|http://entity/CST/NERSENS
+http://entity/CST/UVEITIS,UVEITIS,http://entity/CST/OPHUVEA
+http://entity/CST/FOOT%20DROP,FOOT DROP,http://entity/CST/NER/PNS/SN|http://entity/CST/NERMOTOR
+http://entity/CST/PLEOCYTOSIS,PLEOCYTOSIS,http://entity/CST/NERBRAIN
+http://entity/CST/HAL/COAG/CF,coagulation factor deficiencies and excesses,http://entity/CST/HAL/COAG
+http://entity/CST/EDEMA%20TONGUE,TONGUE EDEMA,http://entity/CST/DIG/BUC|http://entity/CST/PATHHYSN
+http://entity/CST/HAIR%20DIS,HAIR DISORDER,http://entity/CST/SKIN/HAIR|http://entity/CST/SKINDYSFUNCT
+http://entity/CST/BRADYCARDIA,BRADYCARDIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/ANSPSYM/M|http://entity/CST/CVHTRHYTHM
+http://entity/CST/PRURITUS,PRURITUS,http://entity/CST/GENSYMPTOMS|http://entity/CST/PATHHYSN|http://entity/CST/SKIN/GEN|http://entity/CST/SKINOTHER
+http://entity/CST/HERMAPHRODIT,HERMAPHRODITISM,http://entity/CST/MATFETBIRTH|http://entity/CST/UG/MG/GEN|http://entity/CST/UG/FG/GEN
+http://entity/CST/NEPHROSCLEROSIS,NEPHROSCLEROSIS,http://entity/CST/CV/VASC/ART|http://entity/CST/UG/UT/K/M|http://entity/CST/RENALVASC
+http://entity/CST/MATFET,MATERNAL-FETAL DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/STY/T170,Intellectual Product,http://entity/STY/T077
+http://entity/CST/MAN/TR,Tissue Repair,http://entity/CST/MAN
+http://entity/CST/MIOSIS,MIOSIS,http://entity/CST/ANSPSYM/M|http://entity/CST/OPHUVEA|http://entity/CST/NER/ANS/PSYM/M
+http://entity/CST/HYPOVOLEM,HYPOVOLEMIA,http://entity/CST/MAN/WB|http://entity/CST/PATHVOLDIS|http://entity/CST/HAL/GEN
+http://entity/CST/SARCOMA%20BONE,BONE SARCOMA,http://entity/CST/GENBONE|http://entity/CST/PATHMALIGN|http://entity/CST/MS/BON/GEN
+http://entity/CST/BLIND,BLINDNESS,http://entity/CST/OPHRET|http://entity/CST/OPHVIS|http://entity/CST/OPHLENSE|http://entity/CST/SS/EYE/VIS|http://entity/CST/OPHRETVASC
+http://entity/CST/URIN%20RETENT,URINARY RETENTION,http://entity/CST/ANSPSYM/L|http://entity/CST/NER/ANS/PSYM/L|http://entity/CST/UG/UT/B/F|http://entity/CST/GUBLADDER
+http://entity/CST/PNEUMONIA%20ASPIR,ASPIRATION PNEUMONIA,http://entity/CST/PULMINFECT
+http://entity/CST/FIBRO%20LUNG,LUNG FIBROSIS,http://entity/CST/PULMSTRUCTURAL|http://entity/CST/PATHFIBROSIS
+http://entity/CST/OBESITY,OBESITY,http://entity/CST/GENSIGNS|http://entity/CST/MAN/WT
+http://entity/CST/HYDROURETER,HYDROURETER,http://entity/CST/GUSTRUCT|http://entity/CST/RENALNOS
+http://entity/CST/NEPHROPATHY%20TOXIC,TOXIC NEPHROPATHY,http://entity/CST/RENALFUNC|http://entity/CST/UG/UT/K/M
+http://entity/CST/HYPOKINESIA,HYPOKINESIA,http://entity/CST/NERMOVE
+http://entity/CST/TOOTH%20DIS,TOOTH DISORDER,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/MYELOID%20METAPLASIA,MYELOID METAPLASIA,http://entity/CST/HAL/MAR/INC|http://entity/CST/HEMMARDEPRESS
+http://entity/CST/NER/ANS/PSYM/L,parasympatholytic,http://entity/CST/NER/ANS/PSYM
+http://entity/STY/T069,Environmental Effect of Humans,http://entity/STY/T068
+http://entity/CST/THROM,THROMBOSIS,http://entity/CST/CV/VASC/GEN|http://entity/CST/PATHTROMBART
+http://entity/CST/PULM%20TUBERCUL%20REACT,PULMONARY TUBERCULOSIS REACTIVATED,http://entity/CST/PATHINFECT|http://entity/CST/PULMINFECT
+http://entity/CST/ENCEPHALOP%20HYPERTENS,HYPERTENSIVE ENCEPHALOPATHY,http://entity/CST/CV/VASC/BP|http://entity/CST/CVHYPERT
+http://entity/CST/TUBERCUL%20AGGRAV,TUBERCULOSIS AGGRAVATED,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT|http://entity/CST/PULMINFECT
+http://entity/CST/HEMRBCINC,RBC INCREASED,http://entity/CST/HEM
+http://entity/CST/ANSSYM/L,SYMPATHOLYTIC,http://entity/CST/ANS
+http://entity/CST/CONVULS,CONVULSION,http://entity/CST/NERGEN
+http://entity/CST/RENALCALC,CALCULUS DISORDERS,http://entity/CST/RENAL
+http://entity/CST/AMBLYOPIA,AMBLYOPIA,http://entity/CST/OPHVIS|http://entity/CST/SS/EYE/VIS
+http://entity/CST/TRANSPOS%20GREAT%20VESS,TRANSPOSITION OF GREAT VESSELS,http://entity/CST/CV/VASC/ART|http://entity/CST/MATFETBIRTH
+http://entity/CST/THROMBOPHLEB,THROMBOPHLEBITIS,http://entity/CST/CV/VASC/VEN|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/ANUS%20IMPERFOR,IMPERFORATE ANUS,http://entity/CST/MATFETBIRTH
+http://entity/CST/ASPHYXIA,ASPHYXIA,http://entity/CST/RES/GEN|http://entity/CST/GENSYMPTOMS|http://entity/CST/PATHHYSN
+http://entity/CST/ENTEROCOL,ENTEROCOLITIS,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/VEN%20PRESS%20INC,VENOUS PRESSURE INCREASED,http://entity/CST/CVHTMUSCLE|http://entity/CST/CV/VASC/VEN|http://entity/CST/CVVEIN
+http://entity/CST/HAL/SPLN,Spleen Disorders,http://entity/CST/HAL
+http://entity/CST/FIBRO%20TENDON,TENDINOUS CONTRACTURE,http://entity/CST/GENBONE|http://entity/CST/MS/TEN
+http://entity/CST/MS/BUR,Bursal Disorders,http://entity/CST/MS
+http://entity/CST/BASOPHILIA,BASOPHILIA,http://entity/CST/HEMWBCABN|http://entity/CST/HAL/RBC/GEN
+http://entity/CST/METHYPOPROT,HYPOPROTEINEMIA,http://entity/CST/MET
+http://entity/CST/GENHEAD,HEAD DISORDERS,http://entity/CST/GEN
+http://entity/STY/T071,Entity,
+http://entity/CST/URIN%20TRACT%20DIS,URINARY TRACT DISORDER,http://entity/CST/GUSTRUCT|http://entity/CST/UG/UT/GEN|http://entity/CST/GUBLADDER
+http://entity/CST/UG/FG/GEN,"Female Genital Disorders, General and NEC",http://entity/CST/UG/FG
+http://entity/CST/MYELITIS,MYELITIS,http://entity/CST/NERBRAIN
+http://entity/STY/T039,Physiologic Function,http://entity/STY/T038
+http://entity/CST/ATROPHY%20TESTIS,TESTICULAR ATROPHY,http://entity/CST/ENDOTEST|http://entity/CST/UG/MG/TEST|http://entity/CST/ENDOPIT
+http://entity/CST/ULCER%20INTEST%20SMALL,SMALL INTESTINE ULCER,http://entity/CST/GIBOWEL
+http://entity/STY/T191,Neoplastic Process,http://entity/STY/T047
+http://entity/CST/ENTEROCOL%20PSEUDOMEM,PSEUDOMEMBRANOUS ENTEROCOLITIS,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/OVAR%20DIS,OVARIAN DISORDER,http://entity/CST/UG/FG/OVA|http://entity/CST/ENDOOVARIAN
+http://entity/CST/PANCREATITIS%20NECRO,NECROTIZING PANCREATITIS,http://entity/CST/GIPANCREAS
+http://entity/CST/SKINPIGMENT,PIGMENT CHANGES,http://entity/CST/SKIN
+http://entity/CST/SKIN/DERM/FX,Fixed Eruption,http://entity/CST/SKIN/DERM
+http://entity/CST/CERVICITIS,CERVICITIS,http://entity/CST/GYNCERV
+http://entity/CST/HYPERTENS%20RENAL,RENAL HYPERTENSION,http://entity/CST/UG/UT/K|http://entity/CST/CV/VASC/BP|http://entity/CST/NER/ANS/SYM/M|http://entity/CST/CVHYPERT|http://entity/CST/ENDORENIN
+http://entity/CST/RECTAL%20DIS,RECTAL DISORDER,http://entity/CST/GIRECTAL
+http://entity/CST/INFECT%20FUNG,INFECTION FUNGAL,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/PATHRAD,RADIATION INJURY,http://entity/CST/PATH
+http://entity/CST/BRONCHIOLITIS,BRONCHIOLITIS,http://entity/CST/RES/BRON|http://entity/CST/PULMINFECT
+http://entity/CST/NER/GEN,"Nervous System Disorders, General and NEC",http://entity/CST/NER
+http://entity/CST/ACHLORHYDRIA,ACHLORHYDRIA,http://entity/CST/GIGASTDUO
+http://entity/CST/T%20AMPLITUDE%20DEC,T AMPLITUDE DECREASED,http://entity/CST/CV/CARD/COND
+http://entity/CST/COUGH%20INC,COUGH INCREASED,http://entity/CST/RES/GEN|http://entity/CST/PULMAIRWAY|http://entity/CST/PULMGEN
+http://entity/CST/NEOPL%20SKIN,SKIN BENIGN NEOPLASM,http://entity/CST/PATHTUMORBEN|http://entity/CST/SKIN/DERM/HYP|http://entity/CST/SKINTUMOR
+http://entity/CST/DEAF%20PERM,PERMANENT DEAFNESS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/PATHAMYLOID,AMYLOIDOSIS,http://entity/CST/PATH
+http://entity/CST/MOVEMENT%20DIS,MOVEMENT DISORDER,http://entity/CST/NERMOVE
+http://entity/CST/GUM%20BLUE%20LINE,GUM BLUE LINE,http://entity/CST/DIG/BUC|http://entity/CST/PATHDRUG|http://entity/CST/GIORPHAN
+http://entity/CST/BLIND%20COLOR,COLOR BLINDNESS,http://entity/CST/OPHRET|http://entity/CST/SS/EYE/VIS
+http://entity/CST/SKIN%20DIS,SKIN DISORDER,http://entity/CST/SKIN/GEN|http://entity/CST/SKINOTHER
+http://entity/CST/HYPOXIA,HYPOXIA,http://entity/CST/RES/GEN|http://entity/CST/GENSIGNS|http://entity/CST/PULMGEN|http://entity/CST/MAN/ION/O
+http://entity/CST/EAR%20DIS,EAR DISORDER,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/GEN
+http://entity/CST/DIG/GEN,"Digestive System Disorders, General, Functional and NEC",http://entity/CST/DIG
+http://entity/STY/T074,Medical Device,http://entity/STY/T073
+http://entity/CST/LEUKEMIA%20CHRON%20MYELO,CHRONIC MYELOCYTIC LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/GLOBULIN%20INC,GLOBULIN INCREASED,http://entity/CST/MAN/PRO|http://entity/CST/GENSIGNS
+http://entity/CST/ANTICOAG%20INC,INCREASED ANTICOAGULANT EFFECT,http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/AC
+http://entity/CST/MYALGIA,MYALGIA,http://entity/CST/MS/MUS|http://entity/CST/PATHMYOSITIC
+http://entity/CST/MALABSORP%20SYND,MALABSORPTION SYNDROME,http://entity/CST/DIG/EC|http://entity/CST/METHYPOPROT|http://entity/CST/GIBOWEL
+http://entity/CST/ANGIOMA%20SPIDER,SPIDER ANGIOMA,http://entity/CST/CV/VASC/ART|http://entity/CST/GIHEPCHRONIC
+http://entity/STY/T130,"Indicator, Reagent, or Diagnostic Aid",http://entity/STY/T120
+http://entity/CST/MAN/WB,Water Balance Disorders,http://entity/CST/MAN
+http://entity/CST/EDEMA%20GENERAL,GENERALIZED EDEMA,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS|http://entity/CST/MAN/WB|http://entity/CST/RENALNEPH
+http://entity/CST/TOT,Drug Exposure to Mother in first and third trimesters,
+http://entity/CST/NERSTROKE,VASCULAR: INTRACRANIAL,http://entity/CST/NER
+http://entity/CST/LIPASE%20INC,LIPASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GIPANCREAS
+http://entity/CST/SKIN/NAIL,Nail Disorders,
+http://entity/CST/HEMRBCDEC,RBC DECREASED,http://entity/CST/HEM
+http://entity/CST/LDH%20INC,LACTIC DEHYDROGENASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GIHEPATOCELL
+http://entity/CST/MBC,Drug Exposure to Mother before conception,
+http://entity/CST/CHOLANGITIS%20SCLERO,SCLEROSING CHOLANGITIS,http://entity/CST/GIBILIARY|http://entity/CST/GIHEPOBSTRUCT|http://entity/CST/PATHFIBROSIS
+http://entity/CST/ENDO/PLAC,Placenta,http://entity/CST/ENDO
+http://entity/CST/SLEEP%20DIS,SLEEP DISORDER,http://entity/CST/NERPSYCHNOS
+http://entity/CST/PREGN%20MULT,MULTIPLE PREGNANCY,http://entity/CST/GYNFERTIL|http://entity/CST/UG/FG/PREG
+http://entity/CST/THYMOL%20TURBID%20ABNORM,THYMOL TURBIDITY TEST ABNORMAL,http://entity/CST/GIHEPATOCELL|http://entity/CST/HAL/GEN
+http://entity/CST/PLAT%20ADHESIVE%20DEC,PLATELET ADHESIVENESS DECREASED,http://entity/CST/HAL/PLAT/GEN|http://entity/CST/HEMCLOTDEC|http://entity/CST/HEMPLATABN
+http://entity/CST/EMPHYSEMA,EMPHYSEMA,http://entity/CST/PULMSTRUCTURAL
+http://entity/STY/T091,Biomedical Occupation or Discipline,http://entity/STY/T090
+http://entity/CST/ESOPHAGITIS,ESOPHAGITIS,
+http://entity/STY/T020,Acquired Abnormality,http://entity/STY/T190
+http://entity/CST/CATARACT,CATARACT SPECIFIED,http://entity/CST/OPHLENSE
+http://entity/CST/ENDOMETR%20DIS,ENDOMETRIAL DISORDER,http://entity/CST/GYNUTER
+http://entity/CST/FACIES%20MASK,MASKED FACIES,http://entity/CST/NERMOVE
+http://entity/CST/BLADDER%20CALCULUS,BLADDER CALCULUS,http://entity/CST/UG/UT/B/M|http://entity/CST/RENALCALC|http://entity/CST/GUBLADDER
+http://entity/CST/HYPOLIPEM,HYPOLIPEMIA,http://entity/CST/MAN/LIP|http://entity/CST/METLIPID
+http://entity/CST/ATROPHY%20OPTIC,OPTIC ATROPHY,http://entity/CST/NER/PNS/CN
+http://entity/STY/T010,Vertebrate,http://entity/STY/T008
+http://entity/CST/T%20INVERTED,T INVERTED,http://entity/CST/CV/CARD/COND
+http://entity/CST/HYPONATREM,HYPONATREMIA,http://entity/CST/METGEN|http://entity/CST/METSIADH|http://entity/CST/MAN/ION/NA
+http://entity/CST/HEAT%20STROKE,HEAT STROKE,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/EDEMA,EDEMA,http://entity/CST/GENSIGNS|http://entity/CST/CVHTMUSCLE|http://entity/CST/MAN/WB
+http://entity/CST/MAN/ION/MG,Magnesium Disorders,http://entity/CST/MAN/ION
+http://entity/CST/HAL/LYM,Lymphatic Disorders,http://entity/CST/HAL
+http://entity/STY/T094,Professional Society,http://entity/STY/T092
+http://entity/CST/PNEUMONIA%20INTERSTIT,INTERSTITIAL PNEUMONIA,http://entity/CST/PULMINFECT
+http://entity/CST/SCHIZOPHRENIC%20REACT,SCHIZOPHRENIC REACTION,http://entity/CST/NERPSYCH
+http://entity/CST/HEMOTHORAX,HEMOTHORAX,http://entity/CST/BODY/THOR|http://entity/CST/GENCHEST|http://entity/CST/HEMHMRG|http://entity/CST/RES/PLRA
+http://entity/CST/PAIN,PAIN,http://entity/CST/BODY/GEN|http://entity/CST/GENSYMPTOMS
+http://entity/CST/GRANULOMA%20INJECT%20SITE,INJECTION SITE GRANULOMA,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/DIARRHEA,DIARRHEA,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/SKIN/DERM/GEN,"Dermatoses, General and NEC",http://entity/CST/SKIN/DERM
+http://entity/CST/AKATHISIA,AKATHISIA,http://entity/CST/NERMOVE
+http://entity/CST/HAL/COAG/CR,clot retraction abnormal,http://entity/CST/HAL/COAG
+http://entity/CST/OCULOGYRIC%20CRISIS,OCULOGYRIC CRISIS,http://entity/CST/NERGEN
+http://entity/CST/DIZZINESS,DIZZINESS,http://entity/CST/NERGEN|http://entity/CST/GENSYMPTOMS
+http://entity/CST/OCCLUS%20RETINAL%20ART,RETINAL ARTERY OCCLUSION,http://entity/CST/CV/VASC/ART|http://entity/CST/SS/EYE/GEN|http://entity/CST/PATHTROMBART
+http://entity/CST/NECRO%20KIDNEY%20TUBUL,KIDNEY TUBULAR NECROSIS,http://entity/CST/RENALFUNC|http://entity/CST/UG/UT/K/M|http://entity/CST/RENALTUBULE
+http://entity/CST/BLEPHARITIS,BLEPHARITIS,http://entity/CST/SS/EYE/APP|http://entity/CST/OPHLOCAL
+http://entity/CST/WATER%20INTOX,WATER INTOXICATION,http://entity/CST/METGEN|http://entity/CST/MAN/WB|http://entity/CST/METSIADH
+http://entity/CST/RHINITIS%20ATROPH,ATROPHIC RHINITIS,http://entity/CST/GIORPHAN
+http://entity/CST/GONADOTR%20INC%20PLAC,PLACENTAL GONADOTROPINS INCREASED,http://entity/CST/ENDO/PLAC|http://entity/CST/ENDOPIT
+http://entity/CST/HYSTERIA,HYSTERIA,http://entity/CST/NERPSYCHNOS
+http://entity/CST/VITAMIN%20TOX,VITAMIN TOXICITY,http://entity/CST/PATHINTOX|http://entity/CST/MAN/VIT
+http://entity/CST/NERCOGN,COGNITIVE/CORTICAL DISORDERS,http://entity/CST/NER
+http://entity/STY/T029,Body Location or Region,http://entity/STY/T082
+http://entity/CST/GANGRENE%20ILEUM,GANGRENE OF ILEUM,http://entity/CST/GIBOWEL|http://entity/CST/PATHTROMBART
+http://entity/CST/NERANX,ANXIETY/NEUROSIS,http://entity/CST/NER
+http://entity/CST/CARCINOMA%20BREAST,BREAST CARCINOMA,http://entity/CST/GENBREAST|http://entity/CST/PATHMALIGN
+http://entity/CST/HYPOPHOSPHATEM,HYPOPHOSPHATEMIA,http://entity/CST/METCA/PHOS|http://entity/CST/MAN/ION/P
+http://entity/CST/PHARYNGITIS,PHARYNGITIS,http://entity/CST/PULMAIRWAY|http://entity/CST/PULMGEN
+http://entity/CST/CHORIORETINITIS,CHORIORETINITIS,http://entity/CST/OPHRET|http://entity/CST/OPHUVEA
+http://entity/STY/T109,Organic Chemical,http://entity/STY/T104
+http://entity/CST/PAROSMIA,PAROSMIA,http://entity/CST/SS/SML|http://entity/CST/NERCRAN
+http://entity/CST/NER/ANS/PSYM/M,parasympathomimetic,http://entity/CST/NER/ANS/PSYM
+http://entity/CST/BODY/NECK,Neck,http://entity/CST/BODY
+http://entity/CST/ACIDOSIS,ACIDOSIS,http://entity/CST/METACIDOSIS|http://entity/CST/ENDODIABETES|http://entity/CST/MAN/ION/H
+http://entity/CST/LEUKEMIA%20ACUTE%20MYELO,ACUTE MYELOBLASTIC LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/HYPESTHESIA,HYPESTHESIA,http://entity/CST/NERSENS|http://entity/CST/NER/GEN
+http://entity/CST/LYMPHANGITIS,LYMPHANGITIS,http://entity/CST/CVVEIN
+http://entity/CST/COAGUL%20TIME%20DEC,COAGULATION TIME DECREASED,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/CT
+http://entity/CST/GINGIVITIS,GINGIVITIS,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/CNS%20STIMULAT,CNS STIMULATION,http://entity/CST/NERGEN
+http://entity/CST/HEALING%20ABNORM,HEALING ABNORMAL,http://entity/CST/GENSIGNS|http://entity/CST/MAN/TR
+http://entity/CST/PATHGEN,GENERAL PATHOLOGY,http://entity/CST/PATH
+http://entity/CST/NER/PNS/SN,Spinal Nerve Disorders,http://entity/CST/NER/PNS
+http://entity/CST/HEMOPTYSIS,HEMOPTYSIS,http://entity/CST/HEMHMRG|http://entity/CST/RES/GEN|http://entity/CST/PULMGEN
+http://entity/CST/OTO,Drug Exposure to Mother in second trimester,
+http://entity/CST/HYPOGLYCEM%20REACT,HYPOGLYCEMIC REACTION,http://entity/CST/MAN/CHO|http://entity/CST/ENDODIABETES
+http://entity/CST/MAN/PIG,Pigmen Disorders,http://entity/CST/MAN
+http://entity/CST/SKIN/DERM/ACN,Acneform,http://entity/CST/SKIN/DERM
+http://entity/CST/MWN,Drug Exposure to Mother while nursing,
+http://entity/STY/T064,Governmental or Regulatory Activity,http://entity/STY/T057
+http://entity/CST/PLACENTA%20DIS,PLACENTAL DISORDER,http://entity/CST/UG/FG/PLAC|http://entity/CST/MATFETDEL
+http://entity/CST/METGOUT,GOUT,http://entity/CST/MET
+http://entity/CST/INFARCT%20CEREBR,CEREBRAL INFARCT,http://entity/CST/NERSTROKE|http://entity/CST/CV/VASC/GEN|http://entity/CST/PATHTROMBART
+http://entity/CST/URIN%20URGENCY,URINARY URGENCY,http://entity/CST/UG/UT/B/F|http://entity/CST/GYNVAG|http://entity/CST/GUBLADDER
+http://entity/CST/HAL/RBC/DEC,erythrocytes decreased,http://entity/CST/HAL/RBC
+http://entity/CST/PORPHYRINURIA,PORPHYRINURIA,http://entity/CST/UG/UT/URN|http://entity/CST/MAN/PIG|http://entity/CST/METPORPHYRIA
+http://entity/STY/T120,Chemical Viewed Functionally,http://entity/STY/T103
+http://entity/CST/GIHEPOBSTRUCT,HEPATIC: OBSTRUCTIVE,http://entity/CST/GI
+http://entity/CST/MAN/GEN,"Metabolic and Nutritional Disorders, General and NEC",http://entity/CST/MAN
+http://entity/CST/MONILIA%20SKIN,CUTANEOUS MONILIASIS,http://entity/CST/PATHINFECT|http://entity/CST/SKIN/DERM/FUNG|http://entity/CST/SKININFECT
+http://entity/CST/DEPRESSION%20PSYCHOTIC,PSYCHOTIC DEPRESSION,http://entity/CST/NERDEPRESS|http://entity/CST/NERPSYCH
+http://entity/CST/HEM%20COLON,HEMORRHAGE OF COLON,http://entity/CST/HEMHMRG|http://entity/CST/PATHHEM|http://entity/CST/GIBOWEL
+http://entity/CST/RASH%20LE,DISCOID LUPUS ERYTHEMATOSIS,http://entity/CST/PATHCOLLAGEN|http://entity/CST/SKINRASH|http://entity/CST/SKIN/DERM/ERY|http://entity/CST/SKINOTHER
+http://entity/CST/MASS%20INJECT%20SITE,INJECTION SITE MASS,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/LAB%20TEST%20INTERFER,LABORATORY TEST INTERFERENCE,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/CST/OVERDOSE%20INTENT,INTENTIONAL OVERDOSE,http://entity/CST/BODY/GEN|http://entity/CST/NERABUSE
+http://entity/CST/STRIDOR,STRIDOR,http://entity/CST/PATHHYSN
+http://entity/CST/PRIAPISM,PRIAPISM,http://entity/CST/ANSNOS|http://entity/CST/GUSEXDYS
+http://entity/CST/STOMATITIS,STOMATITIS,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/PLAT%20ADHESIVE%20INC,PLATELET ADHESIVENESS INCREASED,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/PLAT/GEN|http://entity/CST/HEMPLATABN
+http://entity/CST/ANOMALY%20GI,GASTROINTESTINAL ANOMALY,http://entity/CST/MATFETBIRTH|http://entity/CST/GIGEN|http://entity/CST/DIG/GEN
+http://entity/CST/HAL/WBC/DEC,leukocytes decreased,http://entity/CST/HAL/WBC
+http://entity/CST/THYROIDITIS,THYROIDITIS,http://entity/CST/ENDOTHYR
+http://entity/CST/PARALYSIS%20VOCAL%20CORD,VOCAL CORD PARALYSIS,http://entity/CST/NERGEN|http://entity/CST/NER/PNS/CN
+http://entity/STY/T019,Congenital Abnormality,http://entity/STY/T190
+http://entity/CST/PAIN%20INJECT%20SITE,INJECTION SITE PAIN,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/ABSCESS%20PERIODONT,PERIODONTAL ABSCESS,http://entity/CST/PATHINFECT|http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/PERITONITIS,PERITONITIS,http://entity/CST/GENABDO|http://entity/CST/BODY/ABDO
+http://entity/STY/T051,Event,
+http://entity/CST/GLUCOSE%20TOLER%20DEC,GLUCOSE TOLERANCE DECREASED,http://entity/CST/MAN/CHO|http://entity/CST/ENDODIABETES
+http://entity/CST/PATHHEM,HEMORRHAGIC DISORDER,http://entity/CST/PATH
+http://entity/CST/ICHTHYOSIS,ICHTHYOSIS,http://entity/CST/SKIN/DERM/HYP|http://entity/CST/SKINECZEMA
+http://entity/STY/T129,Immunologic Factor,http://entity/STY/T123
+http://entity/CST/DIABETES%20MELL,DIABETES MELLITUS,http://entity/CST/MAN/GEN|http://entity/CST/ENDODIABETES|http://entity/CST/ENDO/PAN
+http://entity/CST/PYORRHEA,PERIODONTITIS,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/NERCEREBELL,CEREBELLAR ABNORMALITIES,http://entity/CST/NER
+http://entity/CST/DRUG%20DEPEND%20ADDICT,ADDICTION,http://entity/CST/NERABUSE
+http://entity/CST/ISY,Drug Exposure to Infant six months to two years,
+http://entity/CST/HAL/LYM/GEN,"Lymphatic Disorders, General and NEC",http://entity/CST/HAL/LYM
+http://entity/CST/DERM%20FUNG,FUNGAL DERMATITIS,http://entity/CST/SKINECZEMA|http://entity/CST/SKIN/DERM/FUNG
+http://entity/CST/GI,GASTROINTESTINAL DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/GENBREAST,BREAST DISORDERS,http://entity/CST/GEN
+http://entity/CST/LACTATION%20FEM,FEMALE LACTATION,http://entity/CST/GENBREAST|http://entity/CST/ENDOPIT
+http://entity/CST/HEMPLATDEC,PLATELETS DECREASED,http://entity/CST/HEM
+http://entity/CST/ANEMIA%20HEMOL,HEMOLYTIC ANEMIA,http://entity/CST/HEMOLYSIS|http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/BILIRUBINURIA,BILIRUBINURIA,http://entity/CST/UG/UT/URN|http://entity/CST/GIBILIARY|http://entity/CST/MAN/PIG|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/VASODILAT,VASODILATATION,http://entity/CST/NER/ANS/SYM/L|http://entity/CST/CVHYPOT|http://entity/CST/ANSSYM/L|http://entity/CST/CV/VASC/GEN
+http://entity/CST/TOO,Drug Exposure to Mother in first trimester of pregnancy,
+http://entity/CST/THROM%20ART,ARTERIAL THROMBOSIS,http://entity/CST/CV/VASC/ART|http://entity/CST/PATHTROMBART
+http://entity/CST/MANIC%20DEPRESS%20REACT,MANIC DEPRESSIVE REACTION,http://entity/CST/NERPSYCH
+http://entity/CST/UREA%20CLEAR%20DEC,UREA CLEARANCE DECREASED,http://entity/CST/RENALGLOM|http://entity/CST/UG/UT/K/F
+http://entity/CST/COAGUL%20TIME%20INC,COAGULATION TIME INCREASED,http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CT
+http://entity/CST/SS/EAR/HER,Hearing Disorders NEC,http://entity/CST/SS/EAR
+http://entity/CST/OSTEOPOROSIS%20FRACT,OSTEOPOROSIS FRACTURE,http://entity/CST/METCA/PHOS|http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/PAIN%20CHEST%20SUBSTERN,CHEST PAIN SUBSTERNAL,http://entity/CST/BODY/THOR|http://entity/CST/GENCHEST
+http://entity/CST/ENDOCARD,ENDOCARDITIS,http://entity/CST/CV/CARD/END|http://entity/CST/CVHTMYO
+http://entity/CST/HEM%20GI,GASTROINTESTINAL HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/DIG/GEN|http://entity/CST/PATHHEM|http://entity/CST/GIGASTDUO|http://entity/CST/GIBOWEL
+http://entity/CST/PARANOID%20REACT,PARANOID REACTION,http://entity/CST/NERPSYCH
+http://entity/CST/ULCER%20STOMACH%20PERHEM,STOMACH ULCER WITH HEMORRHAGE AND PERFORATION,http://entity/CST/HEMHMRG|http://entity/CST/GIGASTDUO
+http://entity/CST/ULCER%20CORNEAL,CORNEAL ULCER,http://entity/CST/OPHCORNEA
+http://entity/STY/T030,Body Space or Junction,http://entity/STY/T082
+http://entity/CST/FEMININE,FEMINIZATION,http://entity/CST/ENDO/GEN|http://entity/CST/ENDOTEST
+http://entity/CST/MAN/ION/O,Oxygen Disorders,http://entity/CST/MAN/ION
+http://entity/CST/CERVIX%20DIS,CERVIX DISORDER,http://entity/CST/GYNCERV
+http://entity/CST/ANXIETY,ANXIETY,http://entity/CST/NERANX
+http://entity/CST/INFARCT%20LIVER,INFARCT OF LIVER,http://entity/CST/CV/VASC/GEN|http://entity/CST/PATHTROMBART
+http://entity/CST/CEREBROVASC%20DIS,CEREBROVASCULAR DISORDER,http://entity/CST/NERSTROKE|http://entity/CST/CV/VASC/GEN
+http://entity/CST/SEX%20MAT%20MALE%20ACCEL,MALE SEX MATURATION ACCELERATED,http://entity/CST/MATFETDEV|http://entity/CST/UG/MG/GEN|http://entity/CST/ENDO/GEN|http://entity/CST/ENDOPIT
+http://entity/CST/PATHVOLDIS,VOLUME DISORDER,http://entity/CST/PATH
+http://entity/CST/LACTATION%20MALE,MALE LACTATION,http://entity/CST/GENBREAST|http://entity/CST/ENDOPIT
+http://entity/CST/HEINZ%20BODIES,HEINZ BODIES,http://entity/CST/HAL/RBC/GEN|http://entity/CST/HEMRBCABN
+http://entity/CST/ECTROMELIA,ECTROMELIA,http://entity/CST/BODY/GEN|http://entity/CST/MATFETBIRTH
+http://entity/CST/UG%20DIS,UROGENITAL DISORDER,http://entity/CST/UG/GEN|http://entity/CST/GUSTRUCT
+http://entity/CST/TENDON%20DIS,TENDON DISORDER,http://entity/CST/GENBONE|http://entity/CST/MS/TEN
+http://entity/CST/SERUM%20IRON%20INC,SERUM IRON INCREASED,http://entity/CST/HEMRBCINC|http://entity/CST/MAN/ION/FE
+http://entity/CST/HEPATOMA,HEPATOMA,http://entity/CST/GIHEPCHRONIC|http://entity/CST/PATHMALIGN
+http://entity/CST/MAN/ION/C,Carbon Disorders,http://entity/CST/MAN/ION
+http://entity/STY/T054,Social Behavior,http://entity/STY/T053
+http://entity/CST/PARATHYR%20DIS,PARATHYROID DISORDER,
+http://entity/CST/PATHMUCOUS,MUCOUS MEMBRANE,http://entity/CST/PATH
+http://entity/CST/PATHFIBROSIS,FIBROSIS,http://entity/CST/PATH
+http://entity/CST/NAUSEA%20VOMIT%20DIAR,NAUSEA VOMITING AND DIARRHEA,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO
+http://entity/CST/NYSTAGMUS,NYSTAGMUS,http://entity/CST/NERCEREBELL
+http://entity/CST/CHOLINESTERASE%20INC,CHOLINESTERASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/ANSPSYM/L
+http://entity/CST/ULCER%20DUODEN%20REACT,REACTIVATED DUODENAL ULCER,http://entity/CST/GIGASTDUO|http://entity/CST/DIG/DUO
+http://entity/CST/ANEMIA%20HEMOL%20ICN,HEMOLYTIC ANEMIA INDIRECT COOMBS NEGATIVE,http://entity/CST/HEMOLYSIS|http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/MS/JNT,Joint Disorders,http://entity/CST/MS
+http://entity/CST/DERM%20EXFOL,EXFOLIATIVE DERMATITIS,http://entity/CST/SKINGENSER|http://entity/CST/SKIN/DERM/ERY
+http://entity/CST/HEM%20JEJUNUM,HEMORRHAGE OF JEJUNUM,http://entity/CST/HEMHMRG|http://entity/CST/GIBOWEL
+http://entity/CST/STRABISMUS,STRABISMUS,http://entity/CST/SS/EYE/APP|http://entity/CST/MS/MUS|http://entity/CST/OPHLOCAL
+http://entity/CST/MED%20ERROR,MEDICATION ERROR,http://entity/CST/BODY/GEN|http://entity/CST/MISUSEMED
+http://entity/CST/HEM%20POSTPARTUM,POSTPARTUM HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/UG/FG/PREG|http://entity/CST/MATFETPOSTPART
+http://entity/CST/LEUKEMOID%20REACT,LEUKEMOID REACTION,http://entity/CST/HEMWBCABN|http://entity/CST/HAL/WBC/INC/G
+http://entity/CST/HAL/WBC/DEC/L,lymphocytes decreased,http://entity/CST/HAL/WBC/DEC
+http://entity/CST/DEAF%20TRANS%20PART,PARTIAL TRANSITORY DEAFNESS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/SPUTUM%20INC,SPUTUM INCREASED,http://entity/CST/RES/GEN|http://entity/CST/PULMGEN
+http://entity/CST/ABDO%20ENLARGE,ABDOMEN ENLARGED,http://entity/CST/GIGEN|http://entity/CST/GIHEPCHRONIC|http://entity/CST/GENABDO|http://entity/CST/BODY/ABDO
+http://entity/STY/T024,Tissue,http://entity/STY/T021
+http://entity/CST/MATFETABORTION,ABORTION,http://entity/CST/MATFET
+http://entity/CST/HEMMARDEPRESS,MARROW DEPRESSION,http://entity/CST/HEM
+http://entity/CST/CRYPTOCOCCOSIS,CRYPTOCOCCOSIS,http://entity/CST/BODY/MULT|http://entity/CST/PATHINFECT|http://entity/CST/PATHGRANULOMA
+http://entity/CST/PROTHROMBIN%20DEC,PROTHROMBIN DECREASED,http://entity/CST/PATHDIC|http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/HYPERTENS,HYPERTENSION,http://entity/CST/CV/VASC/BP|http://entity/CST/NER/ANS/SYM/M|http://entity/CST/CVHYPERT
+http://entity/CST/THROM%20CORONARY,CORONARY THROMBOSIS,http://entity/CST/CV/CARD/COR
+http://entity/CST/HYPERPLASIA%20ENDOMETR,ENDOMETRIAL HYPERPLASIA,http://entity/CST/GYNUTER
+http://entity/CST/ANOMALY%20TOOTH,TOOTH MALFORMATION,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/NECRO%20INJECT%20SITE,INJECTION SITE NECROSIS,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/ECTOPIA%20CORDIS,ECTOPIA CORDIS,http://entity/CST/MATFETBIRTH|http://entity/CST/CV/CARD/GEN
+http://entity/CST/HEMOPERICARD,HEMOPERICARDIUM,http://entity/CST/HEMHMRG|http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/PER
+http://entity/CST/UG/UT/B/F,bladder functional,http://entity/CST/UG/UT/B
+http://entity/CST/MS/BON,Bone Disorders,http://entity/CST/MS
+http://entity/STY/T041,Mental Process,http://entity/STY/T040
+http://entity/CST/BEI%20INC,BEI INCREASED,http://entity/CST/MAN/ION/I|http://entity/CST/ENDOTHYR
+http://entity/CST/PHOSPHATASE%20ALK%20INC,ALKALINE PHOSPHATASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/OCCLUS%20MESENTER,MESENTERIC OCCLUSION,http://entity/CST/CV/VASC/GEN|http://entity/CST/PATHTROMBART
+http://entity/CST/RENALTUBULE,TUBULAR,http://entity/CST/RENAL
+http://entity/CST/VERTIGO,VERTIGO,http://entity/CST/NERCEREBELL
+http://entity/CST/GIGASTDUO,GASTRIC/DUODENAL,http://entity/CST/GI
+http://entity/CST/PATHDRUG,DRUGS IN TISSUES,http://entity/CST/PATH
+http://entity/CST/HEMRBCABN,RBC ABNORMALITY,http://entity/CST/HEM
+http://entity/CST/MONILIA%20ORAL,ORAL MONILIASIS,http://entity/CST/PATHINFECT|http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/PNEUMONIA%20LIPID,LIPID PNEUMONIA,http://entity/CST/PULMGEN
+http://entity/CST/ESR%20INC,SEDIMENTATION RATE INCREASED,http://entity/CST/GENSIGNS|http://entity/CST/HAL/RBC/GEN
+http://entity/CST/HEM%20INJECT%20SITE,INJECTION SITE HEMORRHAGE,http://entity/CST/BODY/GEN|http://entity/CST/HEMHMRG|http://entity/CST/GENINJECT
+http://entity/CST/NEURITIS%20OPTIC,OPTIC NEURITIS,http://entity/CST/NER/PNS/CN
+http://entity/CST/PYELONEPHRITIS,PYELONEPHRITIS,http://entity/CST/PATHINFECT|http://entity/CST/UG/UT/K/M|http://entity/CST/RENALNOS
+http://entity/CST/INFECT%20MASKED,INFECTION MASKED,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/MILIARIA,MILIARIA,http://entity/CST/SKININFECT|http://entity/CST/SKIN/SWGL
+http://entity/CST/LEUKEMIA%20CHRON%20LYMPHO,CHRONIC LYMPHOCYTIC LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/GIORPHAN,OROPHARYNGEAL,http://entity/CST/GI
+http://entity/CST/OPHTHALMITIS,OPHTHALMITIS,http://entity/CST/SS/EYE/GEN|http://entity/CST/OPHLOCAL
+http://entity/CST/PEPTIC%20ULCER%20SYND,PEPTIC ULCER SYNDROME,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO
+http://entity/CST/BURSITIS,BURSITIS,http://entity/CST/GENEXTREM|http://entity/CST/MS/BUR
+http://entity/CST/ANOMALY%20CONGEN%20MULT,MULTIPLE CONGENITAL ANOMALIES,http://entity/CST/BODY/GEN|http://entity/CST/MATFETBIRTH
+http://entity/CST/NER/ANS/SYM/M,sympathomimetic,http://entity/CST/NER/ANS/SYM
+http://entity/CST/OPHACCOM,ACCOMODATION,http://entity/CST/OPH
+http://entity/CST/BEZOAR,BEZOAR,http://entity/CST/GIGEN
+http://entity/CST/CV,CARDIOVASCULAR DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/DEHYDRAT,DEHYDRATION,http://entity/CST/GENSIGNS|http://entity/CST/MAN/WB
+http://entity/CST/HAL/RE,Reticulo-endothelial Disorders,http://entity/CST/HAL
+http://entity/CST/EDEMA%20RETINAL,RETINAL EDEMA,http://entity/CST/OPHRET
+http://entity/CST/CALCIUM%20DIS,CALCIUM DISORDER,http://entity/CST/GENBONE|http://entity/CST/MAN/ION/CA
+http://entity/CST/DRUG%20DEPEND,DRUG DEPENDENCE,http://entity/CST/NERABUSE
+http://entity/CST/STENO%20INTEST,INTESTINAL STENOSIS,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/EMB%20PULM,PULMONARY EMBOLUS,http://entity/CST/CV/VASC/ART|http://entity/CST/RES/GEN|http://entity/CST/PULMVASC|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/ULCER%20STOMACH,STOMACH ULCER,http://entity/CST/GIGASTDUO
+http://entity/CST/REFLEXES%20INC,REFLEXES INCREASED,http://entity/CST/NER/CNS|http://entity/CST/NERMOTOR
+http://entity/CST/GIPANCREAS,PANCREAS EXOCRINE,http://entity/CST/GI
+http://entity/CST/BREAST%20FIBROCYST,FIBROCYSTIC BREAST,http://entity/CST/GENBREAST
+http://entity/CST/MAN/ION/K,Potassium Disorders,http://entity/CST/MAN/ION
+http://entity/CST/HEM%20RETROPERIT,RETROPERITONEAL HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/PATHHEM|http://entity/CST/BODY/ABDO
+http://entity/CST/SKINDYSFUNCT,DYSFUNCTION,http://entity/CST/SKIN
+http://entity/STY/T044,Molecular Function,http://entity/STY/T039
+http://entity/CST/OTITIS%20MED,OTITIS MEDIA,http://entity/CST/PATHINFECT
+http://entity/CST/PARALYSIS%20FACIAL,FACIAL PARALYSIS,http://entity/CST/NERCRAN|http://entity/CST/NER/PNS/CN
+http://entity/CST/FIBRO%20MESENTER,MESENTERIC FIBROSIS,http://entity/CST/PATHFIBROSIS|http://entity/CST/BODY/ABDO
+http://entity/CST/OUN,"Drug Exposure, other or unknown",
+http://entity/CST/STENO%20INTEST%20ILE,STENOSIS OF ILEUM,http://entity/CST/GIBOWEL
+http://entity/CST/GONADOTR%20INC%20FSH,GONADOTROPIC FOLLICLE STIMULATING HORMONE INCREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/ARTERIOSPASM,ARTERIOSPASM,http://entity/CST/CV/VASC/ART|http://entity/CST/ANSSYM/M|http://entity/CST/NER/ANS/SYM/M
+http://entity/CST/EDEMA%20LARYNX,LARYNX EDEMA,http://entity/CST/PATHHYSN
+http://entity/CST/RASH%20VESIC%20BULL,VESICULOBULLOUS RASH,http://entity/CST/SKIN/DERM/VB|http://entity/CST/SKINRASH
+http://entity/CST/CHILLS%20FEVER,CHILLS AND FEVER,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/OLIGURIA,OLIGURIA,http://entity/CST/RENALFUNC|http://entity/CST/UG/UT/K/F
+http://entity/CST/ATAXIA,ATAXIA,http://entity/CST/NERCEREBELL
+http://entity/CST/UG/UT,Urinary Tract Disorders,http://entity/CST/UG
+http://entity/CST/BIRTH%20PREMAT,PREMATURE BIRTH,http://entity/CST/MATFETGEST|http://entity/CST/UG/FG/PREG
+http://entity/CST/MYOCLONUS,MYOCLONUS,http://entity/CST/NERMOVE|http://entity/CST/NERMOTOR
+http://entity/CST/LEUKORRHEA,LEUKORRHEA,http://entity/CST/GYNVAG
+http://entity/CST/HYPERTHYR,HYPERTHYROIDISM,http://entity/CST/ENDOTHYR
+http://entity/CST/MYELOID%20MATUR%20ARREST,MYELOID MATURATION ARREST,http://entity/CST/HAL/WBC/DEC|http://entity/CST/HAL/MAR/DEC|http://entity/CST/HEMWBCDEC
+http://entity/STY/T061,Therapeutic or Preventive Procedure,http://entity/STY/T058
+http://entity/CST/LIVER%20DAMAGE%20AGGRAV,LIVER DAMAGE AGGRAVATED,http://entity/CST/GIHEPATOCELL
+http://entity/CST/GIBOWEL,SMALL/LARGE BOWEL,http://entity/CST/GI
+http://entity/CST/TUBERCUL%20REACT,TUBERCULOSIS REACTIVATED,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT|http://entity/CST/PULMINFECT
+http://entity/CST/CYST%20INJECT%20SITE,INJECTION SITE CYST,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/NOCTURIA,NOCTURIA,http://entity/CST/GENSYMPTOMS|http://entity/CST/UG/UT/K/F
+http://entity/CST/GRANULOCYTOSIS,GRANULOCYTOSIS,http://entity/CST/HEMWBCABN|http://entity/CST/HAL/WBC/INC/G
+http://entity/CST/NAUSEA%20VOMIT,NAUSEA AND VOMITING,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO
+http://entity/STY/T171,Language,http://entity/STY/T077
+http://entity/CST/PURPURA%20THROMBOPEN%20TH,THROMBOTIC THROMBOCYTOPENIC PURPURA,http://entity/CST/HAL/PLAT/DEC|http://entity/CST/HEMHMRG|http://entity/CST/HEMCLOTDEC|http://entity/CST/PATHHEM|http://entity/CST/HEMPLATDEC
+http://entity/CST/HEMATOMA%20SUBDURAL,SUBDURAL HEMATOMA,http://entity/CST/HEMHMRG|http://entity/CST/GENHEAD
+http://entity/CST/COMA,COMA,http://entity/CST/NERGEN
+http://entity/CST/MARROW%20HYPERPLASIA,MARROW HYPERPLASIA,http://entity/CST/HAL/MAR/INC|http://entity/CST/HEMRBCINC
+http://entity/CST/DISCOLOR%20TOOTH,TOOTH DISCOLORATION,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/CARDIOVASC%20DIS,CARDIOVASCULAR DISORDER,http://entity/CST/CV/GEN
+http://entity/CST/MAN/GRO,Growth Disorders NEC,http://entity/CST/MAN
+http://entity/CST/PHLEB,PHLEBITIS,http://entity/CST/CV/VASC/VEN|http://entity/CST/PATHTHROMBVEN
+http://entity/STY/T100,Age Group,http://entity/STY/T096
+http://entity/CST/COAGUL%20DIS,COAGULATION DISORDER,http://entity/CST/HAL/COAG/GEN|http://entity/CST/HEMCLOTDEC
+http://entity/CST/CEREBROVASC%20ACCID,CEREBROVASCULAR ACCIDENT,http://entity/CST/NERGEN|http://entity/CST/NERSTROKE|http://entity/CST/CV/VASC/GEN|http://entity/CST/PATHTROMBART
+http://entity/CST/GENINJECT,INJECTION SITE DISORDERS,http://entity/CST/GEN
+http://entity/CST/DEAF%20PERM%20PART,PARTIAL PERMANENT DEAFNESS,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/HER
+http://entity/CST/PATHEFCK,NO DRUG EFFECT,http://entity/CST/PATH
+http://entity/CST/SPLENOMEGALY,SPLENOMEGALY,http://entity/CST/RETICNOS|http://entity/CST/HAL/SPLN
+http://entity/CST/CRYSTALLURIA%20CA,CALCIUM CRYSTALLURIA,http://entity/CST/UG/UT/URN|http://entity/CST/METCA/PHOS|http://entity/CST/RENALCALC|http://entity/CST/MAN/ION/CA
+http://entity/CST/ERYTHEMA%20NOD,ERYTHEMA NODOSUM,http://entity/CST/SKINGENSER|http://entity/CST/SKIN/DERM/ERY
+http://entity/STY/T031,Body Substance,http://entity/STY/T167
+http://entity/CST/APPLICAT%20SITE%20REACT,APPLICATION SITE REACTION,http://entity/CST/SKIN/GEN|http://entity/CST/SKINOTHER
+http://entity/CST/MEGAKARYO%20ABNORM,MEGAKARYOCYTES ABNORMAL,http://entity/CST/HAL/PLAT/GEN|http://entity/CST/HEMPLATABN
+http://entity/CST/MENTAL%20RETARD,MENTAL RETARDATION,http://entity/CST/MATFETBIRTH
+http://entity/CST/ENDO/GEN,"Endocrine System Disorders, General, Polyglandular and NEC",http://entity/CST/ENDO
+http://entity/CST/RES,Respiratory System,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/ULCER%20DUODEN,DUODENAL ULCER,http://entity/CST/GIGASTDUO|http://entity/CST/DIG/DUO
+http://entity/CST/PAIN%20BACK,BACK PAIN,http://entity/CST/GENBACK|http://entity/CST/BODY/BACK
+http://entity/CST/ENCEPHALITIS,ENCEPHALITIS,http://entity/CST/PATHINFECT|http://entity/CST/NERBRAIN
+http://entity/CST/RASH%20PETECH,PETECHIAL RASH,http://entity/CST/HEMHMRG|http://entity/CST/SKINRASH|http://entity/CST/SKIN/DERM/ERY
+http://entity/CST/PAIN%20PELVIC,PELVIC PAIN,http://entity/CST/BODY/PELV|http://entity/CST/GYNUTER
+http://entity/CST/THROM%20PULM,PULMONARY THROMBOSIS,http://entity/CST/RES/GEN|http://entity/CST/PULMVASC|http://entity/CST/CV/VASC/GEN|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/DIG/OROP,Oropharynx (excludes nasopharynx),http://entity/CST/DIG
+http://entity/CST/SALIV%20GLAND%20ENLARGE,SALIVARY GLAND ENLARGEMENT,http://entity/CST/GIORPHAN
+http://entity/CST/PHOSPHATASE%20ACID%20INC,ACID PHOSPHATASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/GUPROST
+http://entity/CST/HERPES%20SIMPLEX,HERPES SIMPLEX,http://entity/CST/SKIN/DERM/VB|http://entity/CST/PATHINFECT|http://entity/CST/SKININFECT
+http://entity/CST/KIDNEY%20FUNC%20ABNORM,KIDNEY FUNCTION ABNORMAL,http://entity/CST/RENALFUNC|http://entity/CST/RENALGLOM|http://entity/CST/UG/UT/K/F
+http://entity/CST/EPIDERM%20NECRO,EPIDERMAL NECROLYSIS,http://entity/CST/SKIN/DERM/UN|http://entity/CST/SKINGENSER
+http://entity/CST/KERATOCONJUNCTIVITIS,KERATOCONJUNCTIVITIS,http://entity/CST/OPHCORNEA
+http://entity/CST/GI%20PER,GI PERFORATION,http://entity/CST/GIGEN|http://entity/CST/DIG/GEN
+http://entity/CST/ERUCTAT,ERUCTATION,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO
+http://entity/CST/CNS%20DEPRESS,CNS DEPRESSION,http://entity/CST/NERGEN|http://entity/CST/NERDEPRESS
+http://entity/CST/LIVER%20TENDER,LIVER TENDERNESS,http://entity/CST/GIHEPATOCELL|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/TENOSYNOVITIS,TENOSYNOVITIS,http://entity/CST/GENBONE|http://entity/CST/GENEXTREM|http://entity/CST/MS/TEN
+http://entity/CST/HYPOMAGNESEM,HYPOMAGNESEMIA,http://entity/CST/METGEN|http://entity/CST/MAN/ION/MG
+http://entity/CST/NEPHROSIS,NEPHROSIS,http://entity/CST/UG/UT/K/M|http://entity/CST/METHYPOPROT|http://entity/CST/RENALNEPH
+http://entity/CST/DUCT%20ART%20PAT,PATENT DUCTUS ARTERIOSUS,http://entity/CST/CV/VASC/ART|http://entity/CST/MATFETBIRTH|http://entity/CST/CVHTMUSCLE
+http://entity/CST/RETIC,RETICULOENDTHELIAL DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/BODY/UE,Upper Extremity,http://entity/CST/BODY
+http://entity/CST/BACT%20RESIST,BACTERIAL RESISTANCE,http://entity/CST/BODY/GEN|http://entity/CST/PATHEFCK
+http://entity/CST/HAL/RBC/HGB,hemoglobin disorders,http://entity/CST/HAL/RBC
+http://entity/CST/ATROPHY%20MUSCLE,MUSCLE ATROPHY,http://entity/CST/MS/MUS|http://entity/CST/NERMOTOR|http://entity/CST/PATHMYOSITIC
+http://entity/CST/ALDOSTERONE%20INC,ALDOSTERONE INCREASED,http://entity/CST/MAN/ION/NA|http://entity/CST/ENDORENIN|http://entity/CST/ENDO/ADR/COR
+http://entity/CST/CLEFT%20PALATE,CLEFT PALATE,http://entity/CST/MATFETBIRTH|http://entity/CST/DIG/BUC
+http://entity/CST/SKIN/DERM/FUNG,Fungal (Mycotic),http://entity/CST/SKIN/DERM
+http://entity/CST/PER%20CORNEAL,CORNEAL PERFORATION,http://entity/CST/OPHCORNEA
+http://entity/CST/HYPOTENS%20POST,POSTURAL HYPOTENSION,http://entity/CST/CVHYPOT|http://entity/CST/CV/VASC/BP|http://entity/CST/ANSSYM/L
+http://entity/CST/DWARFISM,DWARFISM,http://entity/CST/MATFETBIRTH|http://entity/CST/MAN/GRO
+http://entity/STY/T082,Spatial Concept,http://entity/STY/T078
+http://entity/CST/JAUNDICE,JAUNDICE,http://entity/CST/GIBILIARY|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/VASC%20DIS,VASCULAR DISORDER,http://entity/CST/CV/VASC/GEN
+http://entity/CST/ENDODIABETES,ENDOCRINE/PANCREATIC/DIABETIC,http://entity/CST/ENDO
+http://entity/CST/ARTERITIS,ARTERITIS,http://entity/CST/CV/VASC/ART|http://entity/CST/PATHCOLLAGEN
+http://entity/CST/MS/CART,Cartilage Disorders,http://entity/CST/MS
+http://entity/CST/LIVER%20FAIL,HEPATIC FAILURE,http://entity/CST/GIHEPATOCELL
+http://entity/CST/SS/EAR/GEN,"Ear Disorders, General and NEC",http://entity/CST/SS/EAR
+http://entity/CST/INFECT,INFECTION,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/HEPATITIS%20HBSAG,HEPATITIS B POSITIVE SA,http://entity/CST/GIHEPATOCELL
+http://entity/CST/PATHMALIGN,MALIGNANCIES,http://entity/CST/PATH
+http://entity/CST/MS/MUS,Muscular Disorders,http://entity/CST/MS
+http://entity/CST/OPH,OPHTHALMIC DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/STY/T072,Physical Object,http://entity/STY/T071
+http://entity/STY/T034,Laboratory or Test Result,http://entity/STY/T033
+http://entity/CST/DUODENITIS,DUODENITIS,http://entity/CST/GIGASTDUO|http://entity/CST/DIG/DUO
+http://entity/CST/GUSEXDYS,SEXUAL DYSFUNCTION,http://entity/CST/GU
+http://entity/CST/TERAT,Congenital Malformations,
+http://entity/CST/BREAST%20ENGORGE,BREAST ENGORGEMENT,http://entity/CST/GENBREAST|http://entity/CST/MATFETPOSTPART
+http://entity/CST/MAN/IEM,Inborn Errors of Metabolism NEC,http://entity/CST/MAN
+http://entity/CST/GENBACK,BACK/SPINE DISORDERS,http://entity/CST/GEN
+http://entity/CST/RETINAL%20DEGENERAT,RETINAL DEGENERATION,http://entity/CST/OPHRET
+http://entity/STY/T192,Receptor,http://entity/STY/T123
+http://entity/CST/ALCOHOL%20INTOLER,ALCOHOL INTOLERANCE,http://entity/CST/METGEN|http://entity/CST/MAN/GEN
+http://entity/CST/RENALNOS,RENAL DISORDERS: NONSPECIFIC,http://entity/CST/RENAL
+http://entity/STY/T085,Molecular Sequence,http://entity/STY/T082
+http://entity/CST/THROMBIN%20INC,THROMBIN INCREASED,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/PAIN%20BREAST,BREAST PAIN,http://entity/CST/GENBREAST
+http://entity/CST/CYANOSIS,CYANOSIS,http://entity/CST/MATFETNEWBORN|http://entity/CST/GENSIGNS|http://entity/CST/MAN/ION/O|http://entity/CST/HAL/RBC/HGB
+http://entity/CST/CHILLS,CHILLS,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/MAN/ION/NM,Manganese Disorders,http://entity/CST/MAN/ION
+http://entity/CST/GYNVAG,VAGINAL/LABIAL DISORDERS,http://entity/CST/GYN
+http://entity/CST/PULMMETABOLIC,METABOLIC,http://entity/CST/PULM
+http://entity/CST/AVITAMINOSIS,AVITAMINOSIS,http://entity/CST/METGEN|http://entity/CST/MAN/VIT
+http://entity/CST/COOMBS%20INDIR%20TEST%20POS,INDIRECT COOMBS TEST POSITIVE,http://entity/CST/HEMOLYSIS|http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/GEN
+http://entity/CST/DIGITALIS%20INTOX,DIGITALIS INTOXICATION,http://entity/CST/BODY/MULT|http://entity/CST/PATHDRUG|http://entity/CST/PATHINTOX|http://entity/CST/CV/CARD/GEN
+http://entity/CST/PBI%20DEC,PBI DECREASED,http://entity/CST/MAN/ION/I|http://entity/CST/ENDOTHYR
+http://entity/CST/HAL/WBC/DEC/M,monocytes decreased,http://entity/CST/HAL/WBC/DEC
+http://entity/CST/ACIDOSIS%20LACTIC,LACTIC ACIDOSIS,http://entity/CST/METACIDOSIS|http://entity/CST/ENDODIABETES|http://entity/CST/MAN/ION/H
+http://entity/CST/LIVER%20FUNC%20ABNORM,LIVER FUNCTION TESTS ABNORMAL,http://entity/CST/GIHEPATOCELL|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/ULCER%20INTEST%20JEJ,ULCER OF JEJUNUM,http://entity/CST/GIBOWEL
+http://entity/CST/METSIADH,SIADH,http://entity/CST/MET
+http://entity/CST/NECK%20RIGID,NECK RIGIDITY,http://entity/CST/BODY/NECK|http://entity/CST/NERBRAIN
+http://entity/CST/HEM%20ILEUM,HEMORRHAGE OF ILEUM,http://entity/CST/HEMHMRG|http://entity/CST/PATHHEM|http://entity/CST/GIBOWEL
+http://entity/CST/CV/VASC/VEN,Venous and Venular Disorders,http://entity/CST/CV/VASC
+http://entity/CST/DIPLOPIA,DIPLOPIA,http://entity/CST/NERCRAN|http://entity/CST/NER/PNS/CN|http://entity/CST/OPHVIS|http://entity/CST/SS/EYE/VIS
+http://entity/CST/ASTHENIA,ASTHENIA,http://entity/CST/BODY/GEN|http://entity/CST/GENSYMPTOMS
+http://entity/CST/ARTHRALGIA,ARTHRALGIA,http://entity/CST/PATHCOLLAGEN|http://entity/CST/GENSYMPTOMS|http://entity/CST/MS/JNT
+http://entity/CST/HANGOVER,HANGOVER EFFECT,http://entity/CST/BODY/GEN|http://entity/CST/GENSYMPTOMS
+http://entity/CST/THINKING%20ABNORM,THINKING ABNORMAL,http://entity/CST/NERPSYCHNOS
+http://entity/CST/NEOPL,NEOPLASM,http://entity/CST/BODY/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/BEI%20DEC,BEI DECREASED,http://entity/CST/MAN/ION/I|http://entity/CST/ENDOTHYR
+http://entity/CST/RETINAL%20VASC%20DIS,RETINAL VASCULAR DISORDER,http://entity/CST/SS/EYE/GEN|http://entity/CST/CV/VASC/GEN|http://entity/CST/OPHRETVASC
+http://entity/CST/THYR%20DIS,THYROID DISORDER,http://entity/CST/ENDOTHYR
+http://entity/CST/BONE%20IMPLANT%20LYSIS,BONE IMPLANT LYSIS,http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/ULCER%20INTEST%20ILE,ULCER OF ILEUM,http://entity/CST/GIBOWEL
+http://entity/CST/FLATUL,FLATULENCE,http://entity/CST/DIG/GEN|http://entity/CST/GIBOWEL
+http://entity/CST/ULCER%20SKIN,SKIN ULCER,http://entity/CST/SKIN/DERM/UN|http://entity/CST/SKININFECT
+http://entity/CST/ENDOTEST,TESTICULAR,http://entity/CST/ENDO
+http://entity/CST/MYDRIASIS,MYDRIASIS,http://entity/CST/OPHUVEA
+http://entity/CST/INJECT%20SITE%20REACT,INJECTION SITE REACTION,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/STENO%20PYLOR,PYLORIC STENOSIS,http://entity/CST/MATFETBIRTH
+http://entity/CST/PATHHYSN,ALLERGIC/HYPERSENSITIVITY,http://entity/CST/PATH
+http://entity/STY/T021,Fully Formed Anatomical Structure,http://entity/STY/T017
+http://entity/CST/ERYTHRO%20MATUR%20ARREST,ERYTHROID MATURATION ARREST,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC|http://entity/CST/HAL/MAR/DEC
+http://entity/CST/PAIN%20EYE,EYE PAIN,http://entity/CST/SS/EYE/GEN|http://entity/CST/OPHLOCAL
+http://entity/CST/RENALNEPH,NEPHROSIS,http://entity/CST/RENAL
+http://entity/STY/T131,Hazardous or Poisonous Substance,http://entity/STY/T120
+http://entity/CST/HAL/MAR/DEC,marrow cells decreased,http://entity/CST/HAL/MAR
+http://entity/CST/ANEMIA%20MACROCYT,MACROCYTIC ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/CONFUS,CONFUSION,http://entity/CST/NERPSYCHNOS
+http://entity/CST/SS/EYE/IOP,intraocular pressure,http://entity/CST/SS/EYE
+http://entity/CST/FURUNCULOSIS,FURUNCULOSIS,http://entity/CST/SKIN/GEN|http://entity/CST/SKININFECT
+http://entity/CST/MONILIA%20AXILLA,AXILLARY MONILIASIS,http://entity/CST/BODY/THOR|http://entity/CST/PATHINFECT
+http://entity/CST/STILLBIRTH,STILLBIRTH,http://entity/CST/MATFETDEL|http://entity/CST/UG/FG/PREG
+http://entity/CST/NEOPL%20THYR,THRYOID NEOPLASIA,http://entity/CST/PATHMALIGN
+http://entity/CST/UTER%20SPASM,UTERINE SPASM,http://entity/CST/MATFETDEL|http://entity/CST/GYNUTER
+http://entity/CST/PNEUMONIA%20EOSINOPHIL,EOSINOPHILIC PNEUMONIA,http://entity/CST/PULMGEN|http://entity/CST/PATHHYSN
+http://entity/CST/CHLOASMA,CHLOASMA,http://entity/CST/SKINENDO|http://entity/CST/SKIN/PIG|http://entity/CST/ENDOOVARIAN
+http://entity/CST/PSA%20INC,PROSTATIC SPECIFIC ANTIGEN INCREASE,http://entity/CST/GUPROST
+http://entity/CST/CHROMATOPSIA,CHROMATOPSIA,http://entity/CST/OPHVIS|http://entity/CST/SS/EYE/VIS
+http://entity/CST/NEOPL%20BLADDER,BLADDER NEOPLASM,http://entity/CST/UG/UT/B/M|http://entity/CST/PATHMALIGN|http://entity/CST/GUBLADDER
+http://entity/CST/PANCREATITIS%20HEM,HEMORRHAGIC PANCREATITIS,http://entity/CST/HEMHMRG|http://entity/CST/GIPANCREAS
+http://entity/CST/ERYTHEMA%20MULT,ERYTHEMA MULTIFORME,http://entity/CST/SKINGENSER|http://entity/CST/SKIN/DERM/ERY
+http://entity/CST/PR%20SHORTENED,PR INTERVAL SHORTENED,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/ARTHROSIS,ARTHROSIS,http://entity/CST/GENEXTREM|http://entity/CST/MS/JNT
+http://entity/STY/T101,Patient or Disabled Group,http://entity/STY/T096
+http://entity/CST/EDEMA%20PERIPH,PERIPHERAL EDEMA,http://entity/CST/GENSIGNS|http://entity/CST/CVHTMUSCLE|http://entity/CST/MAN/WB
+http://entity/CST/PATHINTOX,INTOXICATION,http://entity/CST/PATH
+http://entity/CST/HYPOVENTIL,HYPOVENTILATION,http://entity/CST/RES/GEN|http://entity/CST/PULMGEN
+http://entity/CST/SPLEEN%20RUPT,RUPTURE OF SPLEEN,http://entity/CST/RETICNOS|http://entity/CST/GENABDO|http://entity/CST/HAL/SPLN
+http://entity/CST/HEM%20LUNG,LUNG HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/PULMGEN|http://entity/CST/PATHHEM
+http://entity/CST/IRITIS,IRITIS,http://entity/CST/OPHUVEA
+http://entity/CST/OSTEOPOROSIS,OSTEOPOROSIS,http://entity/CST/METCA/PHOS|http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/FEVER%20MALIGNANT,MALIGNANT HYPERTHERMIA,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/CVHYPERT,HYPERTENSION,http://entity/CST/CV
+http://entity/CST/BREAST%20ENLARGE,BREAST ENLARGEMENT,http://entity/CST/GENBREAST|http://entity/CST/MATFETPOSTPART
+http://entity/CST/NER/ANS/PSYM,Parasympathetic Disorders,http://entity/CST/NER/ANS
+http://entity/CST/MAN/ION/NA,Sodium Disorders,http://entity/CST/MAN/ION
+http://entity/CST/KERATITIS,KERATITIS,http://entity/CST/OPHCORNEA
+http://entity/CST/OVERDOSE%20ACCID,ACCIDENTAL OVERDOSE,http://entity/CST/BODY/GEN|http://entity/CST/NERABUSE|http://entity/CST/PATHINTOX
+http://entity/CST/CV/CARD/MYO,Myocardial Disorders,http://entity/CST/CV/CARD
+http://entity/CST/SCLEROSIS%20MULT,MULTIPLE SCLEROSIS,http://entity/CST/NERGEN|http://entity/CST/NER/GEN
+http://entity/CST/SKIN/GEN,"Skin Disorders, General, Functional and NEC",
+http://entity/STY/T062,Research Activity,http://entity/STY/T057
+http://entity/CST/ENCEPHALOPATHY,ENCEPHALOPATHY,http://entity/CST/NERBRAIN
+http://entity/CST/GLUCOCORT%20INC,GLUCOCORTICOIDS INCREASED,http://entity/CST/MAN/CHO|http://entity/CST/ENDOADREN|http://entity/CST/ENDO/ADR/COR
+http://entity/CST/PATHGRANULOMA,GRANULOMAS,http://entity/CST/PATH
+http://entity/CST/BODY,Body as a Whole,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/NERBRAIN,BRAIN IRRITATION,http://entity/CST/NER
+http://entity/CST/OPHVIS,VISUAL NONSPECIFIC,http://entity/CST/OPH
+http://entity/CST/SULFHEMOGLOBIN,SULFHEMOGLOBINEMIA,http://entity/CST/HEMRBCDIS|http://entity/CST/HAL/RBC/HGB
+http://entity/CST/HYPOCALCEM,HYPOCALCEMIA,http://entity/CST/METCA/PHOS|http://entity/CST/MAN/ION/CA
+http://entity/CST/ANOMALY%20CONGEN%20SS,SPECIAL SENSES CONGENITAL ANOMALY,http://entity/CST/MATFETBIRTH|http://entity/CST/SS/GEN
+http://entity/CST/HEART%20ARREST,HEART ARREST,http://entity/CST/PATHFETDEATH|http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/MENINGISM,MENINGISM,http://entity/CST/NERBRAIN
+http://entity/CST/ULCER%20PEPTIC%20PER,PERFORATED PEPTIC ULCER,http://entity/CST/DIG/GD|http://entity/CST/GIGASTDUO
+http://entity/CST/FIBRO%20RETROPERIT,RETROPERITONEAL FIBROSIS,http://entity/CST/PATHFIBROSIS|http://entity/CST/BODY/ABDO
+http://entity/CST/IODISM,IODISM,http://entity/CST/BODY/MULT|http://entity/CST/MAN/ION/I|http://entity/CST/PATHINTOX
+http://entity/CST/EPIDIDYMITIS,EPIDIDYMITIS,http://entity/CST/GUGENMALE
+http://entity/STY/T075,Research Device,http://entity/STY/T073
+http://entity/CST/DRY%20MOUTH,DRY MOUTH,http://entity/CST/ANSPSYM/L|http://entity/CST/DIG/BUC|http://entity/CST/NER/ANS/PSYM/L|http://entity/CST/GIORPHAN
+http://entity/CST/ANAPHYL,ANAPHYLACTOID REACTION,http://entity/CST/BODY/MULT|http://entity/CST/PATHHYSN
+http://entity/CST/VIRILISM,VIRILISM,http://entity/CST/ENDOOVARIAN|http://entity/CST/ENDO/GEN
+http://entity/CST/MIGRAINE,MIGRAINE,http://entity/CST/CV/VASC/ART|http://entity/CST/GENHEAD
+http://entity/STY/T065,Educational Activity,http://entity/STY/T057
+http://entity/CST/OPHLENSE,LENSE ABNORMALITIES,http://entity/CST/OPH
+http://entity/CST/SIALADENITIS,SIALADENITIS,http://entity/CST/GIORPHAN
+http://entity/CST/NECRO%20INTEST,INTESTINAL NECROSIS,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/TETANY,TETANY,http://entity/CST/METCA/PHOS|http://entity/CST/MS/MUS
+http://entity/CST/WEIGHT%20INC,WEIGHT GAIN,http://entity/CST/GENSIGNS|http://entity/CST/MAN/WT
+http://entity/CST/HEART%20BLOCK,HEART BLOCK,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/HEM%20PREGN,HEMORRHAGE OF PREGNANCY,http://entity/CST/HEMHMRG|http://entity/CST/MATFETGEST|http://entity/CST/UG/FG/PREG
+http://entity/CST/PULM%20MYCOSIS,PULMONARY MYCOSIS,http://entity/CST/PATHINFECT|http://entity/CST/PULMINFECT
+http://entity/CST/HEPATOSPLENOMEGALY,HEPATOSPLENOMEGALY,http://entity/CST/GIHEPCHRONIC|http://entity/CST/HAL/SPLN
+http://entity/CST/BONE%20DIS,BONE DISORDER,http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/ANORGASMIA,ANORGASMIA,http://entity/CST/UG/GEN|http://entity/CST/GYNSEX|http://entity/CST/GUSEXDYS
+http://entity/CST/NERMOTOR,MOTOR NEURON/PERIPHERAL MOTOR,http://entity/CST/NER
+http://entity/CST/GYNCERV,CERVIX DISORDERS,http://entity/CST/GYN
+http://entity/CST/FIBRIN%20DEC,FIBRIN DECREASED,http://entity/CST/PATHDIC|http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/FETAL%20DIS,FETAL DISORDER,http://entity/CST/BODY/GEN|http://entity/CST/MATFETGEN
+http://entity/CST/LEUKOPLAKIA%20ORAL,LEUKOPLAKIA OF MOUTH,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/TACHYCARDIA%20SUPVENT,SUPRAVENTRICULAR TACHYCARDIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/MYOCARDITIS%20ALLERG,ALLERGIC MYOCARDITIS,http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/MYO
+http://entity/STY/T073,Manufactured Object,http://entity/STY/T072
+http://entity/CST/HERPES%20ZOSTER,HERPES ZOSTER,http://entity/CST/SKIN/DERM/VB|http://entity/CST/PATHINFECT|http://entity/CST/SKININFECT
+http://entity/STY/T083,Geographic Area,http://entity/STY/T082
+http://entity/CST/HYPERURICEM,HYPERURICEMIA,http://entity/CST/MAN/PUR|http://entity/CST/METGOUT
+http://entity/CST/SARCOIDOSIS,SARCOIDOSIS,http://entity/CST/BODY/MULT|http://entity/CST/PATHGRANULOMA
+http://entity/STY/T011,Amphibian,http://entity/STY/T010
+http://entity/CST/MATFETGEN,MATERNAL-FETAL DISORDERS: GENERAL,http://entity/CST/MATFET
+http://entity/CST/HEMIPLEGIA,HEMIPLEGIA,http://entity/CST/NERGEN|http://entity/CST/NERSTROKE
+http://entity/STY/T001,Organism,http://entity/STY/T072
+http://entity/CST/PREGN%20TOXEMIA,TOXEMIA OF PREGNANCY,http://entity/CST/MATFETGEST|http://entity/CST/UG/FG/PREG
+http://entity/CST/BARBITUR%20INTOX,BARBITURATE INTOXICATION,http://entity/CST/BODY/MULT|http://entity/CST/PATHINTOX
+http://entity/CST/HYPERALGESIA,HYPERALGESIA,http://entity/CST/GENSYMPTOMS|http://entity/CST/NER/GEN
+http://entity/CST/MANIC%20REACT,MANIC REACTION,http://entity/CST/NERPSYCH
+http://entity/CST/ANEMIA%20HEMOL%20ICP,HEMOLYTIC ANEMIA INDIRECT COOMBS POSITIVE,http://entity/CST/HEMOLYSIS|http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/STY/T121,Pharmacologic Substance,http://entity/STY/T120
+http://entity/CST/HEADACHE%20VASC,VASCULAR HEADACHE,http://entity/CST/NERSTROKE|http://entity/CST/CV/VASC/GEN
+http://entity/CST/SARCOMA,SARCOMA,http://entity/CST/BODY/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/POST%20VAC%20SYND,POST VACCINATION SYNDROME,http://entity/CST/BODY/GEN|http://entity/CST/GENSYMPTOMS
+http://entity/CST/DELUSIONS,DELUSIONS,http://entity/CST/NERPSYCH
+http://entity/CST/TETANY%20HYPOCALCEM,HYPOCALCEMIC TETANY,http://entity/CST/METCA/PHOS|http://entity/CST/MS/MUS
+http://entity/CST/MAN/WT,Weight Disorders NEC,http://entity/CST/MAN
+http://entity/CST/ADREN%20INSUFFIC,ADRENAL CORTEX INSUFFIENCY,http://entity/CST/ENDOADREN|http://entity/CST/ENDO/ADR/COR
+http://entity/CST/MS/BON/PER,periosteum,http://entity/CST/MS/BON
+http://entity/CST/TOLER%20DEC,TOLERANCE DECREASED,http://entity/CST/BODY/GEN|http://entity/CST/PATHINTOX
+http://entity/CST/CARDIOMEGALY,CARDIOMEGALY,http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/GEN
+http://entity/CST/VENT%20SEPT%20DEF,VENTRICULAR SEPTAL DEFECT,http://entity/CST/MATFETBIRTH|http://entity/CST/CV/CARD/GEN
+http://entity/CST/SWEAT%20DEC,SWEATING DECREASED,http://entity/CST/GENSYMPTOMS|http://entity/CST/SKIN/SWGL
+http://entity/CST/HEM%20ESOPH,ESOPHAGEAL HEMORRHAGE,http://entity/CST/HEMHMRG
+http://entity/CST/PHENYLKETONURIA,PHENYLKETONURIA,http://entity/CST/MATFETBIRTH|http://entity/CST/MAN/IEM
+http://entity/CST/ARTHRITIS%20RHEUMAT,RHEUMATOID ARTHRITIS,http://entity/CST/BODY/MULT|http://entity/CST/PATHCOLLAGEN|http://entity/CST/MS/JNT
+http://entity/CST/DEVICE%20MIGRATION,DEVICE MIGRATION,http://entity/CST/SKIN/GEN|http://entity/CST/SKINOTHER
+http://entity/STY/T092,Organization,http://entity/STY/T077
+http://entity/STY/T093,Health Care Related Organization,http://entity/STY/T092
+http://entity/CST/BIL%20ATRESIA,BILIARY ATRESIA,http://entity/CST/MATFETBIRTH
+http://entity/CST/FIBRINOLYSIS%20DEC,FIBRINOLYSIS DECREASED,http://entity/CST/GENSIGNS|http://entity/CST/HAL/COAG/CF
+http://entity/CST/PANCARDITIS,PANCARDITIS,http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/GEN
+http://entity/CST/PAROTID%20ENLARGE,PAROTID GLAND ENLARGEMENT,http://entity/CST/GIORPHAN
+http://entity/CST/MAN/ION/FE,Iron Disorder,http://entity/CST/MAN/ION
+http://entity/CST/THIRST,THIRST,http://entity/CST/ANSPSYM/L|http://entity/CST/DIG/GEN|http://entity/CST/MAN/WB|http://entity/CST/METSIADH
+http://entity/CST/ABSCESS%20KIDNEY,KIDNEY ABSCESS,http://entity/CST/PATHINFECT|http://entity/CST/UG/UT/K/M|http://entity/CST/ENDODIABETES
+http://entity/CST/UG/UT/GEN,"Urinary Tract Disorders, General, Functional and NEC",http://entity/CST/UG/UT
+http://entity/CST/GUBLADDER,BLADDER ABNORMALITIES,http://entity/CST/GU
+http://entity/CST/GYNUTER,UTERINE/ENDOMETRIAL DISORDERS,http://entity/CST/GYN
+http://entity/STY/T052,Activity,http://entity/STY/T051
+http://entity/CST/HIRSUTISM,HIRSUTISM,http://entity/CST/SKIN/HAIR|http://entity/CST/ENDOADREN
+http://entity/CST/GONADOTR%20DEC%20PIT,PITUITARY GONADOTROPINS DECREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/DRUG%20INTERACTION,DRUG INTERACTION,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/STY/T095,Self-help or Relief Organization,http://entity/STY/T092
+http://entity/CST/ANA,ANTINUCLEAR ANTIBODY PRESENT,http://entity/CST/PATHCOLLAGEN|http://entity/CST/HAL/WBC/GEN
+http://entity/STY/T014,Reptile,http://entity/STY/T010
+http://entity/CST/OVULAT%20FAIL,OVULATION FAILURE,http://entity/CST/UG/FG/OVA|http://entity/CST/ENDOOVARIAN
+http://entity/CST/OPHLOCAL,EYE LOCAL,http://entity/CST/OPH
+http://entity/CST/NODULE%20SKIN,SKIN NODULE,http://entity/CST/SKIN/DERM/GEN|http://entity/CST/SKINTUMOR
+http://entity/CST/ENTERITIS,ENTERITIS,http://entity/CST/GIBOWEL
+http://entity/CST/ANGINA%20PECTORIS,ANGINA PECTORIS,http://entity/CST/CV/CARD/COR
+http://entity/CST/HYPERKALEM,HYPERKALEMIA,http://entity/CST/METK|http://entity/CST/MAN/ION/K
+http://entity/CST/HEADACHE,HEADACHE,http://entity/CST/GENSYMPTOMS|http://entity/CST/BODY/HEAD|http://entity/CST/GENHEAD
+http://entity/CST/EJACULAT%20ABNORM,ABNORMAL EJACULATION,http://entity/CST/ANSSYM/L|http://entity/CST/GUSEXDYS
+http://entity/CST/BUN%20INC,BUN INCREASED,http://entity/CST/RENALFUNC|http://entity/CST/GIGASTDUO|http://entity/CST/MAN/ION/N
+http://entity/CST/BRONCHITIS,BRONCHITIS,http://entity/CST/RES/BRON|http://entity/CST/PULMINFECT
+http://entity/CST/EPISTAXIS,EPISTAXIS,http://entity/CST/HEMHMRG|http://entity/CST/GENSIGNS
+http://entity/CST/CV/CARD/PER,Pericardial Disorders,http://entity/CST/CV/CARD
+http://entity/CST/HEPATOMEGALY,HEPATOMEGALY,http://entity/CST/GIHEPCHRONIC|http://entity/CST/GIHEPATOCELL
+http://entity/CST/INFECT%20VIRAL,VIRAL INFECTION,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/CARCINOMA%20ENDOMETR,ENDOMETRIAL CARCINOMA,http://entity/CST/PATHMALIGN
+http://entity/CST/ATAXIA%20CEREBELL,CEREBELLAR ATAXIA,http://entity/CST/NERCEREBELL
+http://entity/CST/CVHTRHYTHM,HEART: RHYTHM,http://entity/CST/CV
+http://entity/CST/MYOSITIS,MYOSITIS,http://entity/CST/MS/MUS|http://entity/CST/PATHMYOSITIC
+http://entity/CST/METLIPID,LIPID ABNORMALITY,http://entity/CST/MET
+http://entity/STY/T022,Body System,http://entity/STY/T169
+http://entity/CST/MASTITIS,MASTITIS,http://entity/CST/GENBREAST
+http://entity/CST/RHABDO,RHABDOMYOLYSIS,http://entity/CST/MS/MUS|http://entity/CST/PATHMYOSITIC
+http://entity/CST/THROM%20RETINAL%20VEIN,RETINAL VEIN THROMBOSIS,http://entity/CST/SS/EYE/GEN|http://entity/CST/CV/VASC/VEN|http://entity/CST/PATHTHROMBVEN|http://entity/CST/OPHRETVASC
+http://entity/CST/UTER%20SUBINVOLUT,UTERINE SUBINVOLUTION,http://entity/CST/GYNUTER
+http://entity/CST/QT%20PROLONGED,QT INTERVAL PROLONGED,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/HEPATITIS%20NONSPECIFIC,HEPATITIS NONSPECIFIC,http://entity/CST/GIHEPATOCELL
+http://entity/CST/NEUROLEPTIC%20MAL%20SYND,NEUROLEPTIC MALIGNANT SYNDROME,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/SALIVA%20INC,INCREASED SALIVATION,http://entity/CST/NER/ANS/PSYM/M|http://entity/CST/GIORPHAN
+http://entity/CST/NEPHROCALCINOSIS,NEPHROCALCINOSIS,http://entity/CST/METCA/PHOS|http://entity/CST/UG/UT/K/M|http://entity/CST/RENALCALC|http://entity/CST/MAN/ION/CA
+http://entity/CST/HEMOCHROMATO,HEMOCHROMATOSIS,http://entity/CST/HEMRBCINC|http://entity/CST/MAN/ION/FE
+http://entity/CST/PAIN%20FLANK,FLANK PAIN,http://entity/CST/GENBACK|http://entity/CST/BODY/BACK
+http://entity/CST/CARCINOMA%20THYR,THYROID CARCINOMA,http://entity/CST/PATHMALIGN|http://entity/CST/ENDOTHYR
+http://entity/CST/KIDNEY%20FAIL%20ACUTE,ACUTE KIDNEY FAILURE,http://entity/CST/RENALFUNC|http://entity/CST/UG/UT/K/F
+http://entity/CST/ATELECTASIS,ATELECTASIS,http://entity/CST/PULMSTRUCTURAL
+http://entity/CST/POLYSEROSITIS,POLYSEROSITIS,http://entity/CST/BODY/MULT|http://entity/CST/PATHCOLLAGEN
+http://entity/CST/CHROMOSOME%20ABNORM,CHROMOSOME ABNORMALITY,http://entity/CST/BODY/GEN|http://entity/CST/MATFETBIRTH
+http://entity/CST/SEBORRHEA,SEBORRHEA,http://entity/CST/SKIN/SBGL|http://entity/CST/SKINECZEMA
+http://entity/CST/DRY%20EYE,DRY EYES,http://entity/CST/SS/EYE/GEN|http://entity/CST/OPHLOCAL
+http://entity/CST/AMNESIA,AMNESIA,http://entity/CST/NERCOGN
+http://entity/CST/ENDOTHYR,THRYOID DYSFUNCTION,http://entity/CST/ENDO
+http://entity/STY/T063,Molecular Biology Research Technique,http://entity/STY/T062
+http://entity/CST/CARDIOSPASM,CARDIOSPASM,http://entity/CST/GIGASTDUO
+http://entity/CST/MONILIA,MONILIASIS,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/REACT%20AGGRAV,AGGRAVATION REACTION,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/CST/CREATINE%20PK%20INC,CREATINE PHOSPHOKINASE INCREASED,http://entity/CST/MAN/ENZ|http://entity/CST/PATHMYOSITIC
+http://entity/CST/PATHMYOSITIC,MYOSITIC DISORDERS,http://entity/CST/PATH
+http://entity/CST/RETINAL%20PIGMENT,RETINAL PIGMENTATION,http://entity/CST/OPHRET
+http://entity/CST/CV/VASC/GEN,"Vascular Disorders, General and NEC",http://entity/CST/CV/VASC
+http://entity/CST/UG/FG/PREG,pregnancy and puerperal disorders,http://entity/CST/UG/FG
+http://entity/CST/CRYSTALLURIA%20SULFA,SULFONAMIDE CRYSTALLURIA,http://entity/CST/UG/UT/URN|http://entity/CST/RENALCALC|http://entity/CST/PATHDRUG
+http://entity/CST/HAL/WBC/INC/L,lymphocytes increased,http://entity/CST/HAL/WBC/INC
+http://entity/CST/THROMBOCYTHEM,THROMBOCYTHEMIA,http://entity/CST/HEMPLATINC|http://entity/CST/HAL/PLAT/INC
+http://entity/CST/THROM%20CEREBR%20VEN,CEREBRAL VENOUS THROMBOSIS,http://entity/CST/CV/VASC/VEN|http://entity/CST/PATHTHROMBVEN
+http://entity/CST/XANTHOMA,XANTHOMATOSIS,http://entity/CST/MAN/LIP|http://entity/CST/METLIPID
+http://entity/CST/SPLEEN%20DIS,SPLEEN DISORDER,http://entity/CST/RETICNOS|http://entity/CST/HAL/SPLN
+http://entity/CST/NERPSYCH,PSYCHOSIS,http://entity/CST/NER
+http://entity/CST/GUPROST,PROSTATE ABNORMALITY,http://entity/CST/GU
+http://entity/CST/ANEMIA%20APLAST,APLASTIC ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC|http://entity/CST/HEMMARDEPRESS|http://entity/CST/HAL/MAR/DEC
+http://entity/CST/BODY/ABDO,Abdomen,http://entity/CST/BODY
+http://entity/CST/INCREASED%20EFFECT,INCREASED DRUG EFFECT,http://entity/CST/BODY/GEN|http://entity/CST/PATHINTOX
+http://entity/STY/T025,Cell,http://entity/STY/T021
+http://entity/CST/ECCHYMOSIS,ECCHYMOSIS,http://entity/CST/HEMHMRG|http://entity/CST/HAL/COAG/GEN
+http://entity/CST/PROCTITIS,PROCTITIS,http://entity/CST/GIRECTAL
+http://entity/CST/CV/VASC,Vascular Disorders,http://entity/CST/CV
+http://entity/CST/SEX%20FUNC%20ABNORM,SEXUAL FUNCTION ABNORMAL,http://entity/CST/UG/GEN|http://entity/CST/GYNSEX|http://entity/CST/GUSEXDYS
+http://entity/CST/BODY/BACK,Back,http://entity/CST/BODY
+http://entity/CST/STOOL%20ABNORM,ABNORMAL STOOLS,http://entity/CST/DIG/GEN|http://entity/CST/GIBOWEL
+http://entity/CST/SCLERITIS,SCLERITIS,http://entity/CST/OPHLOCAL
+http://entity/CST/CELLULITIS,CELLULITIS,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT|http://entity/CST/SKININFECT
+http://entity/CST/GONADOTR%20DEC%20FSH,GONADOTROPIC FOLLICLE STIMULATING HORMONE DECREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/PULM,PULMONARY DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/ILEITIS,ILEITIS,http://entity/CST/GIBOWEL
+http://entity/CST/HEPATITIS%20C,HEPATITIS C VIRUS,http://entity/CST/GIHEPATOCELL
+http://entity/CST/MAN/ION/CL,Chlorine Disorders,http://entity/CST/MAN/ION
+http://entity/CST/LE%20SYND,LE SYNDROME,http://entity/CST/BODY/MULT|http://entity/CST/PATHCOLLAGEN
+http://entity/CST/STOMATITIS%20ULCER,ULCERATIVE STOMATITIS,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/SKINTUMOR,SKIN TUMORS,http://entity/CST/SKIN
+http://entity/CST/HYPERVENTIL,HYPERVENTILATION,http://entity/CST/RES/GEN|http://entity/CST/GENSIGNS
+http://entity/STY/T042,Organ or Tissue Function,http://entity/STY/T039
+http://entity/CST/LUNG%20FUNC%20DEC,LUNG FUNCTION DECREASED,http://entity/CST/RES/GEN|http://entity/CST/PULMGEN
+http://entity/STY/T004,Fungus,http://entity/STY/T204
+http://entity/CST/ANOMALY%20ART,ARTERIAL ANOMALY,http://entity/CST/CV/VASC/ART
+http://entity/CST/CATATON%20REACT,CATATONIC REACTION,http://entity/CST/NERPSYCH
+http://entity/CST/PATH,PATHOLOGICAL DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/ENZYME%20ABNORM,ENZYMATIC ABNORMALITY,http://entity/CST/MAN/ENZ|http://entity/CST/METGEN
+http://entity/CST/SUDDEN%20DEATH,SUDDEN DEATH,http://entity/CST/BODY/GEN|http://entity/CST/CVSHOCK
+http://entity/CST/LYMPHADENO,LYMPHADENOPATHY,http://entity/CST/RETICNOS|http://entity/CST/HAL/LYM/GLN
+http://entity/CST/HEM%20GUM,GUM HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/NER/ANS/GAN,Autonomic Ganglion Disorders,http://entity/CST/NER/ANS
+http://entity/CST/SYPH%20TEST%20FALSE%20POS,SYPHILIS TEST FALSE POSITIVE,http://entity/CST/HAL/GEN|http://entity/CST/PATHLABTEST
+http://entity/CST/NEUROSIS,NEUROSIS,http://entity/CST/NERANX
+http://entity/CST/HYPERGLYCEM,HYPERGLYCEMIA,http://entity/CST/MAN/CHO|http://entity/CST/ENDODIABETES
+http://entity/STY/T045,Genetic Function,http://entity/STY/T044
+http://entity/CST/COLITIS%20HEM,HEMORRHAGIC COLITIS,http://entity/CST/HEMHMRG|http://entity/CST/GIBOWEL
+http://entity/CST/NEOPL%20MOUTH,MOUTH NEOPLASIA,http://entity/CST/DIG/BUC|http://entity/CST/PATHMALIGN
+http://entity/CST/CREATININE%20CLEAR%20DEC,CREATININE CLEARANCE DECREASED,http://entity/CST/RENALFUNC|http://entity/CST/RENALGLOM|http://entity/CST/MAN/ION/N|http://entity/CST/UG/UT/K/F
+http://entity/CST/PLEURAL%20DIS,PLEURAL DISORDER,http://entity/CST/PULMPLEURAL|http://entity/CST/RES/PLRA
+http://entity/CST/SS/EYE/VIS,Vision Disorders NEC,http://entity/CST/SS/EYE
+http://entity/CST/SIDS,SUDDEN INFANT DEATH,http://entity/CST/BODY/GEN|http://entity/CST/PATHFETDEATH
+http://entity/CST/HALITOSIS,HALITOSIS,http://entity/CST/BODY/GEN|http://entity/CST/GIGEN
+http://entity/CST/ALKALOSIS%20HYPOKALEM,HYPOKALEMIC ALKALOSIS,http://entity/CST/METALKALOSIS|http://entity/CST/MAN/ION/K|http://entity/CST/MAN/ION/H
+http://entity/CST/IOD%20ISOTOPE%20UPT%20DEC,IODINE ISOTOPE UPTAKE DECREASED,http://entity/CST/MAN/ION/I|http://entity/CST/ENDOTHYR
+http://entity/CST/ULCER%20PEPTIC%20PERHEM,PEPTIC ULCER WITH HEMORRHAGE AND PERFORATION,http://entity/CST/HEMHMRG|http://entity/CST/DIG/GD|http://entity/CST/GIGASTDUO
+http://entity/CST/MAN/ION/P,Phosphorus Disorders,http://entity/CST/MAN/ION
+http://entity/CST/MAN/ION/N,Nitrogen Disorders,http://entity/CST/MAN/ION
+http://entity/CST/MYELOPROLIF%20DIS,MYELOPROLIFERATIVE DISORDER,http://entity/CST/HAL/MAR/INC|http://entity/CST/HEMRBCINC
+http://entity/CST/FERTIL%20INC%20FEM,FERTILITY INCREASED FEMALE,http://entity/CST/ENDOOVARIAN
+http://entity/CST/CRAMPS%20LEG,LEG CRAMPS,http://entity/CST/NERMOVE|http://entity/CST/NER/GEN|http://entity/CST/MS/MUS
+http://entity/CST/NEOPL%20LARYNX,LARYNGEAL NEOPLASIA,http://entity/CST/PATHMALIGN
+http://entity/STY/T053,Behavior,http://entity/STY/T052
+http://entity/CST/PIT%20ACTIV%20DEC,PITUITARY ACTIVITY DECREASED,http://entity/CST/ENDOPIT
+http://entity/CST/LIVER%20DAMAGE,LIVER DAMAGE,http://entity/CST/GIHEPATOCELL
+http://entity/CST/HAL/GEN,"Hemic, General and NEC",http://entity/CST/HAL
+http://entity/CST/ESR%20DEC,SEDIMENTATION RATE DECREASED,http://entity/CST/GENSIGNS|http://entity/CST/HAL/RBC/GEN
+http://entity/STY/T055,Individual Behavior,http://entity/STY/T053
+http://entity/CST/DIG/DUO,Duodenal,http://entity/CST/DIG
+http://entity/CST/BIRTH%20POSTMAT,POSTMATURE BIRTH,http://entity/CST/MATFETGEST|http://entity/CST/UG/FG/PREG
+http://entity/CST/MYELOMA,MYELOMA,http://entity/CST/HAL/MAR/INC|http://entity/CST/PATHMALIGN
+http://entity/CST/UG/UT/K/F,kidney functional,http://entity/CST/UG/UT/K
+http://entity/CST/ACIDOSIS%20RESP,RESPIRATORY ACIDOSIS,http://entity/CST/METACIDOSIS|http://entity/CST/PULMMETABOLIC|http://entity/CST/MAN/ION/H
+http://entity/CST/HYPERMAGNESEM,HYPERMAGNESEMIA,http://entity/CST/METGEN|http://entity/CST/MAN/ION/MG
+http://entity/CST/HEM%20RETINAL,RETINAL HEMORRHAGE,http://entity/CST/HEMHMRG|http://entity/CST/OPHRET
+http://entity/CST/GROWTH%20RETARD,GROWTH RETARDED,http://entity/CST/MAN/GRO|http://entity/CST/ENDOPIT
+http://entity/CST/PERIOST%20DIS,PERIOSTEAL DISORDER,http://entity/CST/GENBONE|http://entity/CST/MS/BON/PER
+http://entity/CST/ULCER%20ESOPH,ESOPHAGEAL ULCER,
+http://entity/CST/GONADOTR%20DEC,GONADOTROPINS DECREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/ST%20DEPRESSED,ST DEPRESSED,http://entity/CST/CV/CARD/COND
+http://entity/CST/OPHTHALMOPLEGIA,OPHTHALMOPLEGIA,http://entity/CST/NERCRAN|http://entity/CST/NER/PNS/CN|http://entity/CST/SS/EYE/APP
+http://entity/CST/MET,METABOLIC DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/INSOMNIA,INSOMNIA,http://entity/CST/NERANX
+http://entity/CST/HEMWBCDEC,WBC DECREASED,http://entity/CST/HEM
+http://entity/CST/ANEMIA%20NORMOCYT,NORMOCYTIC ANEMIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/MELENA,MELENA,http://entity/CST/HEMHMRG|http://entity/CST/DIG/GEN|http://entity/CST/PATHHEM|http://entity/CST/GIGASTDUO|http://entity/CST/GIBOWEL
+http://entity/CST/PATHTROMBART,THROMBOSIS ARTERIAL,http://entity/CST/PATH
+http://entity/CST/AV%20BLOCK,AV BLOCK,http://entity/CST/CV/CARD/COND|http://entity/CST/CVHTRHYTHM
+http://entity/CST/CARCINOMA%20LUNG,CARCINOMA OF LUNG,http://entity/CST/PATHMALIGN
+http://entity/CST/HYPOTONIA,HYPOTONIA,http://entity/CST/NERDEPRESS
+http://entity/CST/PAIN%20NECK,NECK PAIN,http://entity/CST/BODY/NECK|http://entity/CST/GENBACK
+http://entity/STY/T023,"Body Part, Organ, or Organ Component",http://entity/STY/T021
+http://entity/CST/BSP%20ABNORM,BSP ABNORMAL,http://entity/CST/GIHEPATOCELL|http://entity/CST/GIHEPOBSTRUCT
+http://entity/STY/T096,Group,http://entity/STY/T077
+http://entity/CST/ABSCESS,ABSCESS,http://entity/CST/BODY/GEN|http://entity/CST/PATHINFECT
+http://entity/CST/URIN%20IMPAIRED,URINATION IMPAIRED,http://entity/CST/UG/UT/B/F|http://entity/CST/RENALNOS|http://entity/CST/GUBLADDER
+http://entity/CST/COMA%20DIABET,DIABETIC COMA,http://entity/CST/ENDODIABETES|http://entity/CST/MAN/ION/H|http://entity/CST/ENDO/PAN
+http://entity/CST/HYPERTONIA,HYPERTONIA,http://entity/CST/NERMOVE
+http://entity/CST/GLYCOSURIA,GLYCOSURIA,http://entity/CST/MAN/CHO|http://entity/CST/UG/UT/URN|http://entity/CST/ENDODIABETES
+http://entity/CST/ERYTHRO%20VACUOL,ERYTHROCYTE VACUOLIZATION,http://entity/CST/HAL/RBC/GEN|http://entity/CST/HEMRBCDEC|http://entity/CST/HEMRBCABN
+http://entity/CST/RENAL,RENAL DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/AGITATION,AGITATION,http://entity/CST/NERANX
+http://entity/CST/HYPOGONAD%20MALE,HYPOGONADISM MALE,http://entity/CST/ENDOTEST|http://entity/CST/UG/MG/TEST|http://entity/CST/ENDOPIT
+http://entity/CST/ANTISOCIAL%20REACT,ANTISOCIAL REACTION,http://entity/CST/NERPSYCHNOS
+http://entity/STY/T015,Mammal,http://entity/STY/T010
+http://entity/CST/DEMENTIA,DEMENTIA,http://entity/CST/NERCOGN
+http://entity/CST/MALAISE,MALAISE,http://entity/CST/BODY/GEN|http://entity/CST/GENSYMPTOMS
+http://entity/CST/SPINA%20BIFIDA,SPINA BIFIDA,http://entity/CST/MATFETBIRTH|http://entity/CST/BODY/BACK|http://entity/CST/MS/BON/GEN
+http://entity/CST/AGRANULOCYTOSIS,AGRANULOCYTOSIS,http://entity/CST/HAL/WBC/DEC/G|http://entity/CST/HEMMARDEPRESS|http://entity/CST/HEMWBCDEC
+http://entity/CST/VASCULITIS,VASCULITIS,http://entity/CST/PATHCOLLAGEN|http://entity/CST/CV/VASC/GEN
+http://entity/CST/UTER%20ENLARGE,UTERINE ENLARGEMENT,http://entity/CST/GYNUTER
+http://entity/CST/PSORIASIS,PSORIASIS,http://entity/CST/SKIN/DERM/HYP|http://entity/CST/SKINECZEMA
+http://entity/CST/ULCER%20MOUTH,MOUTH ULCERATION,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/CST/CONJUNCTIVITIS,CONJUNCTIVITIS,http://entity/CST/OPHLOCAL
+http://entity/CST/CHOLANGITIS,CHOLANGITIS,http://entity/CST/GIBILIARY|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/BLIND%20NIGHT,NIGHT BLINDNESS,http://entity/CST/OPHRET|http://entity/CST/SS/EYE/VIS
+http://entity/CST/MAN/ION/S,Sulfur Disorders,http://entity/CST/MAN/ION
+http://entity/CST/NEUROPATHY,NEUROPATHY,http://entity/CST/NER/GEN|http://entity/CST/NERMOTOR
+http://entity/CST/ULCER%20PEPTIC,PEPTIC ULCER,http://entity/CST/DIG/GD|http://entity/CST/GIGASTDUO
+http://entity/STY/T032,Organism Attribute,http://entity/STY/T077
+http://entity/CST/DYSMENORRHEA,DYSMENORRHEA,http://entity/CST/UG/FG/MENS|http://entity/CST/GYNUTER
+http://entity/CST/ELECTROLYTE%20DEPLET,ELECTROLYTE DEPLETION,http://entity/CST/METGEN|http://entity/CST/MAN/ION
+http://entity/CST/GANGRENE%20JEJUNUM,GANGRENE OF JEJUNUM,http://entity/CST/GIBOWEL|http://entity/CST/PATHTROMBART
+http://entity/CST/PENIS%20DIS,PENIS DISORDER,http://entity/CST/GUGENMALE
+http://entity/CST/ADENOMA%20THYR,THYROID ADENOMA,http://entity/CST/PATHTUMORBEN|http://entity/CST/ENDOTHYR
+http://entity/CST/NECRO%20LIVER,LIVER NECROSIS,http://entity/CST/GIHEPATOCELL
+http://entity/CST/LEUKOPLAKIA%20GENIT,GENITAL LEUKOPLAKIA,http://entity/CST/GUGENMALE
+http://entity/CST/EXTRASYSTOLES%20VENT,VENTRICULAR EXTRASYSTOLES,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/BLEED%20TIME%20DEC,BLEEDING TIME DECREASED,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/BT
+http://entity/CST/INTEST%20LARGE%20PER,LARGE INTESTINE PERFORATION,http://entity/CST/GIBOWEL
+http://entity/CST/TENDON%20RUPT,TENDON RUPTURE,http://entity/CST/GENBONE|http://entity/CST/GENEXTREM|http://entity/CST/MS/TEN
+http://entity/CST/MAN/VIT,Vitamin Disorders NEC,http://entity/CST/MAN
+http://entity/CST/STENO%20INTEST%20JEJ,STENOSIS OF JEJUNUM,http://entity/CST/GIBOWEL
+http://entity/CST/NODULE%20SUBCUTAN,SUBCUTANEOUS NODULE,http://entity/CST/SKIN/SUBQ|http://entity/CST/SKINTUMOR
+http://entity/CST/NEOPL%20BIL,BILIARY NEOPLASIA,http://entity/CST/PATHMALIGN
+http://entity/CST/MATFETPOSTPART,POST-PARTUM ABNORMALITY,http://entity/CST/MATFET
+http://entity/CST/REACT%20UNEVAL,REACTION UNEVALUABLE,http://entity/CST/BODY/GEN|http://entity/CST/PATHGEN
+http://entity/CST/CARDIOMYOPATHY,CARDIOMYOPATHY,http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/GEN
+http://entity/CST/GYN,GYNECOLOGIC DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/COLITIS,COLITIS,http://entity/CST/GIBOWEL
+http://entity/CST/CEPH%20FLOC%20ABNORM,CEPHALIN FLOCULATION TEST ABNORMAL,http://entity/CST/GIHEPATOCELL|http://entity/CST/HAL/GEN
+http://entity/CST/GANGRENE,GANGRENE,http://entity/CST/BODY/GEN
+http://entity/CST/PATHTHROMBVEN,THROMBOSIS VENOUS,http://entity/CST/PATH
+http://entity/CST/MS/BON/GEN,"Bone Disorders, General and NEC",http://entity/CST/MS/BON
+http://entity/CST/COMA%20UREMIC,UREMIC COMA,http://entity/CST/RENALFUNC|http://entity/CST/UG/UT/K|http://entity/CST/MAN/ION/N
+http://entity/CST/LARYNGISMUS,LARYNGISMUS,http://entity/CST/PULMGEN
+http://entity/CST/HYPOCHOLESTEREM,HYPOCHOLESTEREMIA,http://entity/CST/MAN/LIP|http://entity/CST/METLIPID
+http://entity/CST/SKINOTHER,OTHER SKIN DISORDERS,http://entity/CST/SKIN
+http://entity/CST/GEN,NONSPECIFIC DISORDERS,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/FIBRO%20INJECT%20SITE,INJECTION SITE FIBROSIS,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/STY/T043,Cell Function,http://entity/STY/T039
+http://entity/CST/CRETIN,CRETINISM,http://entity/CST/MATFETBIRTH|http://entity/CST/ENDOTHYR
+http://entity/CST/HAL/PLAT/INC,platelets increased,http://entity/CST/HAL/PLAT
+http://entity/CST/ENDORENIN,RENIN/ALDOSTERONE ABNORMALITY,http://entity/CST/ENDO
+http://entity/CST/ARTERIOSCLEROSIS,ARTERIOSCLEROSIS,http://entity/CST/CV/VASC/ART
+http://entity/CST/LYMPHEDEMA,LYMPHEDEMA,http://entity/CST/HAL/LYM/GEN|http://entity/CST/CVVEIN
+http://entity/CST/AMENORRHEA,AMENORRHEA,http://entity/CST/ENDOOVARIAN|http://entity/CST/UG/FG/MENS|http://entity/CST/ENDOPIT
+http://entity/CST/FERTIL%20DEC%20MALE,FERTILITY DECREASED MALE,http://entity/CST/ENDO/GEN|http://entity/CST/ENDOTEST
+http://entity/CST/SUICIDE%20ATTEMPT,SUICIDE ATTEMPT,http://entity/CST/BODY/GEN|http://entity/CST/NERDEPRESS
+http://entity/CST/PATHLABTEST,LAB ERROR FALSE POSITIVE,http://entity/CST/PATH
+http://entity/CST/HYSN%20INJECT%20SITE,INJECTION SITE HYPERSENSITIVITY,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT|http://entity/CST/PATHHYSN
+http://entity/STY/T086,Nucleotide Sequence,http://entity/STY/T085
+http://entity/CST/HYPERESTHESIA,HYPERESTHESIA,http://entity/CST/NERSENS|http://entity/CST/NER/GEN
+http://entity/CST/ATROPHY%20INJECT%20SITE,INJECTION SITE ATROPHY,http://entity/CST/BODY/GEN|http://entity/CST/GENINJECT
+http://entity/CST/GANGRENE%20INTEST,INTESTINAL GANGRENE,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/GIGANTISM,GIGANTISM,http://entity/CST/MAN/GRO|http://entity/CST/ENDOPIT
+http://entity/CST/ANEMIA%20HEMOL%20DCN,HEMOLYTIC ANEMIA DIRECT COOMBS NEGATIVE,http://entity/CST/HEMOLYSIS|http://entity/CST/HEMRBCDEC|http://entity/CST/HAL/RBC/DEC
+http://entity/CST/MEGACOLON,MEGACOLON,http://entity/CST/GIBOWEL
+http://entity/CST/UG/MG/TEST,testis (excluding endocrine function),http://entity/CST/UG/MG
+http://entity/CST/PAIN%20ABDO,ABDOMINAL PAIN,http://entity/CST/GENABDO|http://entity/CST/BODY/ABDO
+http://entity/CST/CREATININE%20INC,CREATININE INCREASED,http://entity/CST/RENALFUNC|http://entity/CST/RENALGLOM|http://entity/CST/MAN/ION/N
+http://entity/CST/HYPERNATREM,HYPERNATREMIA,http://entity/CST/METGEN|http://entity/CST/MAN/ION/NA
+http://entity/CST/THROM%20CEREBR,CEREBRAL THROMBOSIS,http://entity/CST/NERSTROKE|http://entity/CST/CV/VASC/GEN|http://entity/CST/PATHTROMBART
+http://entity/CST/NERPSYCHNOS,PSYCHIATRIC NONSPECIFIC,http://entity/CST/NER
+http://entity/CST/ENDOPIT,HYPOTHALMIC/PITUITARY,http://entity/CST/ENDO
+http://entity/CST/ANOMALY%20CONGEN%20CNS,CNS CONGENITAL ANOMALY,http://entity/CST/MATFETBIRTH|http://entity/CST/NER/GEN
+http://entity/CST/BABINSKI%20SIGN%20POS,BABINSKI SIGN POSITIVE,http://entity/CST/NERGEN|http://entity/CST/NER/CNS
+http://entity/CST/PURPURA%20FULMINANS,PURPURA FULMINANS,http://entity/CST/HEMHMRG|http://entity/CST/HAL/COAG/GEN|http://entity/CST/HEMCLOTDEC
+http://entity/STY/T056,Daily or Recreational Activity,http://entity/STY/T052
+http://entity/CST/NO%20DRUG%20EFFECT,LACK OF DRUG EFFECT,http://entity/CST/BODY/GEN|http://entity/CST/PATHEFCK
+http://entity/CST/NEOPL%20LIVER,HEPATIC NEOPLASIA,http://entity/CST/PATHMALIGN
+http://entity/CST/FIBRINOLYSIS%20INC,FIBRINOLYSIS INCREASED,http://entity/CST/GENSIGNS|http://entity/CST/PATHDIC|http://entity/CST/HEMCLOTDEC|http://entity/CST/HAL/COAG/CF
+http://entity/CST/BLEED%20TIME%20INC,BLEEDING TIME INCREASED,http://entity/CST/HAL/COAG/BT|http://entity/CST/HEMCLOTDEC
+http://entity/CST/FERTIL%20DEC%20FEM,FERTILITY DECREASED FEMALE,http://entity/CST/GYNFERTIL|http://entity/CST/ENDOOVARIAN|http://entity/CST/ENDO/GEN|http://entity/CST/GYNUTER
+http://entity/CST/RADIAT%20INJ,RADIATION INJURY,http://entity/CST/BODY/GEN|http://entity/CST/PATHRAD
+http://entity/CST/CHOLINESTERASE%20DEC,CHOLINESTERASE DECREASED,http://entity/CST/MAN/ENZ|http://entity/CST/ANSPSYM/M
+http://entity/CST/PARAPLEGIA,PARAPLEGIA,http://entity/CST/NERGEN
+http://entity/CST/MARROW%20DEPRESS,MARROW DEPRESSION,http://entity/CST/HEMRBCDEC|http://entity/CST/HEMPLATDEC|http://entity/CST/HEMMARDEPRESS|http://entity/CST/HAL/MAR/DEC|http://entity/CST/HEMWBCDEC
+http://entity/CST/RETICMALIG,MALIGNANCY,http://entity/CST/RETIC
+http://entity/CST/ANOMALY%20CONGEN%20UG,UROGENITAL ANOMALY,http://entity/CST/UG/GEN|http://entity/CST/MATFETBIRTH
+http://entity/CST/ULCER%20INTEST%20PER%20JEJ,PERFORATED ULCER OF JEJUNUM,http://entity/CST/GIBOWEL
+http://entity/CST/PAIN%20EAR,EAR PAIN,http://entity/CST/GENEAR|http://entity/CST/SS/EAR/GEN
+http://entity/CST/LEUKEMIA%20CHRON,CHRONIC LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/FEVER,FEVER,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS
+http://entity/CST/CHONDRODYST,CHONDRODYSTROPHY,http://entity/CST/GENBONE|http://entity/CST/MS/CART
+http://entity/CST/MS/TEN,Tendinous Disorders,http://entity/CST/MS
+http://entity/CST/GROWTH%20ACCELER,GROWTH ACCELERATED,http://entity/CST/MAN/GRO|http://entity/CST/ENDOPIT
+http://entity/CST/SKININFECT,SKIN INFECTION/INFLAMMATION,http://entity/CST/SKIN
+http://entity/CST/UG/MG,Male Genital Disorders,http://entity/CST/UG
+http://entity/CST/HEM,HEMORRHAGE,http://www.w3.org/2002/07/owl#Thing|http://entity/CST/HEMHMRG|http://entity/CST/GENSIGNS|http://entity/CST/PATHHEM|http://entity/CST/CV/VASC/GEN
+http://entity/CST/ANGIOEDEMA,ANGIOEDEMA,http://entity/CST/SKIN/DERM/GEN|http://entity/CST/PATHHYSN|http://entity/CST/SKINOTHER
+http://entity/CST/NEURITIS,NEURITIS,http://entity/CST/NER/PNS|http://entity/CST/NERMOTOR
+http://entity/CST/PROTHROMBIN%20INC,PROTHROMBIN INCREASED,http://entity/CST/HEMCLOTINC|http://entity/CST/HAL/COAG/CF
+http://entity/STY/T097,Professional or Occupational Group,http://entity/STY/T096
+http://entity/CST/ALOPECIA,ALOPECIA,http://entity/CST/SKIN/HAIR|http://entity/CST/SKINDYSFUNCT
+http://entity/CST/STENO%20BLADDER,BLADDER STENOSIS,http://entity/CST/UG/UT/B/M|http://entity/CST/GUBLADDER
+http://entity/CST/CINCHONISM,CINCHONISM,http://entity/CST/BODY/MULT|http://entity/CST/PATHDRUG|http://entity/CST/PATHINTOX
+http://entity/CST/OPHRETVASC,RETINAL VASCULAR,http://entity/CST/OPH
+http://entity/CST/HYPOKALEM,HYPOKALEMIA,http://entity/CST/METK|http://entity/CST/MAN/ION/K
+http://entity/CST/PURPURA%20THROMBOPEN,THROMBOCYTOPENIC PURPURA,http://entity/CST/HAL/PLAT/DEC|http://entity/CST/HEMHMRG|http://entity/CST/HEMCLOTDEC|http://entity/CST/PATHHEM|http://entity/CST/HEMPLATDEC
+http://entity/CST/PALLOR,PALLOR,http://entity/CST/GENSIGNS|http://entity/CST/CV/VASC/CAP|http://entity/CST/HEMRBCDEC|http://entity/CST/PATHHEM
+http://entity/CST/MAN/ION/CA,Calcium Disorders,http://entity/CST/MAN/ION
+http://entity/CST/PERICARDITIS,PERICARDITIS,http://entity/CST/CVHTMYO|http://entity/CST/CV/CARD/PER
+http://entity/CST/SS/TST,Taste Disorders (Gustatory Sense),http://entity/CST/SS
+http://entity/CST/OCCLUS%20MESENTER%20ART,MESENTERIC ARTERIAL OCCLUSION,http://entity/CST/CV/VASC/ART|http://entity/CST/PATHTROMBART
+http://entity/STY/T102,Group Attribute,http://entity/STY/T077
+http://entity/CST/ENDO/ADR,Adrenal,http://entity/CST/ENDO
+http://entity/CST/VULVOVAGINITIS,VULVOVAGINITIS,http://entity/CST/GYNVAG
+http://entity/CST/OBSTRUCT%20INTEST,INTESTINAL OBSTRUCTION,http://entity/CST/DIG/EC|http://entity/CST/GIBOWEL
+http://entity/CST/CHEILITIS,CHEILITIS,http://entity/CST/DIG/BUC|http://entity/CST/GIORPHAN
+http://entity/STY/T033,Finding,http://entity/STY/T077
+http://entity/CST/PREGN%20TEST%20FALSE%20POS,FALSE POSITIVE PREGNANCY TEST,http://entity/CST/GYNFERTIL|http://entity/CST/UG/FG/PREG
+http://entity/CST/TACHYCARDIA%20VENT,VENTRICULAR TACHYCARDIA,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/KIDNEY%20CALCULUS,KIDNEY CALCULUS,http://entity/CST/UG/UT/K/M|http://entity/CST/RENALCALC
+http://entity/CST/MAN/ION/H,Hydrogen Disorders,http://entity/CST/MAN/ION
+http://entity/CST/WEIGHT%20DEC,WEIGHT LOSS,http://entity/CST/GENSIGNS|http://entity/CST/MAN/WT
+http://entity/CST/ANURIA,ANURIA,http://entity/CST/RENALFUNC|http://entity/CST/UG/UT/K/F
+http://entity/CST/VULVOVAGINAL%20DIS,VULVOVAGINAL DISORDER,http://entity/CST/GYNVAG
+http://entity/CST/ANISOCORIA,ANISOCORIA,http://entity/CST/CV/VASC/ART|http://entity/CST/ANSSYM/L|http://entity/CST/OPHACCOM
+http://entity/CST/ENCEPHALOCELE,ENCEPHALOCELE,http://entity/CST/MATFETBIRTH|http://entity/CST/BODY/HEAD
+http://entity/CST/IMPOTENCE,IMPOTENCE,http://entity/CST/UG/MG/GEN|http://entity/CST/GUSEXDYS
+http://entity/CST/HYPERTENS%20PULM,PULMONARY HYPERTENSION,http://entity/CST/RES/GEN|http://entity/CST/PULMVASC|http://entity/CST/CV/VASC
+http://entity/CST/FLUOROSIS,FLUOROSIS,http://entity/CST/GENBONE|http://entity/CST/MAN/ION/FL|http://entity/CST/PATHDRUG|http://entity/CST/MS/BON/GEN
+http://entity/CST/MONILIA%20VAGINA,VAGINAL MONILIASIS,http://entity/CST/PATHINFECT|http://entity/CST/GYNVAG
+http://entity/CST/SKIN/SWGL,Sweat Gland Disorders,
+http://entity/CST/ABSCESS%20BREAST,BREAST ABSCESS,http://entity/CST/GENBREAST|http://entity/CST/MATFETPOSTPART
+http://entity/CST/METPORPHYRIA,PORPHYRIA,http://entity/CST/MET
+http://entity/CST/ADREN%20DIS,ADRENAL DISORDER,http://entity/CST/ENDO/ADR|http://entity/CST/ENDOADREN
+http://entity/CST/LEUKEMIA%20ACUTE,ACUTE LEUKEMIA,http://entity/CST/HAL/WBC/GEN|http://entity/CST/PATHMALIGN
+http://entity/CST/NEOPL%20BREAST,BREAST NEOPLASM,http://entity/CST/GENBREAST|http://entity/CST/PATHMALIGN
+http://entity/CST/BUCCOGLOSSAL%20SYND,BUCCOGLOSSAL SYNDROME,http://entity/CST/GIORPHAN
+http://entity/CST/EYE%20DIS,EYE DISORDER,http://entity/CST/SS/EYE/GEN|http://entity/CST/OPHVIS
+http://entity/STY/T194,Archaeon,http://entity/STY/T001
+http://entity/CST/BLOOD%20DYSCRASIA,BLOOD DYSCRASIA,http://entity/CST/HEMRBCDEC|http://entity/CST/HEMPLATDEC|http://entity/CST/HEMMARDEPRESS|http://entity/CST/HAL/GEN|http://entity/CST/HEMWBCDEC
+http://entity/CST/HAL/RBC/INC,erythrocytes increased,http://entity/CST/HAL/RBC
+http://entity/CST/PSP%20DEC,PSP EXCRETION DECREASED,http://entity/CST/RENALTUBULE|http://entity/CST/UG/UT/K/F
+http://entity/CST/OSTEOSCLEROSIS,OSTEOSCLEROSIS,http://entity/CST/GENBONE|http://entity/CST/MS/BON/GEN
+http://entity/CST/HYPERCALCEM,HYPERCALCEMIA,http://entity/CST/METCA/PHOS|http://entity/CST/MAN/ION/CA
+http://entity/CST/HAL,Hemic and Lymphatic System,http://www.w3.org/2002/07/owl#Thing
+http://entity/CST/HYPOTHERMIA,HYPOTHERMIA,http://entity/CST/BODY/GEN|http://entity/CST/GENSIGNS|http://entity/CST/ENDOTHYR
+http://entity/CST/ENDO/PAN,Pancreas (endocrine only),http://entity/CST/ENDO
+http://entity/CST/MS/GEN,Musculo-skeletal System,http://entity/CST/MS
+http://entity/CST/APHASIA,APHASIA,http://entity/CST/NERCOGN
+http://entity/CST/CYSTITIS,CYSTITIS,http://entity/CST/UG/UT/B/M|http://entity/CST/GUBLADDER
+http://entity/CST/VOMIT,VOMITING,http://entity/CST/DIG/GEN|http://entity/CST/GIGASTDUO
+http://entity/CST/ENDOADREN,ADRENAL DYSFUNCTION,http://entity/CST/ENDO
+http://entity/CST/CVVEIN,VEINS/LYMPHATICS,http://entity/CST/CV
+http://entity/CST/DYSKINESIA%20TARDIVE,TARDIVE DYSKINESIA,http://entity/CST/NERMOVE
+http://entity/CST/MISUSEMED,MISUSE,http://entity/CST/GEN
+http://entity/CST/COGWHEEL%20RIGID,COGWHEEL RIGIDITY,http://entity/CST/NERMOVE
+http://entity/CST/UREMIA,UREMIA,http://entity/CST/RENALFUNC|http://entity/CST/RENALGLOM|http://entity/CST/MAN/ION/N|http://entity/CST/UG/UT/K/F
+http://entity/CST/CV/CARD,Cardiac Disorders,http://entity/CST/CV
+http://entity/CST/EEG%20ABNORM,ABNORMAL ELECTROENCEPHALOGRAM,http://entity/CST/NERCOGN
+http://entity/CST/CORNEAL%20LESION,CORNEAL LESION,http://entity/CST/OPHCORNEA
+http://entity/CST/UROLITH,UROLITHIASIS,http://entity/CST/UG/UT/URN|http://entity/CST/RENALCALC|http://entity/CST/GUBLADDER
+http://entity/CST/ULCER%20PEPTIC%20REACT,REACTIVATED PEPTIC ULCER,http://entity/CST/DIG/GD|http://entity/CST/GIGASTDUO
+http://entity/STY/T012,Bird,http://entity/STY/T010
+http://entity/CST/CARCINOMA%20PROSTATE,PROSTATIC CARCINOMA,http://entity/CST/PATHMALIGN|http://entity/CST/GUPROST
+http://entity/STY/T087,Amino Acid Sequence,http://entity/STY/T085
+http://entity/CST/BROMISM,BROMISM,http://entity/CST/MAN/ION/BR|http://entity/CST/BODY/MULT|http://entity/CST/PATHINTOX
+http://entity/CST/RHINITIS,RHINITIS,http://entity/CST/PATHHYSN
+http://entity/CST/CARCINOMA%20MOUTH,CARCINOMA OF MOUTH,http://entity/CST/DIG/BUC|http://entity/CST/PATHMALIGN
+http://entity/CST/LIVER%20CIRRHO,CIRRHOSIS OF LIVER,http://entity/CST/GIHEPCHRONIC
+http://entity/CST/FIBRILLAT%20ATR,ATRIAL FIBRILLATION,http://entity/CST/CV/CARD/ARR|http://entity/CST/CVHTRHYTHM
+http://entity/CST/CHOLECYST,CHOLECYSTITIS,http://entity/CST/GIBILIARY|http://entity/CST/GIHEPOBSTRUCT
+http://entity/CST/CV/CARD/GEN,"Cardiac Disorders, General, Functional and NEC",http://entity/CST/CV/CARD
+http://entity/CST/HYPOGLYCEM,HYPOGLYCEMIA,http://entity/CST/MAN/CHO|http://entity/CST/ENDODIABETES
+http://entity/CST/GONADOTR%20DEC%20LH,GONADOTROPIC LUTEINIZING HORMONE DECREASED,http://entity/CST/ENDO/PIT/ANT|http://entity/CST/ENDOPIT
+http://entity/CST/NEOPL%20UG,UROGENITAL NEOPLASIA,http://entity/CST/UG/GEN|http://entity/CST/PATHMALIGN
+http://entity/STY/T122,Biomedical or Dental Material,http://entity/STY/T120
+http://entity/CST/WITHDRAW%20BLEED,WITHDRAWAL BLEEDING,http://entity/CST/HEMHMRG|http://entity/CST/GYNUTER
+http://entity/CST/GYNECOMASTIA,GYNECOMASTIA,http://entity/CST/GENBREAST
+http://entity/CST/ENDO/ADR/COR,Cortex,http://entity/CST/ENDO/ADR
+http://entity/STY/T197,Inorganic Chemical,http://entity/STY/T104
