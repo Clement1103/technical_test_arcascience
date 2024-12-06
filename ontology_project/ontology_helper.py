@@ -1,4 +1,3 @@
-import pandas as pd
 import networkx as nx
 
 
@@ -8,9 +7,11 @@ def check_required_columns(dataframe):
     if missing_columns:
         raise ValueError(f'The following columns are missing in the csv file: {', '.join(missing_columns)}')
 
+
 def replace_nan_values(dataframe):
     dataframe['Parents'] = dataframe['Parents'].apply(lambda x: 'None' if isinstance(x, float) else x)
     return dataframe
+
 
 def rename_duplicates(column):
     counts = {}
@@ -26,6 +27,7 @@ def rename_duplicates(column):
 
     return new_values
 
+
 def identify_cycles(dataframe):
     graph = nx.DiGraph()
     for _, row in dataframe.iterrows():
@@ -39,6 +41,7 @@ def identify_cycles(dataframe):
         cycle_nodes = set()
     dataframe['In Cycle'] = dataframe['Class ID'].apply(lambda x: x in cycle_nodes)
     return dataframe
+
 
 def preprocess_dataframe(dataframe):
     check_required_columns(dataframe)
@@ -72,12 +75,18 @@ def get_ontology(entity_label, dataframe, level=0, ontology=None):
 
     return ontology
 
+
 def initialize_empty_dictionary_from_df(dataframe):
     list_labels = list(dataframe['Preferred Label'].unique())
     dictionary = {label: 0 for label in list_labels}
     return dictionary
 
+
 def fill_dictionary_with_ontology_results(empty_dict, onto_dict):
     for k, v in onto_dict.items():
         empty_dict[k] = v
     return empty_dict
+
+
+def sort_dictionary(dictionary):
+    return {k: v for k, v in sorted(dictionary.items(), key=lambda item: item[1], reverse=True)}
