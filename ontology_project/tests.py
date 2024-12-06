@@ -171,21 +171,35 @@ class MyTestCase(unittest.TestCase):
         self.assertDictEqual(target_dict, dict_obtained_from_filling)
 
     def test_sort_dictionary(self):
-        unsorted_dict = {'a': 0,
+        unsorted_dict1 = {'a': 0,
                          'b': 1,
                          'c': 2,
                          'd': 0
                          }
 
-        target_dict = {'c': 2,
+        target_dict1 = {'c': 2,
                        'b': 1,
                        'a': 0,
                        'd': 0
                        }
 
-        dict_sorted = sort_dictionary(unsorted_dict)
-        self.assertDictEqual(target_dict, dict_sorted)
+        dict_sorted1 = sort_dictionary(unsorted_dict1)
+        self.assertDictEqual(target_dict1, dict_sorted1)
 
+        unsorted_dict2 = {'a': 0,
+                          'b': 1,
+                          'c': 'In a cyclic parentship (direct parent: B)',
+                          'd': 0
+                          }
+
+        target_dict2 = {'c': 'In a cyclic parentship (direct parent: B)',
+                        'b': 1,
+                        'a': 0,
+                        'd': 0
+                        }
+
+        dict_sorted2 = sort_dictionary(unsorted_dict2)
+        self.assertDictEqual(target_dict2, dict_sorted2)
 
 if __name__ == '__main__':
     unittest.main()

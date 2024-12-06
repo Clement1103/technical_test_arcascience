@@ -89,4 +89,4 @@ def fill_dictionary_with_ontology_results(empty_dict, onto_dict):
 
 
 def sort_dictionary(dictionary):
-    return {k: v for k, v in sorted(dictionary.items(), key=lambda item: item[1], reverse=True)}
+    return {k: v for k, v in sorted(dictionary.items(), key=lambda item: (isinstance(item[1], str), item[1]), reverse=True)}
