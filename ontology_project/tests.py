@@ -76,7 +76,8 @@ class MyTestCase(unittest.TestCase):
     def test_ontology_simple_case(self):
         df = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D'],
                            'Preferred Label': ['a', 'b', 'c', 'd'],
-                           'Parents': ['B', 'C', 'D', 'E']})
+                           'Parents': ['B', 'C', 'D', 'E'],
+                           'In Cycle': [False, False, False, False]})
 
         target_ontology = {'a':0,
                            'b':1,
@@ -90,7 +91,8 @@ class MyTestCase(unittest.TestCase):
     def test_ontology_several_parents(self):
         df1 = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D'],
                            'Preferred Label': ['a', 'b', 'c', 'd'],
-                           'Parents': ['B', 'C|D', 'E', 'F']})
+                           'Parents': ['B', 'C|D', 'E', 'F'],
+                           'In Cycle': [False, False, False, False]})
 
         target_ontology1 = {'a': 0,
                            'b': 1,
@@ -103,7 +105,8 @@ class MyTestCase(unittest.TestCase):
 
         df2 = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D', 'E'],
                             'Preferred Label': ['a', 'b', 'c', 'd', 'e'],
-                            'Parents': ['B|C', 'None', 'D|E', 'None', 'None']})
+                            'Parents': ['B|C', 'None', 'D|E', 'None', 'None'],
+                            'In Cycle': [False, False, False, False, False]})
 
         target_ontology2 = {'a': 0,
                             'b': 1,
@@ -114,6 +117,24 @@ class MyTestCase(unittest.TestCase):
 
         complex_ontology2 = get_ontology('a', df2)
         self.assertDictEqual(target_ontology2, complex_ontology2)
+
+    def test_ontology_cyclic_parentship(self):
+        df_with_cycles = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D', 'E'],
+                                       'Preferred Label': ['a', 'b', 'c', 'd', 'e'],
+                                       'Parents': ['B|C', 'A', 'D|E', 'None', 'None'],
+                                       'In Cycle': [True, True, False, False, False]})
+
+        target_ontology1 = {'a': 'In a cyclic parentship (direct parents: B|C)'}
+        complex_ontology1 = get_ontology('a', df_with_cycles)
+        self.assertDictEqual(target_ontology1, complex_ontology1)
+
+        target_ontology2 = {'c': 0,
+                            'd': 1,
+                            'e': 1}
+        complex_ontology2 = get_ontology('c', df_with_cycles)
+        self.assertDictEqual(target_ontology2, complex_ontology2)
+
+
 
 if __name__ == '__main__':
     unittest.main()

@@ -56,6 +56,10 @@ def get_ontology(entity_label, dataframe, level=0, ontology=None):
     if df_tmp.empty:
         return ontology
 
+    if df_tmp['In Cycle'].iloc[0]:
+        ontology[entity_label] = f'In a cyclic parentship (direct parents: {df_tmp['Parents'].iloc[0]})'
+        return ontology
+
     ontology[entity_label] = level
 
     parent_ids = df_tmp['Parents'].iloc[0]
