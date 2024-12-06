@@ -8,14 +8,15 @@ class MyTestCase(unittest.TestCase):
                            'Preferred Label': ['a', 'b', 'c', 'd'],
                            'Parents': ['B', 'C', 'D', 'E']})
 
-        df_with_wrong_labels = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D'],
-                            'Label': ['a', 'b', 'c', 'd'],
-                            'Parent': ['B', 'C', 'D', 'E']})
-
         try:
             check_required_columns(df_with_right_labels)
         except Exception as e:
             self.fail(f"check_required_columns raised an unexpected error: {e}")
+
+        df_with_wrong_labels = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D'],
+                            'Label': ['a', 'b', 'c', 'd'],
+                            'Parent': ['B', 'C', 'D', 'E']})
+
 
         with self.assertRaises(ValueError) as context:
             check_required_columns(df_with_wrong_labels)
@@ -134,7 +135,39 @@ class MyTestCase(unittest.TestCase):
         complex_ontology2 = get_ontology('c', df_with_cycles)
         self.assertDictEqual(target_ontology2, complex_ontology2)
 
+    def test_dict_initialization(self):
+        df = pd.DataFrame({'Class ID': ['A', 'B', 'C', 'D'],
+                           'Preferred Label': ['a', 'b', 'c', 'd'],
+                           'Parents': ['B', 'C', 'D', 'E']})
 
+        target_dict = {'a':0,
+                       'b':0,
+                       'c':0,
+                       'd':0
+                       }
 
+        dict_obtained_from_df = initialize_empty_dictionary_from_df(df)
+        self.assertDictEqual(target_dict, dict_obtained_from_df)
+
+    def test_dict_filling(self):
+        dict_onto = {'b':1,
+                     'c':2
+                     }
+
+        dict_empty = {'a':0,
+                      'b':0,
+                      'c':0,
+                      'd':0
+                      }
+
+        target_dict = {'a':0,
+                       'b':1,
+                       'c':2,
+                       'd':0
+                      }
+
+        dict_obtained_from_filling = fill_dictionary_with_ontology_results(dict_empty, dict_onto)
+        self.assertDictEqual(target_dict, dict_obtained_from_filling)
+        
 if __name__ == '__main__':
     unittest.main()

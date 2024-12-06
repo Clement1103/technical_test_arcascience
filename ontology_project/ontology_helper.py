@@ -71,3 +71,13 @@ def get_ontology(entity_label, dataframe, level=0, ontology=None):
             get_ontology(parent_label, dataframe, level + 1, ontology)
 
     return ontology
+
+def initialize_empty_dictionary_from_df(dataframe):
+    list_labels = list(dataframe['Preferred Label'].unique())
+    dictionary = {label: 0 for label in list_labels}
+    return dictionary
+
+def fill_dictionary_with_ontology_results(empty_dict, onto_dict):
+    for k, v in onto_dict.items():
+        empty_dict[k] = v
+    return empty_dict
