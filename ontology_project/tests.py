@@ -28,7 +28,18 @@ class MyTestCase(unittest.TestCase):
         df_with_duplicates_renamed['Preferred Label'] = rename_duplicates(df_with_duplicates_renamed['Preferred Label'])
         pd.testing.assert_frame_equal(target_df, df_with_duplicates_renamed)
 
+    def test_cycles_identification(self):
+        df_with_cyles = pd.DataFrame({'Class ID': ['http://entity1/', 'http://entity2/', 'http://entity3/'],
+                           'Preferred Label': ['entity1', 'entity2', 'entity1'],
+                           'Parents': ['http://entity2/', 'http://entity1/', 'http://entity4/']})
 
+        target_df = pd.DataFrame({'Class ID': ['http://entity1/', 'http://entity2/', 'http://entity3/'],
+                           'Preferred Label': ['entity1', 'entity2', 'entity1'],
+                           'Parents': ['http://entity2/', 'http://entity1/', 'http://entity4/'],
+                           'In Cycle': [True, True, False]})
+
+        df_with_cycles_identified = identify_cycles(df_with_cyles)
+        pd.testing.assert_frame_equal(target_df, df_with_cycles_identified)
 
 if __name__ == '__main__':
     unittest.main()
