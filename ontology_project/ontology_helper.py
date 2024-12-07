@@ -132,18 +132,13 @@ def get_ontology(entity_label, dataframe, level=0, ontology=None):
           hierarchy, or a message indicating a cycle if detected.
 
     """
+
+
     if ontology is None:
         ontology = {}
 
-    if entity_label not in dataframe['Preferred Label'].values:
-        raise ValueError(f"The entity label '{entity_label}' does not exist in the 'Preferred Label' column.")
-
     df_tmp = dataframe[dataframe['Preferred Label'] == entity_label]
     if df_tmp.empty:
-        return ontology
-
-    if df_tmp['In Cycle'].iloc[0]:
-        ontology[entity_label] = f'In a cyclic parenthood (direct parents: {df_tmp['Parents'].iloc[0]})'
         return ontology
 
     ontology[entity_label] = level
@@ -153,8 +148,12 @@ def get_ontology(entity_label, dataframe, level=0, ontology=None):
     for parent_id in parent_ids.split('|'):
         parent_row = dataframe[dataframe['Class ID'] == parent_id]
         if not parent_row.empty:
-            parent_label = parent_row['Preferred Label'].iloc[0]
-            get_ontology(parent_label, dataframe, level + 1, ontology)
+            if parent_row['In Cycle'].iloc[0] == True:
+                ontology[
+                    entity_label] = f"Entered a cyclic parenthood at level {level} (direct parents: {df_tmp['Parents'].iloc[0]}). The parenthood concerning the {parent_row['Preferred Label'].iloc[0]}'s branch will be ignored."
+            else:
+                parent_label = parent_row['Preferred Label'].iloc[0]
+                get_ontology(parent_label, dataframe, level + 1, ontology)
 
     return ontology
 
