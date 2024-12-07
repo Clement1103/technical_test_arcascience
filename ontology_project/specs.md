@@ -77,24 +77,46 @@ En pratique, j'ai d'abord considéré le cas simple d'une branche dans laquelle 
 
 Une fois cette fonction écrite, il était simple de la modifier pour qu'elle devienne récursive et s'applique lorsqu'une entité possède plusieurs parents. J'ai finalement abouti à la fonction *get_ontology*.
 
-J'ai pris la décision d'arrêter la boucle de récursivité quand on tombait sur un élément présent dans un cycle. Le dictionnaire retourné contient alors le début de la parentalité, puis une mention indiquant qu'on entre dans une boucle :
+J'ai pris la décision d'ignorer la branche concernée par la boucle de récursivité quand on tombait sur un élément présent dans un cycle. Le dictionnaire retourné contient alors le début de la parentalité, puis une mention indiquant qu'on entre dans une boucle, et le reste de la parentalité :
 ```
-=== Exemple de l'entité 'PETECHIA' ===
+==== Exemple avec l'entité ANEMIA ====
 {
-"HEMORRHAGE": "In a cyclic parenthood (direct parents: http://entity/CST/HEM)",
+"RBC DECREASED": "Entered a cyclic parentship at level 1 (direct parents: http://entity/CST/HEM). The parenthood concerning the HEMORRHAGE_2's branch will be ignored.",
 "Hemic and Lymphatic System": 3,
-"Coagulation Disorders": 2,
-"Coagulation Disorders, General and NEC": 1,
-"PETECHIA": 0
+"Erythrocyte Abnormalities": 2,
+"erythrocytes decreased": 1,
+"HYPOCHLOREMIA": 0
 }
 ```
 
-Cette solution permet certes d'éviter des boucles infinies, mais empêche d'obtenir l'ensemble des relations de parentés lorsque l'entité 'HEMORRHAGE' est présent dans la branche. Dans le cadre restreint de ce travail, il aurait sûrement été plus judicieux de simplement supprimer cette relation, mais je souhaitais écrire un programme flexible aux modifications du CSV. 
+Cette solution permet d'éviter des boucles infinies, tout en indiquant à l'utilisateur qu'une des entités fait partie d'une boucle. J'ai adopté cette solution car je la trouve versatile, et devrait rester fonctionnelle pour l'utilisation d'autres fichiers CSV.
 
-Ensuite, pour obtenir un résultat conforme aux exigences, j'ai d'abord initialisé un dictionnaire vide ayant pour clés l'ensemble des labels distincts, puis j'ai intégré à ce dictionnaire le résultat de la fonction *get_ontology*. Enfin, j'ai ordonné le dictionnaire dans l'ordre décroissant des valeurs. 
+Ensuite, pour obtenir un résultat conforme aux exigences, j'ai d'abord initialisé un dictionnaire vide ayant pour clés l'ensemble des labels distincts, puis j'ai intégré à ce dictionnaire le résultat de la fonction *get_ontology*. Enfin, j'ai ordonné le dictionnaire dans l'ordre décroissant des valeurs pour améliorer sa lisibilité. 
 
 
 ## Phase 3 : La conversion du programme en API, puis son déploiement avec Docker
-Dans cette phase, nous expli
 
+Finalement, j'ai englobé l'ensemble du travail dans une fonction main, utilisable depuis le terminal, mais aussi dans une API avec FastAPI.
+J'ai ensuite créé une image Docker, appelée 'ontology_api' contenant l'ensemble de mon travail. Elle contient tous les fichiers nécessaires à l'execution du script.
 
+L'image est disponible sur DockerHub, et on peut la pull avec la commande suivante :
+``` 
+docker pull baraillecl/ontology-api:latest
+```
+Voici, dans chacun des cas, comment appeler l'API' :
+
+### Avec les lignes de commande:
+
+```commandline
+docker run -e MODE=cli baraillecl/ontology-api:latest cli --label "CERVIX DISORDER" --n 10
+```
+Ici, on saisit plusieurs paramètres :
+* --label [nom de l'entité entre guillemets] : spécifie pour quelle entité on veut obtenir l'ontologie
+* --n [int] : permet de n'afficher que les n premiers éléments du dictionnaire pour améliorer la lisibilité dans le terminal. Par défaut, la valeur est fixée à 9999 pour afficher l'entièreté du dictionnaire résultant.
+* --dir_csv [chemin vers le fichier CSV] : indique le chemin du CSV contenant le tableau. Par défaut, ce paramètre a la valeur 'onto_x.csv', qui est inclut dans l'image Docker.
+
+### Avec l'API:
+
+```commandline
+docker run -e MODE=api -p 8000:8000 username/ontology-api:latest
+```

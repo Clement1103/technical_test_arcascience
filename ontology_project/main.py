@@ -9,7 +9,7 @@ app = FastAPI()
 class QueryRequest(BaseModel):
     dir_csv: str = 'onto_x.csv'
     label: str
-    n: int = 10
+    n: int = 9999
 
 @app.post('/query-ontology/')
 def query_ontology(request: QueryRequest):
