@@ -5,9 +5,9 @@
 Le but de ce projet est de construire une représentation logique de l'Onto-X qui préserve les relations d'ancêtres (directes et indirectes) et permet ainsi de reconstruire la hiérarchie des entités.
 
 J'ai divisé mon approche en trois phases distinctes :
-* [L'exploration des données et leur pré-traitement](#phase-1-lexploration-des-données-et-leur-pré-traitement)
-* [L'écriture de la fonction qui déduit les relations de parentés](#phase-2-lecriture-de-la-fonction-qui-déduit-les-relations-de-parentés)
-* [La conversion du programme en API, puis son déploiement avec Docker](#phase-3-la-conversion-du-programme-en-api-puis-son-déploiement-avec-docker)
+1. [Phase 1 : L'exploration des données et leur pré-traitement](#phase-1--lexploration-des-données-et-leur-pré-traitement)
+2. [Phase 2 : L'écriture de la fonction qui déduit les relations de parentés](#phase-2--lécriture-de-la-fonction-qui-déduit-les-relations-de-parentés)
+3. [Phase 3 : La conversion du programme en API, puis son déploiement avec Docker](#phase-3--la-conversion-du-programme-en-api-puis-son-déploiement-avec-docker)
 
 ---
 
@@ -25,7 +25,7 @@ Tout d'abord, j'ai décidé de remplacer les NaN values par la chaîne de caract
 ### Modification des entités partageant le même Preferred Label
 Sachant qu'au final, on souhaite obtenir la représentation de parentalité d'une entité à partir de son label, il serait problématique que deux entités partagent le même label. 
 
-J'ai d'abord pensé à supprimer les doublons, ce qui aurait créé des trous dans la parentalité, faussant les résultats finaux. J'ai donc décidé de les renommer en ajoutant simplement un indice derrière les les labels des doublons. De cette manière, on passe de cette représentation :
+J'ai d'abord pensé à supprimer les doublons, ce qui aurait créé des trous dans la parentalité, faussant les résultats finaux. J'ai donc décidé de les renommer en ajoutant simplement un indice derrière les labels des doublons. De cette manière, on passe de cette représentation :
 
 | Class ID        | Preferred Label | Parents         |
 |-----------------|-----------------|-----------------|
@@ -53,7 +53,7 @@ Une des entités du DataFrame ('HEMORRHAGE') présente une boucle dans la parent
 | http://entity/CST/HEMHMRG  | HEMORRHAGE      | http://entity/CST/HEM                 |
 | http://entity/CST/HEM          | HEMORRHAGE_2    | ... \| http://entity/CST/HEMHMRG \|...|
 
-Ici, il aurait été plus simple de simplement supprimer cette relation de parenté, d'autant plus que 'http://entity/CST/HEM' possède plusieurs autres parents. Toutefois, j'ai pensé que dans le cas où un autre CSV serait utilisé, possédant lui aussi des boucles, il serait important de les identifier. 
+Ici, il aurait été plus simple de supprimer cette relation de parenté, d'autant plus que 'http://entity/CST/HEM' possède plusieurs autres parents. Toutefois, j'ai pensé que dans le cas où un autre CSV serait utilisé, possédant lui aussi des boucles, il serait important de les identifier. 
 
 En me documentant, j'ai découvert que la librairie Networkx de Python permettait d'identifier facilement les boucles dans une telle structure, ce qui m'a permis d'annoter mon DataFrame avec l'appartenance ou non de l'entité à une boucle.
 
@@ -84,7 +84,7 @@ J'ai pris la décision d'ignorer la branche concernée par la boucle de récursi
 ```
 ==== Exemple avec l'entité ANEMIA ====
 {
-"RBC DECREASED": "Entered a cyclic parentship at level 1 (direct parents: http://entity/CST/HEM). The parenthood concerning the HEMORRHAGE_2's branch will be ignored.",
+"RBC DECREASED": "Entered a cyclic parenthood at level 1 (direct parents: http://entity/CST/HEM). The parenthood concerning the HEMORRHAGE_2's branch will be ignored.",
 "Hemic and Lymphatic System": 3,
 "Erythrocyte Abnormalities": 2,
 "erythrocytes decreased": 1,
@@ -116,7 +116,7 @@ docker run -e MODE=cli baraillecl/ontology-api:latest cli --label "CERVIX DISORD
 Ici, on saisit plusieurs paramètres :
 * --label [nom de l'entité entre guillemets] : spécifie pour quelle entité on veut obtenir l'ontologie
 * --n [int] : permet de n'afficher que les n premiers éléments du dictionnaire pour améliorer la lisibilité dans le terminal. Par défaut, la valeur est fixée à 9999 pour afficher l'entièreté du dictionnaire résultant.
-* --dir_csv [chemin vers le fichier CSV] : indique le chemin du CSV contenant le tableau. Par défaut, ce paramètre a la valeur 'onto_x.csv', qui est inclut dans l'image Docker.
+* --dir_csv [chemin vers le fichier CSV] : indique le chemin du CSV contenant le tableau. Par défaut, ce paramètre a la valeur 'onto_x.csv', qui est inclus dans l'image Docker.
 
 L'ontologie s'affiche alors directement dans le terminal.
 
@@ -178,9 +178,9 @@ Aussi bien en utilisant Swagger que Curl, les réponses obtenues correspondent �
 The aim of this project is to build a logical representation of Onto-X that preserves ancestor relations (direct and indirect) and thus enables the hierarchy of entities to be reconstructed.
 
 I divided my approach into three different phases:
-* [Data exploration and pre-processing](#phase-1-data-exploration-and-pre-processing)
-* [Writing the function that deduces parent relationships](#phase-2-writing-the-function-that-deduces-parent-relationships)
-* [Converting the program to API, then deploying it with Docker](#phase-3-converting-the-program-to-API-then-deploying-it-with-docker)
+1. [Phase 1: Data exploration and pre-processing](#phase-1-data-exploration-and-pre-processing)
+2. [Phase 2: Writing the function that deduces parent relationships](#phase-2-writing-the-function-that-deduces-parent-relationships)
+3. [Phase 3: Converting the program into an API, then deploying it with Docker](#phase-3-converting-the-program-into-an-api-then-deploying-it-with-docker)
 
 ---
 
@@ -240,7 +240,7 @@ In the end, the pre-processed DataFrame will have the following structure:
 | http://entity/CST/HEM     | HEMORRHAGE_2    | ...\| http://entity/CST/HEMHMRG \|... | True                 
 | http://entity/x           | LabelX          | http://entity/y                       | False                
 
-## Phase 2: Writing the function that deduces kinship relationships
+## Phase 2: Writing the function that deduces parent relationships
 Once the DataFrame had been correctly processed, it was easier to write the function that deduces the parent relationships. 
 
 In practice, I first considered the simple case of a branch in which each entity has a single parent. I then wrote a function determining the depth of each relationship for such a given branch, returning a dictionary in the following format:
