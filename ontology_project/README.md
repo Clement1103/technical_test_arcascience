@@ -123,7 +123,7 @@ L'ontologie s'affiche alors directement dans le terminal.
 ### Avec l'API:
 On expose l'API au port 8000 :
 ```commandline
- docker run -e MODE=api -p 8000:8000 baraillecl/ontology-api:latest api
+ docker run -d -e MODE=api -p 8000:8000 baraillecl/ontology-api:latest api
 ```
 
 **Swagger UI**
@@ -154,7 +154,7 @@ curl -X POST "http://localhost:8000/query-ontology/" -H "Content-Type: applicati
 ```
 Les paramètres sont les mêmes que dans la rubrique précédente. 
 
-Aussi bien en utilisant Swagger que Curl, les réponses obtenues correspondent à l'ontologie pour l'entité sélectionnée.
+Aussi bien en utilisant Swagger que Curl, les réponses obtenues correspondent à l'ontologie pour l'entité sélectionnée. Un message d'erreur s'affiche si le label saisi n'est pas reconnu.
 
 ---
 
@@ -299,7 +299,7 @@ The ontology is then displayed directly in the terminal.
 ### With the API:
 The API is exposed on port 8000:
 ```commandline
- docker run -e MODE=api -p 8000:8000 baraillecl/ontology-api:latest api
+ docker run -d -e MODE=api -p 8000:8000 baraillecl/ontology-api:latest api
 ```
 
 **Swagger UI**
@@ -331,7 +331,7 @@ curl -X POST “http://localhost:8000/query-ontology/” -H “Content-Type: app
 ```
 The parameters are the same as in the previous section. 
 
-Using both Swagger and Curl, the responses obtained correspond to the ontology for the selected entity.
+Using both Swagger and Curl, the responses obtained correspond to the ontology for the selected entity. An error message is displayed if the input label name does not match any entity in the CSV.
 
 ---
 
